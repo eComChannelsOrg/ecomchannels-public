@@ -26,13 +26,13 @@ Free for 30 days. Our team sets you up and walks you through the platform.
 15 marketplaces4 couriers10 social platforms
 
 ## Products
-[Image: Amazon Australia] [Image: TikTok Shop] [Image: Temu (Local Seller)] [Image: Woolworths Everyday Market] [Image: BIG W Market] [Image: MyDeal] [Image: Bunnings Marketplace] [Image: Kmart Marketplace] 
+→
 ### [AI listing optimisation](https://ecomchannels.com/products/ai-listing-optimisation/)
 AI already trained on each marketplace’s listing rules writes titles, bullet points, descriptions and attributes, and your team approves them before they go live.
 [Image: Australia Post] [Image: StarTrack] [Image: CouriersPlease] [Image: Allied Express] 
 ### [AI auto shipping](https://ecomchannels.com/products/ai-shipping/)
 Book Australia Post, StarTrack, CouriersPlease and Allied Express from one screen, with labels, manifests and tracking sent back automatically.
-[Image: BIG W Market] [Image: MyDeal] [Image: Bunnings Marketplace] [Image: Kmart Marketplace] [Image: eBay Australia] [Image: Etsy] [Image: Myer Marketplace] [Image: THE ICONIC Marketplace] 
+
 ### [AI graphics](https://ecomchannels.com/products/ai-graphics/)
 AI already trained on every marketplace’s image rules produces product images, infographics and lifestyle shots, with one approval per image set.
 matched · short-paid · unmatched
@@ -44,9 +44,56 @@ AI plans and writes posts for Facebook, Instagram, TikTok, YouTube, LinkedIn, Pi
 [Image: Amazon Australia] [Image: TikTok Shop] [Image: Temu (Local Seller)] [Image: Woolworths Everyday Market] [Image: BIG W Market] [Image: MyDeal] [Image: Bunnings Marketplace] [Image: Kmart Marketplace] 
 ### [Order management (OMS)](https://ecomchannels.com/products/order-management/)
 One queue for every order and one stock figure for every SKU, across all your marketplaces and stores.
-[Image: Shopify] [Image: WooCommerce] 
+
 ### [Branded storefronts](https://ecomchannels.com/products/storefronts/)
 Your own fast, search-friendly web store, with products, prices and stock fed by the OMS.
+
+## See the difference: product graphics
+One phone snapshot becomes a full image set made to each marketplace's rules.
+
+Before [Image: Dim, off-centre phone photo of a water bottle on a cluttered desk] One phone snapshot
+- Dark, off-centre and cluttered
+- No feature callouts or size info
+- Fails main-image rules on most marketplaces
+
+After: marketplace-ready image set
+[Image: Clean white-background main image of the bottle with a 24 hour cold badge] 
+[Image: Infographic with callouts: 24 h cold, 12 h hot, leak-proof, BPA-free] 
+[Image: Dimensions image: 27 cm tall, 7.5 cm wide, 750 ml, 380 g] 
+[Image: Lifestyle image of the bottle outdoors on a rock with mountains] 
+Main image, infographic, dimensions and lifestyle
+- Made to each marketplace's image slots and sizes
+- Feature callouts shoppers can scan in seconds
+- One approval publishes to every channel
+
+Illustrative example with a fictional product.
+
+## See the difference: product listings
+Thin supplier data becomes a listing written for each marketplace.
+
+Before: supplier dataWater Bottle BlueSteel bottle. 750ml.
+
+- No brand, features or size in the title
+- No bullet points or search terms
+- Missing required marketplace attributes
+
+After: written to each marketplace's rules
+AmazonYourBrand 750 ml Insulated Stainless Steel Water Bottle, Leak-Proof Lid, Keeps Drinks Cold 24 Hours, BPA-Free, Blue
+- Double-wall vacuum keeps drinks cold 24 h, hot 12 h
+- Leak-proof screw lid for bags
+- 18/8 stainless steel, BPA-free115 characters, written to Amazon rules
+
+KoganYourBrand 750ml Insulated Steel Water Bottle (Blue)
+- 24 h cold / 12 h hot
+- Leak-proof lid
+- BPA-free51 characters, written to Kogan rules
+
+BunningsYourBrand 750ml Blue Insulated Water Bottle
+- Capacity: 750 ml
+- Material: 18/8 stainless steel
+- Height: 27 cm43 characters, written to Bunnings rules
+
+Illustrative example with a fictional product. Titles follow each marketplace's style and length rules.
 
 ## Marketplaces and stores
 
@@ -127,13 +174,13 @@ Updated: 2026-10-30
 
 Seven products for online retailers, all working from the same product, order and stock data.
 
-[Image: Amazon Australia] [Image: TikTok Shop] [Image: Temu (Local Seller)] [Image: Woolworths Everyday Market] [Image: BIG W Market] [Image: MyDeal] [Image: Bunnings Marketplace] [Image: Kmart Marketplace] 
+→
 ### [AI listing optimisation](https://ecomchannels.com/products/ai-listing-optimisation/)
 AI already trained on each marketplace’s listing rules writes titles, bullet points, descriptions and attributes, and your team approves them before they go live.
 [Image: Australia Post] [Image: StarTrack] [Image: CouriersPlease] [Image: Allied Express] 
 ### [AI auto shipping](https://ecomchannels.com/products/ai-shipping/)
 Book Australia Post, StarTrack, CouriersPlease and Allied Express from one screen, with labels, manifests and tracking sent back automatically.
-[Image: BIG W Market] [Image: MyDeal] [Image: Bunnings Marketplace] [Image: Kmart Marketplace] [Image: eBay Australia] [Image: Etsy] [Image: Myer Marketplace] [Image: THE ICONIC Marketplace] 
+
 ### [AI graphics](https://ecomchannels.com/products/ai-graphics/)
 AI already trained on every marketplace’s image rules produces product images, infographics and lifestyle shots, with one approval per image set.
 matched · short-paid · unmatched
@@ -145,7 +192,7 @@ AI plans and writes posts for Facebook, Instagram, TikTok, YouTube, LinkedIn, Pi
 [Image: Amazon Australia] [Image: TikTok Shop] [Image: Temu (Local Seller)] [Image: Woolworths Everyday Market] [Image: BIG W Market] [Image: MyDeal] [Image: Bunnings Marketplace] [Image: Kmart Marketplace] 
 ### [Order management (OMS)](https://ecomchannels.com/products/order-management/)
 One queue for every order and one stock figure for every SKU, across all your marketplaces and stores.
-[Image: Shopify] [Image: WooCommerce] 
+
 ### [Branded storefronts](https://ecomchannels.com/products/storefronts/)
 Your own fast, search-friendly web store, with products, prices and stock fed by the OMS.
 
@@ -164,7 +211,7 @@ Updated: 2026-10-30
 
 Write a product once. The eComChannels listing AI is already trained on the listing rules of every marketplace we support, so it adapts titles, bullet points, descriptions and attributes to each channel straight away. Your team reviews and approves the copy before it is published.
 
-[Image: Amazon Australia] [Image: TikTok Shop] [Image: Temu (Local Seller)] [Image: Woolworths Everyday Market] [Image: BIG W Market] [Image: MyDeal] [Image: Bunnings Marketplace] [Image: Kmart Marketplace] 
+→
 
 ## Features
 
@@ -185,6 +232,32 @@ Optimise a whole range at once instead of editing listings one marketplace at a 
 
 ### Consistent brand voice
 Copy follows your own style guide across Amazon, eBay, Kogan, Bunnings and your web store.
+
+## Before and after
+
+Before: supplier dataWater Bottle BlueSteel bottle. 750ml.
+
+- No brand, features or size in the title
+- No bullet points or search terms
+- Missing required marketplace attributes
+
+After: written to each marketplace's rules
+AmazonYourBrand 750 ml Insulated Stainless Steel Water Bottle, Leak-Proof Lid, Keeps Drinks Cold 24 Hours, BPA-Free, Blue
+- Double-wall vacuum keeps drinks cold 24 h, hot 12 h
+- Leak-proof screw lid for bags
+- 18/8 stainless steel, BPA-free115 characters, written to Amazon rules
+
+KoganYourBrand 750ml Insulated Steel Water Bottle (Blue)
+- 24 h cold / 12 h hot
+- Leak-proof lid
+- BPA-free51 characters, written to Kogan rules
+
+BunningsYourBrand 750ml Blue Insulated Water Bottle
+- Capacity: 750 ml
+- Material: 18/8 stainless steel
+- Height: 27 cm43 characters, written to Bunnings rules
+
+Illustrative example with a fictional product. Titles follow each marketplace's style and length rules.
 
 ## Marketplaces the listing AI is trained for
 
@@ -307,8 +380,6 @@ Updated: 2026-10-30
 
 Every marketplace wants different product images. The eComChannels graphics AI is already trained on each marketplace’s image rules (image count, sizes, backgrounds and infographic slots), produces the graphics to match, and publishes approved images to every channel that uses the set.
 
-[Image: BIG W Market] [Image: MyDeal] [Image: Bunnings Marketplace] [Image: Kmart Marketplace] [Image: eBay Australia] [Image: Etsy] [Image: Myer Marketplace] [Image: THE ICONIC Marketplace] 
-
 ## Features
 
 ### Already trained on every marketplace’s image rules
@@ -328,6 +399,25 @@ Images, documents and videos are stored per SKU, in slot order, ready for listin
 
 ### Readiness at a glance
 See which products are ready for which channels before you list them.
+
+## Before and after
+
+Before [Image: Dim, off-centre phone photo of a water bottle on a cluttered desk] One phone snapshot
+- Dark, off-centre and cluttered
+- No feature callouts or size info
+- Fails main-image rules on most marketplaces
+
+After: marketplace-ready image set
+[Image: Clean white-background main image of the bottle with a 24 hour cold badge] 
+[Image: Infographic with callouts: 24 h cold, 12 h hot, leak-proof, BPA-free] 
+[Image: Dimensions image: 27 cm tall, 7.5 cm wide, 750 ml, 380 g] 
+[Image: Lifestyle image of the bottle outdoors on a rock with mountains] 
+Main image, infographic, dimensions and lifestyle
+- Made to each marketplace's image slots and sizes
+- Feature callouts shoppers can scan in seconds
+- One approval publishes to every channel
+
+Illustrative example with a fictional product.
 
 ## Marketplaces the graphics AI is trained for
 
@@ -597,8 +687,6 @@ Updated: 2026-10-30
 
 The eComChannels storefront engine powers branded web stores. Each store has its own theme and content, while products, prices and stock come directly from the order management system.
 
-[Image: Shopify] [Image: WooCommerce] 
-
 ## Features
 
 ### Search and AI friendly
@@ -767,13 +855,22 @@ Updated: 2026-10-30
 
 Tell us a little about your business and when suits you. Our team will confirm a time and show you eComChannels live, using the channels you sell on. All products are currently available free for 30 days.
 
+eComChannels product demoLive walkthrough with our team
+⏱ 30 minutes💻 Online video call🎁 30-day free trial available
+
+‹Choose a date›
+
+Select a date to see available times
+
+Our booking calendar needs JavaScript. Email [support@ecomchannels.com](mailto:support@ecomchannels.com?subject=Demo%20request) with two or three times that suit you.
+
 Booking form: request a demo or a 30-day free trial at https://ecomchannels.com/book-a-demo/ or email support@ecomchannels.com.
 
 ## What happens next
 
-- We reply to confirm a demo time, usually within one business day.
-- A team member walks you through the products that matter to you, live.
-- If it fits, we set up your 30-day free trial with your own channels.
+- We confirm your demo time by email, usually within one business day.
+- A product specialist walks you through the products that matter to you, live, using your channels.
+- If it fits, we set up your 30-day free trial.
 
 
 ---

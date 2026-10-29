@@ -7,8 +7,6 @@ Updated: 2026-10-30
 
 Every marketplace wants different product images. The eComChannels graphics AI is already trained on each marketplace’s image rules (image count, sizes, backgrounds and infographic slots), produces the graphics to match, and publishes approved images to every channel that uses the set.
 
-[Image: BIG W Market] [Image: MyDeal] [Image: Bunnings Marketplace] [Image: Kmart Marketplace] [Image: eBay Australia] [Image: Etsy] [Image: Myer Marketplace] [Image: THE ICONIC Marketplace] 
-
 ## Features
 
 ### Already trained on every marketplace’s image rules
@@ -28,6 +26,25 @@ Images, documents and videos are stored per SKU, in slot order, ready for listin
 
 ### Readiness at a glance
 See which products are ready for which channels before you list them.
+
+## Before and after
+
+Before [Image: Dim, off-centre phone photo of a water bottle on a cluttered desk] One phone snapshot
+- Dark, off-centre and cluttered
+- No feature callouts or size info
+- Fails main-image rules on most marketplaces
+
+After: marketplace-ready image set
+[Image: Clean white-background main image of the bottle with a 24 hour cold badge] 
+[Image: Infographic with callouts: 24 h cold, 12 h hot, leak-proof, BPA-free] 
+[Image: Dimensions image: 27 cm tall, 7.5 cm wide, 750 ml, 380 g] 
+[Image: Lifestyle image of the bottle outdoors on a rock with mountains] 
+Main image, infographic, dimensions and lifestyle
+- Made to each marketplace's image slots and sizes
+- Feature callouts shoppers can scan in seconds
+- One approval publishes to every channel
+
+Illustrative example with a fictional product.
 
 ## Marketplaces the graphics AI is trained for
 

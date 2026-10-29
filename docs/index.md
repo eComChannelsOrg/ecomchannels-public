@@ -22,13 +22,13 @@ Free for 30 days. Our team sets you up and walks you through the platform.
 15 marketplaces4 couriers10 social platforms
 
 ## Products
-[Image: Amazon Australia] [Image: TikTok Shop] [Image: Temu (Local Seller)] [Image: Woolworths Everyday Market] [Image: BIG W Market] [Image: MyDeal] [Image: Bunnings Marketplace] [Image: Kmart Marketplace] 
+→
 ### [AI listing optimisation](https://ecomchannels.com/products/ai-listing-optimisation/)
 AI already trained on each marketplace’s listing rules writes titles, bullet points, descriptions and attributes, and your team approves them before they go live.
 [Image: Australia Post] [Image: StarTrack] [Image: CouriersPlease] [Image: Allied Express] 
 ### [AI auto shipping](https://ecomchannels.com/products/ai-shipping/)
 Book Australia Post, StarTrack, CouriersPlease and Allied Express from one screen, with labels, manifests and tracking sent back automatically.
-[Image: BIG W Market] [Image: MyDeal] [Image: Bunnings Marketplace] [Image: Kmart Marketplace] [Image: eBay Australia] [Image: Etsy] [Image: Myer Marketplace] [Image: THE ICONIC Marketplace] 
+
 ### [AI graphics](https://ecomchannels.com/products/ai-graphics/)
 AI already trained on every marketplace’s image rules produces product images, infographics and lifestyle shots, with one approval per image set.
 matched · short-paid · unmatched
@@ -40,9 +40,56 @@ AI plans and writes posts for Facebook, Instagram, TikTok, YouTube, LinkedIn, Pi
 [Image: Amazon Australia] [Image: TikTok Shop] [Image: Temu (Local Seller)] [Image: Woolworths Everyday Market] [Image: BIG W Market] [Image: MyDeal] [Image: Bunnings Marketplace] [Image: Kmart Marketplace] 
 ### [Order management (OMS)](https://ecomchannels.com/products/order-management/)
 One queue for every order and one stock figure for every SKU, across all your marketplaces and stores.
-[Image: Shopify] [Image: WooCommerce] 
+
 ### [Branded storefronts](https://ecomchannels.com/products/storefronts/)
 Your own fast, search-friendly web store, with products, prices and stock fed by the OMS.
+
+## See the difference: product graphics
+One phone snapshot becomes a full image set made to each marketplace's rules.
+
+Before [Image: Dim, off-centre phone photo of a water bottle on a cluttered desk] One phone snapshot
+- Dark, off-centre and cluttered
+- No feature callouts or size info
+- Fails main-image rules on most marketplaces
+
+After: marketplace-ready image set
+[Image: Clean white-background main image of the bottle with a 24 hour cold badge] 
+[Image: Infographic with callouts: 24 h cold, 12 h hot, leak-proof, BPA-free] 
+[Image: Dimensions image: 27 cm tall, 7.5 cm wide, 750 ml, 380 g] 
+[Image: Lifestyle image of the bottle outdoors on a rock with mountains] 
+Main image, infographic, dimensions and lifestyle
+- Made to each marketplace's image slots and sizes
+- Feature callouts shoppers can scan in seconds
+- One approval publishes to every channel
+
+Illustrative example with a fictional product.
+
+## See the difference: product listings
+Thin supplier data becomes a listing written for each marketplace.
+
+Before: supplier dataWater Bottle BlueSteel bottle. 750ml.
+
+- No brand, features or size in the title
+- No bullet points or search terms
+- Missing required marketplace attributes
+
+After: written to each marketplace's rules
+AmazonYourBrand 750 ml Insulated Stainless Steel Water Bottle, Leak-Proof Lid, Keeps Drinks Cold 24 Hours, BPA-Free, Blue
+- Double-wall vacuum keeps drinks cold 24 h, hot 12 h
+- Leak-proof screw lid for bags
+- 18/8 stainless steel, BPA-free115 characters, written to Amazon rules
+
+KoganYourBrand 750ml Insulated Steel Water Bottle (Blue)
+- 24 h cold / 12 h hot
+- Leak-proof lid
+- BPA-free51 characters, written to Kogan rules
+
+BunningsYourBrand 750ml Blue Insulated Water Bottle
+- Capacity: 750 ml
+- Material: 18/8 stainless steel
+- Height: 27 cm43 characters, written to Bunnings rules
+
+Illustrative example with a fictional product. Titles follow each marketplace's style and length rules.
 
 ## Marketplaces and stores
 

@@ -7,8 +7,6 @@ Updated: 2026-10-30
 
 The eComChannels storefront engine powers branded web stores. Each store has its own theme and content, while products, prices and stock come directly from the order management system.
 
-[Image: Shopify] [Image: WooCommerce] 
-
 ## Features
 
 ### Search and AI friendly

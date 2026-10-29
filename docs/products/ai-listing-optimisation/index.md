@@ -7,7 +7,7 @@ Updated: 2026-10-30
 
 Write a product once. The eComChannels listing AI is already trained on the listing rules of every marketplace we support, so it adapts titles, bullet points, descriptions and attributes to each channel straight away. Your team reviews and approves the copy before it is published.
 
-[Image: Amazon Australia] [Image: TikTok Shop] [Image: Temu (Local Seller)] [Image: Woolworths Everyday Market] [Image: BIG W Market] [Image: MyDeal] [Image: Bunnings Marketplace] [Image: Kmart Marketplace] 
+→
 
 ## Features
 
@@ -28,6 +28,32 @@ Optimise a whole range at once instead of editing listings one marketplace at a 
 
 ### Consistent brand voice
 Copy follows your own style guide across Amazon, eBay, Kogan, Bunnings and your web store.
+
+## Before and after
+
+Before: supplier dataWater Bottle BlueSteel bottle. 750ml.
+
+- No brand, features or size in the title
+- No bullet points or search terms
+- Missing required marketplace attributes
+
+After: written to each marketplace's rules
+AmazonYourBrand 750 ml Insulated Stainless Steel Water Bottle, Leak-Proof Lid, Keeps Drinks Cold 24 Hours, BPA-Free, Blue
+- Double-wall vacuum keeps drinks cold 24 h, hot 12 h
+- Leak-proof screw lid for bags
+- 18/8 stainless steel, BPA-free115 characters, written to Amazon rules
+
+KoganYourBrand 750ml Insulated Steel Water Bottle (Blue)
+- 24 h cold / 12 h hot
+- Leak-proof lid
+- BPA-free51 characters, written to Kogan rules
+
+BunningsYourBrand 750ml Blue Insulated Water Bottle
+- Capacity: 750 ml
+- Material: 18/8 stainless steel
+- Height: 27 cm43 characters, written to Bunnings rules
+
+Illustrative example with a fictional product. Titles follow each marketplace's style and length rules.
 
 ## Marketplaces the listing AI is trained for
 

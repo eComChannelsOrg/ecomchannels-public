@@ -82,7 +82,7 @@ const products = [
       ['Bulk updates', 'Optimise a whole range at once instead of editing listings one marketplace at a time.'],
       ['Consistent brand voice', 'Copy follows your own style guide across Amazon, eBay, Kogan, Bunnings and your web store.'],
     ],
-    extra: () => `<section><div class="wrap"><h2>Marketplaces the listing AI is trained for</h2>${logoRow([...activeMarketplaces(), ...channels.stores])}<p class="note">Plus your own web store on the <a href="/products/storefronts/">eComChannels storefront engine</a>.</p></div></section>`,
+    extra: () => `<section class="alt"><div class="wrap"><h2>Before and after</h2>${listingCompare(logoFile)}</div></section><section><div class="wrap"><h2>Marketplaces the listing AI is trained for</h2>${logoRow([...activeMarketplaces(), ...channels.stores])}<p class="note">Plus your own web store on the <a href="/products/storefronts/">eComChannels storefront engine</a>.</p></div></section>`,
     faq: [
       ['Which marketplaces is the listing AI trained for?', 'It is already trained on the listing rules of Amazon, TikTok Shop, Temu, Woolworths Everyday Market, BIG W Market, Bunnings Marketplace, Kmart Marketplace, eBay, Etsy, Myer Marketplace, THE ICONIC, Lasoo, Temple & Webster, Baby Bunting and Kogan, plus Shopify, WooCommerce and eComChannels storefronts.'],
       ['Does AI publish listings automatically?', 'No. The AI drafts to each marketplace’s trained rules, and a person on your team approves them before they are published.'],
@@ -124,7 +124,7 @@ const products = [
       ['Organised by SKU', 'Images, documents and videos are stored per SKU, in slot order, ready for listings and your web store.'],
       ['Readiness at a glance', 'See which products are ready for which channels before you list them.'],
     ],
-    extra: () => `<section><div class="wrap"><h2>Marketplaces the graphics AI is trained for</h2>${logoRow([...activeMarketplaces(), ...channels.stores])}</div></section>`,
+    extra: () => `<section class="alt"><div class="wrap"><h2>Before and after</h2>${graphicsCompare()}</div></section><section><div class="wrap"><h2>Marketplaces the graphics AI is trained for</h2>${logoRow([...activeMarketplaces(), ...channels.stores])}</div></section>`,
     faq: [
       ['How does eComChannels handle different marketplace image rules?', 'Each marketplace is mapped to an image set that holds its slot rules. Designers produce images to the set, and approval publishes them to every channel that uses it.'],
       ['Can AI create product images?', 'Yes. The graphics AI, already trained on each marketplace’s image rules, generates and edits product graphics, and every image is reviewed before it is approved for a channel.'],
@@ -271,6 +271,9 @@ function page({ path, title, description, h1, lead, body, ld = [], trail = [], n
 <meta name="twitter:card" content="summary_large_image">
 <link rel="alternate" type="text/markdown" title="Markdown version of this page" href="${path === '/404' ? '/index.md' : path + 'index.md'}">
 <link rel="alternate" type="text/plain" title="LLM summary" href="/llms.txt">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap">
 <link rel="stylesheet" href="/styles.css">
 <script type="application/ld+json">${JSON.stringify({ '@context': 'https://schema.org', '@graph': graph }).replace(/</g, '\\u003c')}</script>
 </head>
@@ -324,6 +327,8 @@ const pages = [
     ld: [{ '@type': 'ItemList', name: 'eComChannels products', itemListElement: products.map((p, i) => ({ '@type': 'ListItem', position: i + 1, name: p.short, url: `${SITE}/products/${p.slug}/` })) }, faqLd(generalFaq.slice(0, 4))],
     body: `
 <section><div class="wrap"><h2>Products</h2>${productCards}</div></section>
+<section class="alt"><div class="wrap"><h2>See the difference: product graphics</h2><p class="sub">One phone snapshot becomes a full image set made to each marketplace's rules.</p>${graphicsCompare()}</div></section>
+<section><div class="wrap"><h2>See the difference: product listings</h2><p class="sub">Thin supplier data becomes a listing written for each marketplace.</p>${listingCompare(logoFile)}</div></section>
 <section class="alt"><div class="wrap">
 <h2>Marketplaces and stores</h2>${logoRow([...activeMarketplaces(), ...channels.stores])}
 <h2 class="mt">Couriers</h2>${logoRow(channels.carriers)}
@@ -375,11 +380,25 @@ ${ctaBand}`,
     h1: 'Book a demo or start your 30-day free trial', trail: [['Book a demo', '/book-a-demo/']], noCta: true,
     lead: 'Tell us a little about your business and when suits you. Our team will confirm a time and show you eComChannels live, using the channels you sell on. All products are currently available free for 30 days.',
     ld: [{ '@type': 'ContactPage', name: 'Book an eComChannels demo', url: `${SITE}/book-a-demo/`, potentialAction: { '@type': 'ReserveAction', name: 'Book a demo', target: `${SITE}/book-a-demo/` } }],
-    body: `<section><div class="wrap narrow">
-<form id="demo" class="form" action="mailto:${EMAIL}" method="post" enctype="text/plain">
+    body: `<section><div class="wrap">
+<div class="booking">
+<div class="cal" id="cal">
+<div class="cal-head"><img src="/logo-64.png" alt="" width="48" height="48"><div><b>eComChannels product demo</b><span>Live walkthrough with our team</span></div></div>
+<div class="cal-meta"><span>⏱ 30 minutes</span><span>💻 Online video call</span><span>🎁 30-day free trial available</span></div>
+<div class="cal-body">
+<div class="cal-month"><button type="button" id="cal-prev" aria-label="Previous month">‹</button><span id="cal-label">Choose a date</span><button type="button" id="cal-next" aria-label="Next month">›</button></div>
+<div class="cal-grid" id="cal-grid" role="grid" aria-label="Available dates"></div>
+<p class="slots-title" id="slots-title">Select a date to see available times</p>
+<div class="slots" id="slots" role="listbox" aria-label="Available times"></div>
+<p class="tz" id="tz"></p>
+<noscript><p>Our booking calendar needs JavaScript. Email <a href="mailto:${EMAIL}?subject=Demo%20request">${EMAIL}</a> with two or three times that suit you.</p></noscript>
+</div>
+</div>
+<form id="demo" class="form" novalidate>
+<div class="chosen empty" id="chosen" role="status">Pick a date and time in the calendar</div>
 <fieldset class="choice"><legend>I would like</legend>
 <label><input type="radio" name="type" value="demo" checked> A live demo</label>
-<label><input type="radio" name="type" value="trial"> A 30-day free trial</label>
+<label><input type="radio" name="type" value="trial"> A demo and a 30-day free trial</label>
 </fieldset>
 <div class="row2">
 <label>Your name *<input name="name" required autocomplete="name"></label>
@@ -392,16 +411,16 @@ ${ctaBand}`,
 <label>Website<input name="website" type="url" placeholder="https://"></label>
 <fieldset><legend>Products you are interested in</legend><div class="checks">${products.map((p) => `<label><input type="checkbox" name="products" value="${esc(p.short)}"> ${esc(p.short)}</label>`).join('')}</div></fieldset>
 <fieldset><legend>Where you sell today</legend><div class="checks">${[...activeMarketplaces(), ...channels.stores].map(([, n]) => `<label><input type="checkbox" name="channels" value="${esc(n)}"> ${esc(n)}</label>`).join('')}<label><input type="checkbox" name="channels" value="Other"> Other</label></div></fieldset>
-<div class="row2">
 <label>Orders per month<select name="orders"><option value="">Choose…</option><option>Under 500</option><option>500 to 2,000</option><option>2,000 to 10,000</option><option>Over 10,000</option></select></label>
-<label>Preferred demo date and time<input name="when" placeholder="e.g. Tuesday afternoon AEST"></label>
-</div>
-<label>Anything else we should know?<textarea name="notes" rows="4"></textarea></label>
-<p><button class="btn" type="submit">Send request</button></p>
-<p class="small-note" id="demo-status" role="status">Sending opens your email app with the request filled in. Prefer to write yourself? Email <a href="mailto:${EMAIL}?subject=Demo%20request">${EMAIL}</a>.</p>
+<label>Anything else we should know?<textarea name="notes" rows="3"></textarea></label>
+<p><button class="btn" type="submit" id="book-btn">Confirm booking request</button></p>
+<p class="small-note" id="demo-status">We confirm every booking by email, usually within one business day. Prefer to write? Email <a href="mailto:${EMAIL}?subject=Demo%20request">${EMAIL}</a>.</p>
+<div class="done" id="done" role="status"></div>
 </form>
-<h2>What happens next</h2>
-<ol class="steps"><li>We reply to confirm a demo time, usually within one business day.</li><li>A team member walks you through the products that matter to you, live.</li><li>If it fits, we set up your 30-day free trial with your own channels.</li></ol>
+</div>
+</div></section>
+<section class="alt"><div class="wrap narrow"><h2>What happens next</h2>
+<ol class="steps"><li>We confirm your demo time by email, usually within one business day.</li><li>A product specialist walks you through the products that matter to you, live, using your channels.</li><li>If it fits, we set up your 30-day free trial.</li></ol>
 </div></section>
 <script src="/book.js" defer></script>`,
   },
@@ -499,6 +518,8 @@ writeFileSync(join(OUT, 'agents.md'), agentsMd());
 writeFileSync(join(OUT, '404.html'), page({ path: '/404', title: 'Page not found | eComChannels', description: 'This page does not exist.', h1: 'Page not found', lead: 'The page you asked for does not exist. Try the <a href="/">home page</a>.', body: '', trail: [['Page not found', '/404']] })
   .replace('<meta name="robots" content="index, follow, max-image-preview:large">', '<meta name="robots" content="noindex">').replace(/<link rel="canonical"[^>]*>\n/, ''));
 for (const f of readdirSync(join(ROOT, 'static'))) copyFileSync(join(ROOT, 'static', f), join(OUT, f));
+mkdirSync(join(OUT, 'examples'), { recursive: true });
+for (const f of readdirSync(join(ROOT, 'static-examples'))) copyFileSync(join(ROOT, 'static-examples', f), join(OUT, 'examples', f));
 
 
 writeFileSync(join(OUT, 'CNAME'), 'ecomchannels.com'); // same bytes GitHub writes, so rebuilds don't diff
