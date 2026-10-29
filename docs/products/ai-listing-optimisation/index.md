@@ -78,6 +78,26 @@ Illustrative example with a fictional product. Titles follow each marketplace's 
 - [Image: Kogan Marketplace logo] Kogan Marketplace
 - [Image: Shopify logo] Shopify
 - [Image: WooCommerce logo] WooCommercePlus your own web store on the [eComChannels storefront engine](https://ecomchannels.com/products/storefronts/).
+The research behind AI listing optimisation
+
+## Why it moves the numbers
+23%Pure online marketplaces captured $18.9 billion in 2025, 23% of all Australian online spending, making them the largest online category.
+[Australia Post, eCommerce Report 2026, 2026](https://auspost.com.au/content/dam/auspost_corp/media/documents/ecommerce-reports/annual-ecommerce-reports/ecommerce-report-2026.pdf)48%48% of Australians have used AI when shopping online, mainly for price and product comparisons, so structured product data affects whether products are surfaced.
+[PayPal Australia, eCommerce Index 2026, 2026](https://www.paypalobjects.com/marketing/web24/au/PayPal_2026_eCommerce_Index_Infographic.pdf)88%Sellers using Mirakl's AI catalogue tool to classify products and standardise listings across marketplaces generated 88% higher GMV than those who did not (vendor-reported).
+[Mirakl, The marketplace revolution: Key insights from our 2026 Seller Report, 2026](https://www.mirakl.com/blogs/brands-sellers/the-marketplace-revolution-key-insights-from-our-2026-seller-report/)29%29% of Australian shoppers start their product discovery on online marketplaces, so marketplace listings directly drive visibility.
+[Australia Post, Category Insights: Online marketplaces (eCommerce Report 2026), 2026](https://auspost.com.au/content/dam/auspost_corp/media/documents/australia-post-ecommerce-report-2026-online-marketplaces.pdf)Independent studies, linked to their sources. [All research findings](https://ecomchannels.com/research/).
+
+## Guides on ai listing optimisation
+E-commerce trends81% of Australian shoppers say they shop around for the best deals
+### [Cost of Living and Value Shopping: What It Means for Sellers](https://ecomchannels.com/insights/cost-of-living-value-shopping-online-retail/)
+Cost-of-living pressure has made Australians deliberate, deal-driven shoppers. How value shopping is changing online buying and how sellers protect margin.
+5 min read · 8 sources E-commerce trends71% of Australians buy from overseas retailers, versus a 59% global average
+### [Cross-Border E-commerce in Australia: What Local Sellers Need](https://ecomchannels.com/insights/cross-border-ecommerce-australia/)
+71% of Australians buy from overseas retailers and offshore marketplaces keep growing. What cross-border trade means for local sellers and how to export.
+5 min read · 8 sources E-commerce trends48% of Australians have already used AI when shopping online
+### [E-commerce Planning for 2027: What Australian Retailers Need](https://ecomchannels.com/insights/ecommerce-planning-2027-australian-retailers/)
+What Australian retailers should plan for in 2027: AI-led discovery, social commerce, marketplaces, smaller baskets and delivery choice, with the evidence.
+5 min read · 6 sources
 
 ## Questions about AI listing optimisation
 

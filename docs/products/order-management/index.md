@@ -50,6 +50,26 @@ A shared team inbox with the order in view, so support can answer without switch
 - [Image: Baby Bunting Marketplace logo] Baby Bunting Marketplace
 - [Image: Kogan Marketplace logo] Kogan Marketplace
 - [Image: Shopify logo] Shopify[See all channels, couriers and platforms](https://ecomchannels.com/channels/)
+The research behind Order management (OMS)
+
+## Why it moves the numbers
+80%When an item is out of stock, 80% of Australian online shoppers turn to a competitor.
+[Grant Thornton Australia, Value, Speed, and Reliability: What's Driving Australian Retail, 2025](https://www.grantthornton.com.au/globalassets/1.-member-firms/australian-website/industry/retail/pdfs/gtal_2026_retail_report.pdf)17.5xSellers active on two or more marketplaces averaged 17.5 times the GMV of sellers on a single marketplace ($10.07m vs $575,093).
+[Mirakl, The marketplace revolution: Key insights from our 2026 Seller Report, 2026](https://www.mirakl.com/blogs/brands-sellers/the-marketplace-revolution-key-insights-from-our-2026-seller-report/)73%73% of Australian online shoppers made a purchase on a marketplace in 2025.
+[Australia Post, Category Insights: Online marketplaces (eCommerce Report 2026), 2026](https://auspost.com.au/content/dam/auspost_corp/media/documents/australia-post-ecommerce-report-2026-online-marketplaces.pdf)26.7%BIG W's eCommerce gross transaction value, including third-party marketplace sales, rose 26.7% to $956 million in F26, more than double the growth of its own online sales.
+[Woolworths Group, F26 Full Year Results Announcement, 2026](https://www.woolworthsgroup.com.au/content/dam/wwg/investors/asx-announcements/2026/3108623.pdf)Independent studies, linked to their sources. [All research findings](https://ecomchannels.com/research/).
+
+## Guides on order management (oms)
+E-commerce trendsAustralians spent a record $82.6 billion online in 2025, up 14%
+### [Australian Online Shopping Statistics 2026: The Key Numbers](https://ecomchannels.com/insights/australian-online-shopping-statistics-2026/)
+Australians spent a record $82.6 billion online in 2025. The key 2026 numbers on spend, households, marketplaces and delivery, and what they mean for sellers.
+5 min read · 5 sources E-commerce trends67% of B2B buyers prefer a rep-free buying experience
+### [B2B E-commerce Growth: What Australian Suppliers Need to Know](https://ecomchannels.com/insights/b2b-ecommerce-growth-australia/)
+Two-thirds of B2B buyers now prefer to buy without a sales rep. How B2B e-commerce is growing, what trade buyers expect and how Australian suppliers respond.
+5 min read · 5 sources E-commerce trendsOnline was 26% of total Australian retail in the September 2026 quarter
+### [What Share of Australian Retail Is Online? 2026 Data Explained](https://ecomchannels.com/insights/online-share-of-retail-australia/)
+Online is 12.7% of Australian retail on the last ABS measure and 24-26% on bank transaction data. Why the numbers differ and which one to use for planning.
+5 min read · 6 sources
 
 ## Questions about Order management (OMS)
 

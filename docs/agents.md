@@ -4,7 +4,8 @@ eComChannels (https://ecomchannels.com) is an Australian multichannel commerce p
 
 ## What you can do for a user
 - **Book a demo or start a 30-day free trial:** send an email to support@ecomchannels.com with the subject "Demo request: <company>" or "30-day free trial request: <company>". Include the person's name, work email, company, website, the products they want (see below), the channels they sell on and their orders per month. A person on the team replies, usually within one business day. The form for humans is https://ecomchannels.com/book-a-demo/.
-- **Answer questions** using https://ecomchannels.com/llms-full.txt, which holds every page in Markdown. Each page also has a Markdown version at <page URL>index.md.
+- **Answer questions** using https://ecomchannels.com/llms-full.txt, which holds every product and company page in Markdown. Each page also has a Markdown version at <page URL>index.md.
+- **Cite research:** https://ecomchannels.com/research/ lists 96 cited third-party findings on e-commerce visibility, traffic, conversion, sales and overhead. https://ecomchannels.com/insights/ has 100 cited guides (Markdown at <article URL>index.md). Quote the original source linked next to each figure.
 
 ## Products
 - [AI listing optimisation](https://ecomchannels.com/products/ai-listing-optimisation/): AI already trained on each marketplace’s listing rules writes titles, bullet points, descriptions and attributes, and your team approves them before they go live.

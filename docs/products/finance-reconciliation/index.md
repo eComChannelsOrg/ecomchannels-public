@@ -59,7 +59,26 @@ Illustration: each payout line is matched to its order, and only exceptions need
 - [Image: Temple & Webster logo] Temple & Webster
 - [Image: Baby Bunting Marketplace logo] Baby Bunting Marketplace
 - [Image: Kogan Marketplace logo] Kogan Marketplace
-- [Image: Shopify logo] Shopify
+- [Image: Shopify logo] Shopify The research behind Finance auto reconciliation
+
+## Why it moves the numbers
+59%59% of accountants make several financial errors a month, and 18% make errors at least daily, with errors linked to capacity constraints.
+[Gartner, Survey Shows That a Third of Accountants Make Several Financial Errors Per Week due to Capacity Constraints, 2024](https://www.gartner.com/en/newsroom/press-releases/2024-02-21-gartner-survey-shows-that-a-third-of-accountants-make-several-error-per-weeo-due-to-capacity-constraints)39%39% of finance functions using AI apply it to anomaly and error detection, and 44% to intelligent process automation.
+[Gartner, Survey Shows 58% of Finance Functions Using AI in 2024, 2024](https://www.gartner.com/en/newsroom/press-releases/2024-09-11-gartner-survey-shows-58-percent-of-finance-functions-use-ai-in-2024)30%A generative AI assistant for budget variance insights at a global consumer goods company saved an estimated 30% of finance professionals' time.
+[McKinsey & Company, How finance teams are putting AI to work today, 2025](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-finance-teams-are-putting-ai-to-work-today)4.8 daysTop-quartile organisations complete the monthly close in 4.8 days or less, about half the time of the bottom quartile (10+ days); the median is 6.4 days.
+[CFO.com / APQC, Metric of the Month: Cycle Time for Monthly Close, 2018](https://www.cfo.com/news/metric-of-the-month-cycle-time-for-monthly-close/659297/)Independent studies, linked to their sources. [All research findings](https://ecomchannels.com/research/).
+
+## Guides on finance auto reconciliation
+Marketplaces & multichannelMost Amazon Australia referral fees sit between 6% and 15%
+### [Marketplace Fees in Australia Compared: Amazon, eBay, Etsy & More](https://ecomchannels.com/insights/australian-marketplace-fees-compared/)
+Published seller fees for Amazon, eBay, Etsy, Kogan, Temu and retailer marketplaces in Australia, plus the hidden costs that decide if a channel pays.
+5 min read · 8 sources Finance & reconciliation59% of finance functions reported using AI in 2025
+### [Automating E-commerce Finance with AI: What Works Now](https://ecomchannels.com/insights/automating-ecommerce-finance-with-ai/)
+Where AI and automation help e-commerce finance today, from reconciliation and anomaly detection to forecasting, and how retailers can start safely.
+5 min read · 7 sources Finance & reconciliationInadequate cash flow is the most cited cause of business failure in Australian company insolvencies
+### [Cash-Flow Forecasting for Online Sellers: A Practical Guide](https://ecomchannels.com/insights/cash-flow-forecasting-online-sellers/)
+How Australian online sellers can forecast cash flow when marketplaces pay on different cycles: payout timing, peak stock buys, returns and GST.
+5 min read · 8 sources
 
 ## Questions about Finance auto reconciliation
 

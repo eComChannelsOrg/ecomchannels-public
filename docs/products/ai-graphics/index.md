@@ -68,7 +68,26 @@ Illustrative example with a fictional product.
 - [Image: Baby Bunting Marketplace logo] Baby Bunting Marketplace
 - [Image: Kogan Marketplace logo] Kogan Marketplace
 - [Image: Shopify logo] Shopify
-- [Image: WooCommerce logo] WooCommerce
+- [Image: WooCommerce logo] WooCommerce The research behind AI graphics
+
+## Why it moves the numbers
+76%76% of shoppers say high-quality product images are extremely or very important to their decision to click on a product page from search results.
+[Salsify, 2024 Consumer Research Report, 2024](https://www.salsify.com/hubfs/2024/Content/Salsify%20Consumer%20Research%20Report%202024.pdf)40%Placing a product in a lifestyle context in a mobile Sponsored Brands ad can deliver click-through rates 40% higher than ads with standard product images.
+[Amazon, Amazon rolls out AI-powered image generation to help advertisers, 2023](https://www.aboutamazon.com/news/innovation-at-amazon/amazon-ads-ai-powered-image-generator)24%Amazon product detail pages that added their first shoppable video saw an average 24% increase in sales compared with those without videos.
+[Amazon, Let Amazon product videos show customers what images can't, 2025](https://sell.amazon.com/blog/amazon-product-video)up to 20%Basic A+ Content (enhanced images and comparison charts) can increase Amazon sales by up to 8%, and well-implemented Premium A+ Content by up to 20%.
+[Amazon, A+ Content, 2026](https://sell.amazon.com/tools/a-content)Independent studies, linked to their sources. [All research findings](https://ecomchannels.com/research/).
+
+## Guides on ai graphics
+AI graphics & visual commerceAlmost 90% of consumers want to know if an image is AI-made
+### [AI-Generated Product Photos: Risks, Rules and Disclosure](https://ecomchannels.com/insights/ai-generated-product-images-rules-risks/)
+AI can create product scenes in seconds, but Australian Consumer Law and marketplace rules still apply. The risks, the disclosure rules and a safe workflow.
+5 min read · 8 sources AI graphics & visual commerceAmazon recommends a main image plus at least 6 more and a video
+### [How Many Product Images Per Listing? What Marketplaces Advise](https://ecomchannels.com/insights/how-many-product-images-per-listing/)
+Amazon, Google, eBay and TikTok Shop all publish image-count guidance. How many product images to aim for, which shots to include and why order matters.
+5 min read · 9 sources AI graphics & visual commerceLifestyle ad images lifted click-through up to 40% in Amazon tests
+### [Lifestyle vs White Background Product Photos: When to Use Each](https://ecomchannels.com/insights/lifestyle-vs-white-background-product-photos/)
+White-background shots win marketplace search; lifestyle images build context and clicks. Learn where each belongs and how to balance them in your gallery.
+5 min read · 7 sources
 
 ## Questions about AI graphics
 

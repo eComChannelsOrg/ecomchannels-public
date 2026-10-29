@@ -45,6 +45,26 @@ CouriersPlease bookings, labels, tracking and claims.
 [Image: Allied Express logo] 
 ### Allied Express
 Allied Express jobs for bulky and heavy freight.
+The research behind AI auto shipping
+
+## Why it moves the numbers
+3-10%THE ICONIC reports a 3-10% decrease in conversion for every additional day added to the delivery time shown at checkout.
+[Australia Post, eCommerce Report 2026, 2026](https://auspost.com.au/content/dam/auspost_corp/media/documents/ecommerce-reports/annual-ecommerce-reports/ecommerce-report-2026.pdf)73%73% of Australian shoppers say a good delivery experience makes them more likely to shop online instead of in-store.
+[Australia Post, eCommerce Report 2026, 2026](https://auspost.com.au/content/dam/auspost_corp/media/documents/ecommerce-reports/annual-ecommerce-reports/ecommerce-report-2026.pdf)4xCustomers using the AusPost tracking app are up to four times less likely to raise delivery-related cases during peak, reducing support costs.
+[Australia Post, eCommerce Report 2026, 2026](https://auspost.com.au/content/dam/auspost_corp/media/documents/ecommerce-reports/annual-ecommerce-reports/ecommerce-report-2026.pdf)32%32% of Australian shoppers would choose one retailer over another if it offered out-of-home collection such as Parcel Lockers.
+[Australia Post, eCommerce Report 2026, 2026](https://auspost.com.au/content/dam/auspost_corp/media/documents/ecommerce-reports/annual-ecommerce-reports/ecommerce-report-2026.pdf)Independent studies, linked to their sources. [All research findings](https://ecomchannels.com/research/).
+
+## Guides on ai auto shipping
+E-commerce trends73% of shoppers say a good delivery experience makes them more likely to shop online
+### [What Australian Online Shoppers Expect in 2026](https://ecomchannels.com/insights/australian-online-shopper-expectations-2026/)
+Australian shoppers expect clear delivery dates, delivery choice, reliable tracking, easy returns and accurate stock. The 2026 evidence and how to meet it.
+5 min read · 5 sources E-commerce trendsOuter regional and remote households grew online spend 14.4% in 2025, the fastest of any area type
+### [Regional Australia Online Shopping: Growth and How to Serve It](https://ecomchannels.com/insights/regional-australia-online-shopping-growth/)
+Regional and remote households spent $20.6 billion online in 2025, and outer regional areas grew fastest. What regional shoppers need and how to deliver.
+5 min read · 6 sources Marketplaces & multichannelAmazon requires an Order Defect Rate under 1% to keep selling
+### [Marketplace Account Health: The Metrics That Protect Your Sales](https://ecomchannels.com/insights/marketplace-account-health-metrics-explained/)
+Order defect, cancellation, late shipment and tracking rates explained, with Amazon and eBay thresholds and practical ways to keep seller accounts healthy.
+5 min read · 7 sources
 
 ## Questions about AI auto shipping
 

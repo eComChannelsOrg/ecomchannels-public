@@ -25,7 +25,20 @@ Free for 30 days. Our team sets you up and walks you through the platform.
 - [Image: JB Hi-Fi Marketplace] [Image: eComChannels] One system
 19 marketplaces4 couriers10 social platforms
 
-## Products
+Backed by independent research
+
+## What better listings, images, delivery and AI do to your numbers
+Published studies from marketplaces, Australia Post and global research firms. Not our marketing claims: every figure links to its source.
+693%Traffic from generative AI tools to US retail sites rose 693% year on year in the 2025 holiday season.
+[Adobe, AI traffic surges across industries, retail sees biggest gains, 2026](https://business.adobe.com/blog/ai-driven-traffic-surges-across-industries)2.1xeBay Australia says listing titles of 60 to 80 characters are 2.1 times more likely to sell.
+[eBay Australia Seller Centre, Listing an Item, 2026](https://www.ebay.com.au/sellercentre/private-selling/listing-an-item)24%Amazon product detail pages that added their first shoppable video saw an average 24% increase in sales compared with those without videos.
+[Amazon, Let Amazon product videos show customers what images can't, 2025](https://sell.amazon.com/blog/amazon-product-video)17.5xSellers active on two or more marketplaces averaged 17.5 times the GMV of sellers on a single marketplace ($10.07m vs $575,093).
+[Mirakl, The marketplace revolution: Key insights from our 2026 Seller Report, 2026](https://www.mirakl.com/blogs/brands-sellers/the-marketplace-revolution-key-insights-from-our-2026-seller-report/)4-8%Correcting inaccurate inventory records increased sales by about 4% to 8% across seven large retailers.
+[ECR Retail Loss / Cardiff University, Measuring the sales impact of improving inventory records, 2019](https://orca.cardiff.ac.uk/id/eprint/142664/)3-10%THE ICONIC reports a 3-10% decrease in conversion for every additional day added to the delivery time shown at checkout.
+[Australia Post, eCommerce Report 2026, 2026](https://auspost.com.au/content/dam/auspost_corp/media/documents/ecommerce-reports/annual-ecommerce-reports/ecommerce-report-2026.pdf)
+Products
+
+## Seven AI products, one platform
 →
 ### [AI listing optimisation](https://ecomchannels.com/products/ai-listing-optimisation/)
 AI already trained on each marketplace’s listing rules writes titles, bullet points, descriptions and attributes, and your team approves them before they go live.
@@ -47,6 +60,53 @@ One queue for every order and one stock figure for every SKU, across all your ma
 
 ### [Branded storefronts](https://ecomchannels.com/products/storefronts/)
 Your own fast, search-friendly web store, with products, prices and stock fed by the OMS.
+
+From exposure to profit
+
+## How eComChannels improves every step of the sale
+Each stage, the strongest independent figure we found, and the products that act on it.
+1
+### Exposure & visibility
+40%Optimising content for generative engines boosted source visibility in AI-generated answers by up to 40% in controlled tests.
+[Aggarwal et al. (Princeton), GEO: Generative Engine Optimization, KDD 2024, 2024](https://arxiv.org/abs/2311.09735)[AI listings](https://ecomchannels.com/products/ai-listing-optimisation/)[GEO-ready storefronts](https://ecomchannels.com/products/storefronts/)[AI social](https://ecomchannels.com/products/ai-social-media-marketing/)2
+### Traffic & clicks
+76%76% of shoppers say high-quality product images are extremely or very important to their decision to click on a product page from search results.
+[Salsify, 2024 Consumer Research Report, 2024](https://www.salsify.com/hubfs/2024/Content/Salsify%20Consumer%20Research%20Report%202024.pdf)[AI graphics](https://ecomchannels.com/products/ai-graphics/)[AI social](https://ecomchannels.com/products/ai-social-media-marketing/)3
+### Conversion
+54%54% of shoppers dropped purchases because of conflicting product information.
+[Salsify, 2025 Consumer Research Report (press release), 2025](https://www.salsify.com/press-release-salsify-2025-consumer-research-report)[AI listings](https://ecomchannels.com/products/ai-listing-optimisation/)[AI shipping](https://ecomchannels.com/products/ai-shipping/)4
+### Sales growth
+2.3xRetailers deploying AI and machine learning achieved sales growth 2.3 times higher and profit growth 2.5 times higher than competitors.
+[IHL Group, Retail Inventory Crisis Persists Despite $172 Billion in Improvements, 2025](https://www.ihlservices.com/news/analyst-corner/2025/09/retail-inventory-crisis-persists-despite-172-billion-in-improvements/)[Multichannel OMS](https://ecomchannels.com/products/order-management/)[AI graphics](https://ecomchannels.com/products/ai-graphics/)5
+### Lower overhead
+12 million+Independent sellers created more than 12 million sales-ready listings using Amazon's generative AI in 2025.
+[About Amazon, A record number of independent sellers in Amazon's store surpassed $1 million in sales in 2025, 2026](https://www.aboutamazon.com/news/small-business/amazon-2025-small-business-empowerment-report)[Auto reconciliation](https://ecomchannels.com/products/finance-reconciliation/)[Auto shipping](https://ecomchannels.com/products/ai-shipping/)[Bulk AI listings](https://ecomchannels.com/products/ai-listing-optimisation/)
+AI-native platform
+
+## A team of AI agents working every channel, around the clock
+Each eComChannels product runs an AI agent trained for its job. Your team sets the rules and approves; the agents do the repetitive work.
+
+Listing agentrunning
+- Reads the master product record
+- Applies each marketplace’s title, bullet and attribute rules
+- Drafts Amazon, BIG W, Bunnings and Kogan versions
+- Sends drafts for approvalGraphics agentrunning
+- Checks each marketplace’s image slots
+- Builds main, infographic and lifestyle images
+- Flags missing sizes and backgrounds
+- Publishes the approved set everywhereShipping agentrunning
+- Picks up new orders from every channel
+- Books the courier and prints labels
+- Closes manifests at cut-off
+- Sends tracking back to the marketplaceFinance agentrunning
+- Imports marketplace remittances
+- Matches each line to its order
+- Applies fee and settlement rules
+- Flags short-paid and missing paymentsSocial agentrunning
+- Turns products into posts
+- Plans a calendar per platform
+- Adapts captions and formats
+- Queues posts for approvalIllustration of how the agents work. Every agent's output can require human approval before it goes live.
 
 ## See the difference: product graphics
 One phone snapshot becomes a full image set made to each marketplace's rules.
@@ -147,6 +207,30 @@ Illustrative example with a fictional product. Titles follow each marketplace's 
 - One shipping workflow. Every courier, label and tracking update from one screen.
 
 - One set of numbers. Payouts are matched to orders, so finance and operations agree.
+
+Insights
+
+## Understand what is changing in e-commerce
+100 research-backed guides on marketplaces, AI listings, graphics, shipping, finance, social commerce and AI search.
+E-commerce trends73% of shoppers say a good delivery experience makes them more likely to shop online
+### [What Australian Online Shoppers Expect in 2026](https://ecomchannels.com/insights/australian-online-shopper-expectations-2026/)
+Australian shoppers expect clear delivery dates, delivery choice, reliable tracking, easy returns and accurate stock. The 2026 evidence and how to meet it.
+5 min read · 5 sources Marketplaces & multichannelMost Amazon Australia referral fees sit between 6% and 15%
+### [Marketplace Fees in Australia Compared: Amazon, eBay, Etsy & More](https://ecomchannels.com/insights/australian-marketplace-fees-compared/)
+Published seller fees for Amazon, eBay, Etsy, Kogan, Temu and retailer marketplaces in Australia, plus the hidden costs that decide if a channel pays.
+5 min read · 8 sources AI listings & marketplace SEOSellers created 12 million+ listings with Amazon's generative AI in 2025
+### [Bulk Listing at Scale: How to List Thousands of SKUs Accurately](https://ecomchannels.com/insights/bulk-listing-at-scale-marketplaces/)
+How Australian sellers can bulk list and update thousands of SKUs across marketplaces without errors, using a master record, channel templates and AI drafts.
+4 min read · 6 sources AI graphics & visual commerceAlmost 90% of consumers want to know if an image is AI-made
+### [AI-Generated Product Photos: Risks, Rules and Disclosure](https://ecomchannels.com/insights/ai-generated-product-images-rules-risks/)
+AI can create product scenes in seconds, but Australian Consumer Law and marketplace rules still apply. The risks, the disclosure rules and a safe workflow.
+5 min read · 8 sources Shipping & deliveryStarTrack delivers to 12.6 million locations across Australia
+### [Australia Post vs StarTrack vs CouriersPlease vs Allied Express](https://ecomchannels.com/insights/australia-post-startrack-couriersplease-allied-express-compared/)
+Compare Australia Post, StarTrack, CouriersPlease and Allied Express for e-commerce: size limits, surcharges, coverage and when to use each carrier.
+5 min read · 9 sources Finance & reconciliation59% of finance functions reported using AI in 2025
+### [Automating E-commerce Finance with AI: What Works Now](https://ecomchannels.com/insights/automating-ecommerce-finance-with-ai/)
+Where AI and automation help e-commerce finance today, from reconciliation and anomaly detection to forecasting, and how retailers can start safely.
+5 min read · 7 sources
 
 ## Frequently asked questions
 
@@ -286,6 +370,26 @@ Illustrative example with a fictional product. Titles follow each marketplace's 
 - [Image: Kogan Marketplace logo] Kogan Marketplace
 - [Image: Shopify logo] Shopify
 - [Image: WooCommerce logo] WooCommercePlus your own web store on the [eComChannels storefront engine](https://ecomchannels.com/products/storefronts/).
+The research behind AI listing optimisation
+
+## Why it moves the numbers
+23%Pure online marketplaces captured $18.9 billion in 2025, 23% of all Australian online spending, making them the largest online category.
+[Australia Post, eCommerce Report 2026, 2026](https://auspost.com.au/content/dam/auspost_corp/media/documents/ecommerce-reports/annual-ecommerce-reports/ecommerce-report-2026.pdf)48%48% of Australians have used AI when shopping online, mainly for price and product comparisons, so structured product data affects whether products are surfaced.
+[PayPal Australia, eCommerce Index 2026, 2026](https://www.paypalobjects.com/marketing/web24/au/PayPal_2026_eCommerce_Index_Infographic.pdf)88%Sellers using Mirakl's AI catalogue tool to classify products and standardise listings across marketplaces generated 88% higher GMV than those who did not (vendor-reported).
+[Mirakl, The marketplace revolution: Key insights from our 2026 Seller Report, 2026](https://www.mirakl.com/blogs/brands-sellers/the-marketplace-revolution-key-insights-from-our-2026-seller-report/)29%29% of Australian shoppers start their product discovery on online marketplaces, so marketplace listings directly drive visibility.
+[Australia Post, Category Insights: Online marketplaces (eCommerce Report 2026), 2026](https://auspost.com.au/content/dam/auspost_corp/media/documents/australia-post-ecommerce-report-2026-online-marketplaces.pdf)Independent studies, linked to their sources. [All research findings](https://ecomchannels.com/research/).
+
+## Guides on ai listing optimisation
+E-commerce trends81% of Australian shoppers say they shop around for the best deals
+### [Cost of Living and Value Shopping: What It Means for Sellers](https://ecomchannels.com/insights/cost-of-living-value-shopping-online-retail/)
+Cost-of-living pressure has made Australians deliberate, deal-driven shoppers. How value shopping is changing online buying and how sellers protect margin.
+5 min read · 8 sources E-commerce trends71% of Australians buy from overseas retailers, versus a 59% global average
+### [Cross-Border E-commerce in Australia: What Local Sellers Need](https://ecomchannels.com/insights/cross-border-ecommerce-australia/)
+71% of Australians buy from overseas retailers and offshore marketplaces keep growing. What cross-border trade means for local sellers and how to export.
+5 min read · 8 sources E-commerce trends48% of Australians have already used AI when shopping online
+### [E-commerce Planning for 2027: What Australian Retailers Need](https://ecomchannels.com/insights/ecommerce-planning-2027-australian-retailers/)
+What Australian retailers should plan for in 2027: AI-led discovery, social commerce, marketplaces, smaller baskets and delivery choice, with the evidence.
+5 min read · 6 sources
 
 ## Questions about AI listing optimisation
 
@@ -356,6 +460,26 @@ CouriersPlease bookings, labels, tracking and claims.
 [Image: Allied Express logo] 
 ### Allied Express
 Allied Express jobs for bulky and heavy freight.
+The research behind AI auto shipping
+
+## Why it moves the numbers
+3-10%THE ICONIC reports a 3-10% decrease in conversion for every additional day added to the delivery time shown at checkout.
+[Australia Post, eCommerce Report 2026, 2026](https://auspost.com.au/content/dam/auspost_corp/media/documents/ecommerce-reports/annual-ecommerce-reports/ecommerce-report-2026.pdf)73%73% of Australian shoppers say a good delivery experience makes them more likely to shop online instead of in-store.
+[Australia Post, eCommerce Report 2026, 2026](https://auspost.com.au/content/dam/auspost_corp/media/documents/ecommerce-reports/annual-ecommerce-reports/ecommerce-report-2026.pdf)4xCustomers using the AusPost tracking app are up to four times less likely to raise delivery-related cases during peak, reducing support costs.
+[Australia Post, eCommerce Report 2026, 2026](https://auspost.com.au/content/dam/auspost_corp/media/documents/ecommerce-reports/annual-ecommerce-reports/ecommerce-report-2026.pdf)32%32% of Australian shoppers would choose one retailer over another if it offered out-of-home collection such as Parcel Lockers.
+[Australia Post, eCommerce Report 2026, 2026](https://auspost.com.au/content/dam/auspost_corp/media/documents/ecommerce-reports/annual-ecommerce-reports/ecommerce-report-2026.pdf)Independent studies, linked to their sources. [All research findings](https://ecomchannels.com/research/).
+
+## Guides on ai auto shipping
+E-commerce trends73% of shoppers say a good delivery experience makes them more likely to shop online
+### [What Australian Online Shoppers Expect in 2026](https://ecomchannels.com/insights/australian-online-shopper-expectations-2026/)
+Australian shoppers expect clear delivery dates, delivery choice, reliable tracking, easy returns and accurate stock. The 2026 evidence and how to meet it.
+5 min read · 5 sources E-commerce trendsOuter regional and remote households grew online spend 14.4% in 2025, the fastest of any area type
+### [Regional Australia Online Shopping: Growth and How to Serve It](https://ecomchannels.com/insights/regional-australia-online-shopping-growth/)
+Regional and remote households spent $20.6 billion online in 2025, and outer regional areas grew fastest. What regional shoppers need and how to deliver.
+5 min read · 6 sources Marketplaces & multichannelAmazon requires an Order Defect Rate under 1% to keep selling
+### [Marketplace Account Health: The Metrics That Protect Your Sales](https://ecomchannels.com/insights/marketplace-account-health-metrics-explained/)
+Order defect, cancellation, late shipment and tracking rates explained, with Amazon and eBay thresholds and practical ways to keep seller accounts healthy.
+5 min read · 7 sources
 
 ## Questions about AI auto shipping
 
@@ -449,7 +573,26 @@ Illustrative example with a fictional product.
 - [Image: Baby Bunting Marketplace logo] Baby Bunting Marketplace
 - [Image: Kogan Marketplace logo] Kogan Marketplace
 - [Image: Shopify logo] Shopify
-- [Image: WooCommerce logo] WooCommerce
+- [Image: WooCommerce logo] WooCommerce The research behind AI graphics
+
+## Why it moves the numbers
+76%76% of shoppers say high-quality product images are extremely or very important to their decision to click on a product page from search results.
+[Salsify, 2024 Consumer Research Report, 2024](https://www.salsify.com/hubfs/2024/Content/Salsify%20Consumer%20Research%20Report%202024.pdf)40%Placing a product in a lifestyle context in a mobile Sponsored Brands ad can deliver click-through rates 40% higher than ads with standard product images.
+[Amazon, Amazon rolls out AI-powered image generation to help advertisers, 2023](https://www.aboutamazon.com/news/innovation-at-amazon/amazon-ads-ai-powered-image-generator)24%Amazon product detail pages that added their first shoppable video saw an average 24% increase in sales compared with those without videos.
+[Amazon, Let Amazon product videos show customers what images can't, 2025](https://sell.amazon.com/blog/amazon-product-video)up to 20%Basic A+ Content (enhanced images and comparison charts) can increase Amazon sales by up to 8%, and well-implemented Premium A+ Content by up to 20%.
+[Amazon, A+ Content, 2026](https://sell.amazon.com/tools/a-content)Independent studies, linked to their sources. [All research findings](https://ecomchannels.com/research/).
+
+## Guides on ai graphics
+AI graphics & visual commerceAlmost 90% of consumers want to know if an image is AI-made
+### [AI-Generated Product Photos: Risks, Rules and Disclosure](https://ecomchannels.com/insights/ai-generated-product-images-rules-risks/)
+AI can create product scenes in seconds, but Australian Consumer Law and marketplace rules still apply. The risks, the disclosure rules and a safe workflow.
+5 min read · 8 sources AI graphics & visual commerceAmazon recommends a main image plus at least 6 more and a video
+### [How Many Product Images Per Listing? What Marketplaces Advise](https://ecomchannels.com/insights/how-many-product-images-per-listing/)
+Amazon, Google, eBay and TikTok Shop all publish image-count guidance. How many product images to aim for, which shots to include and why order matters.
+5 min read · 9 sources AI graphics & visual commerceLifestyle ad images lifted click-through up to 40% in Amazon tests
+### [Lifestyle vs White Background Product Photos: When to Use Each](https://ecomchannels.com/insights/lifestyle-vs-white-background-product-photos/)
+White-background shots win marketplace search; lifestyle images build context and clicks. Learn where each belongs and how to balance them in your gallery.
+5 min read · 7 sources
 
 ## Questions about AI graphics
 
@@ -534,7 +677,26 @@ Illustration: each payout line is matched to its order, and only exceptions need
 - [Image: Temple & Webster logo] Temple & Webster
 - [Image: Baby Bunting Marketplace logo] Baby Bunting Marketplace
 - [Image: Kogan Marketplace logo] Kogan Marketplace
-- [Image: Shopify logo] Shopify
+- [Image: Shopify logo] Shopify The research behind Finance auto reconciliation
+
+## Why it moves the numbers
+59%59% of accountants make several financial errors a month, and 18% make errors at least daily, with errors linked to capacity constraints.
+[Gartner, Survey Shows That a Third of Accountants Make Several Financial Errors Per Week due to Capacity Constraints, 2024](https://www.gartner.com/en/newsroom/press-releases/2024-02-21-gartner-survey-shows-that-a-third-of-accountants-make-several-error-per-weeo-due-to-capacity-constraints)39%39% of finance functions using AI apply it to anomaly and error detection, and 44% to intelligent process automation.
+[Gartner, Survey Shows 58% of Finance Functions Using AI in 2024, 2024](https://www.gartner.com/en/newsroom/press-releases/2024-09-11-gartner-survey-shows-58-percent-of-finance-functions-use-ai-in-2024)30%A generative AI assistant for budget variance insights at a global consumer goods company saved an estimated 30% of finance professionals' time.
+[McKinsey & Company, How finance teams are putting AI to work today, 2025](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-finance-teams-are-putting-ai-to-work-today)4.8 daysTop-quartile organisations complete the monthly close in 4.8 days or less, about half the time of the bottom quartile (10+ days); the median is 6.4 days.
+[CFO.com / APQC, Metric of the Month: Cycle Time for Monthly Close, 2018](https://www.cfo.com/news/metric-of-the-month-cycle-time-for-monthly-close/659297/)Independent studies, linked to their sources. [All research findings](https://ecomchannels.com/research/).
+
+## Guides on finance auto reconciliation
+Marketplaces & multichannelMost Amazon Australia referral fees sit between 6% and 15%
+### [Marketplace Fees in Australia Compared: Amazon, eBay, Etsy & More](https://ecomchannels.com/insights/australian-marketplace-fees-compared/)
+Published seller fees for Amazon, eBay, Etsy, Kogan, Temu and retailer marketplaces in Australia, plus the hidden costs that decide if a channel pays.
+5 min read · 8 sources Finance & reconciliation59% of finance functions reported using AI in 2025
+### [Automating E-commerce Finance with AI: What Works Now](https://ecomchannels.com/insights/automating-ecommerce-finance-with-ai/)
+Where AI and automation help e-commerce finance today, from reconciliation and anomaly detection to forecasting, and how retailers can start safely.
+5 min read · 7 sources Finance & reconciliationInadequate cash flow is the most cited cause of business failure in Australian company insolvencies
+### [Cash-Flow Forecasting for Online Sellers: A Practical Guide](https://ecomchannels.com/insights/cash-flow-forecasting-online-sellers/)
+How Australian online sellers can forecast cash flow when marketplaces pay on different cycles: payout timing, peak stock buys, returns and GST.
+5 min read · 8 sources
 
 ## Questions about Finance auto reconciliation
 
@@ -599,7 +761,26 @@ Manage brand accounts across platforms from the same system that runs your order
 - [Image: Pinterest logo] Pinterest
 - [Image: X logo] X
 - [Image: Threads logo] Threads
-- [Image: RedNote (Xiaohongshu) logo] RedNote (Xiaohongshu)
+- [Image: RedNote (Xiaohongshu) logo] RedNote (Xiaohongshu) The research behind AI social media outreach
+
+## Why it moves the numbers
+11%Social media accounts for 11% of Australian online sales, and 67% of businesses now sell through social platforms.
+[IT Brief Australia, reporting PayPal eCommerce Index 2026, 2026](https://itbrief.com.au/story/australian-businesses-embrace-social-selling-paypal-says)$8 billionAustralian social commerce reached $4.9 billion in 2024 and is expected to grow to $8 billion by 2029.
+[Australia Post, eCommerce Report 2025, 2025](https://auspost.com.au/content/dam/auspost_corp/media/documents/ecommerce-reports/annual-ecommerce-reports/ecommerce-report-2025.pdf)3 in 5Three in five Australian shoppers have made a purchase on social media, and 53% say it could become their top shopping destination by 2030.
+[DHL eCommerce, Clicks, carts & conversions in Australia, 2025](https://www.dhl.com/content/dam/dhl/local/global/dhl-ecommerce/documents/pdf/g0-ecs-insights-country-report-australia-2025.pdf)58%More than 58% of Australians use social media for brand and product research, close to search engines (62%) and well ahead of brand websites (37%).
+[We Are Social, Digital 2025 Australia, 2025](https://wearesocial.com/au/blog/2025/02/digital-2025-australia-social-media-rivals-search-for-brand-discovery/)Independent studies, linked to their sources. [All research findings](https://ecomchannels.com/research/).
+
+## Guides on ai social media outreach
+Social commerceHighly consistent posters get 5x more engagement per post
+### [AI Content Calendars for Retail Social Media: A Practical Guide](https://ecomchannels.com/insights/ai-social-media-content-calendar-retailers/)
+How online retailers can use AI to plan and draft a consistent social media calendar across channels, keep humans in control and avoid the trust pitfalls.
+5 min read · 6 sources Social commerce17.7 million Facebook and 15.2 million Instagram users in Australia
+### [Facebook and Instagram Shops for Australian Retailers in 2026](https://ecomchannels.com/insights/facebook-instagram-shops-australian-retailers/)
+Meta moved Facebook and Instagram Shops to website checkout. How Shops, product tags and Shops ads work now and how Australian retailers make them sell.
+5 min read · 6 sources Social commerce81% of influencers reviewed by the ACCC made potentially misleading posts
+### [Influencer and UGC Marketing for Australian Online Retailers](https://ecomchannels.com/insights/influencer-ugc-marketing-australian-retailers/)
+How Australian retailers can use creators and customer content to drive discovery and sales, stay compliant with ACCC rules and measure what actually works.
+5 min read · 7 sources
 
 ## Questions about AI social media outreach
 
@@ -675,6 +856,26 @@ A shared team inbox with the order in view, so support can answer without switch
 - [Image: Baby Bunting Marketplace logo] Baby Bunting Marketplace
 - [Image: Kogan Marketplace logo] Kogan Marketplace
 - [Image: Shopify logo] Shopify[See all channels, couriers and platforms](https://ecomchannels.com/channels/)
+The research behind Order management (OMS)
+
+## Why it moves the numbers
+80%When an item is out of stock, 80% of Australian online shoppers turn to a competitor.
+[Grant Thornton Australia, Value, Speed, and Reliability: What's Driving Australian Retail, 2025](https://www.grantthornton.com.au/globalassets/1.-member-firms/australian-website/industry/retail/pdfs/gtal_2026_retail_report.pdf)17.5xSellers active on two or more marketplaces averaged 17.5 times the GMV of sellers on a single marketplace ($10.07m vs $575,093).
+[Mirakl, The marketplace revolution: Key insights from our 2026 Seller Report, 2026](https://www.mirakl.com/blogs/brands-sellers/the-marketplace-revolution-key-insights-from-our-2026-seller-report/)73%73% of Australian online shoppers made a purchase on a marketplace in 2025.
+[Australia Post, Category Insights: Online marketplaces (eCommerce Report 2026), 2026](https://auspost.com.au/content/dam/auspost_corp/media/documents/australia-post-ecommerce-report-2026-online-marketplaces.pdf)26.7%BIG W's eCommerce gross transaction value, including third-party marketplace sales, rose 26.7% to $956 million in F26, more than double the growth of its own online sales.
+[Woolworths Group, F26 Full Year Results Announcement, 2026](https://www.woolworthsgroup.com.au/content/dam/wwg/investors/asx-announcements/2026/3108623.pdf)Independent studies, linked to their sources. [All research findings](https://ecomchannels.com/research/).
+
+## Guides on order management (oms)
+E-commerce trendsAustralians spent a record $82.6 billion online in 2025, up 14%
+### [Australian Online Shopping Statistics 2026: The Key Numbers](https://ecomchannels.com/insights/australian-online-shopping-statistics-2026/)
+Australians spent a record $82.6 billion online in 2025. The key 2026 numbers on spend, households, marketplaces and delivery, and what they mean for sellers.
+5 min read · 5 sources E-commerce trends67% of B2B buyers prefer a rep-free buying experience
+### [B2B E-commerce Growth: What Australian Suppliers Need to Know](https://ecomchannels.com/insights/b2b-ecommerce-growth-australia/)
+Two-thirds of B2B buyers now prefer to buy without a sales rep. How B2B e-commerce is growing, what trade buyers expect and how Australian suppliers respond.
+5 min read · 5 sources E-commerce trendsOnline was 26% of total Australian retail in the September 2026 quarter
+### [What Share of Australian Retail Is Online? 2026 Data Explained](https://ecomchannels.com/insights/online-share-of-retail-australia/)
+Online is 12.7% of Australian retail on the last ABS measure and 24-26% on bank transaction data. Why the numbers differ and which one to use for planning.
+5 min read · 6 sources
 
 ## Questions about Order management (OMS)
 
@@ -720,6 +921,26 @@ Each store has its own Liquid theme and content.
 
 ### Checkout and payments
 Cart and checkout with online payment providers built in.
+The research behind Branded storefronts
+
+## Why it moves the numbers
+35.26%Large e-commerce sites can gain an average 35.26% increase in conversion rate by fixing documented checkout design issues.
+[Baymard Institute, Cart Abandonment Rate Statistics 2026, 2026](https://baymard.com/lists/cart-abandonment-rate)up to 94%According to Shopify merchant data, products with AR and 3D content see conversion rates up to 94% higher than comparable products without them.
+[Shopify, 6 Digital Transformation Trends in Retail, 2026](https://www.shopify.com/au/blog/digital-transformation-trends-in-retail)73%On 73% of mobile web pages the Largest Contentful Paint element is an image, so image delivery largely decides how fast a mobile page feels.
+[HTTP Archive, Web Almanac 2024: Performance, 2024](https://almanac.httparchive.org/en/2024/performance)39%39% of shoppers abandon a checkout because of additional fees such as delivery charges and taxes.
+[Baymard Institute, How to Reduce Cart Abandonment, 2026](https://baymard.com/blog/reduce-cart-abandonment)Independent studies, linked to their sources. [All research findings](https://ecomchannels.com/research/).
+
+## Guides on branded storefronts
+E-commerce trends24% of Australians now shop online exclusively on mobile, up from 7% a year earlier
+### [Mobile Commerce in Australia 2026: How Shoppers Buy on Phones](https://ecomchannels.com/insights/mobile-commerce-australia-2026/)
+Smartphones are now Australians' preferred device for online shopping, and almost half of online payments go through apps. What mobile-first selling needs.
+5 min read · 5 sources Finance & reconciliationOnline payments made up around 20% of Australian consumer payments in 2025, up from 4% in 2007
+### [Payment Methods and BNPL Trends in Australian E-commerce](https://ecomchannels.com/insights/payment-methods-bnpl-trends-australia/)
+How Australians pay online in 2026: cards, digital wallets, PayPal and buy now pay later, what the RBA and ASIC changes mean, and the cost to retailers.
+5 min read · 8 sources AI search & storefrontsA 0.1s mobile speed improvement lifted retail conversions by 8.4%
+### [Site Speed and Conversion: Core Web Vitals for Online Stores](https://ecomchannels.com/insights/core-web-vitals-site-speed-ecommerce-conversion/)
+How page speed affects online sales, what Core Web Vitals measure, the thresholds to hit, and the fixes that matter most for Australian ecommerce stores.
+4 min read · 8 sources
 
 ## Questions about Branded storefronts
 
@@ -1363,4 +1584,515 @@ Email support@ecomchannels.com
 ## Existing customers
 
 For help with your eComChannels account, email [support@ecomchannels.com](mailto:support@ecomchannels.com).
+
+
+---
+
+# E-commerce insights
+
+URL: https://ecomchannels.com/insights/
+Updated: 2026-10-30
+
+> 100 research-backed guides on what is changing in Australian e-commerce: marketplaces, AI listings, graphics, shipping, finance, social and AI search.
+
+What is changing in online retail, what the research says, and how to grow sales and cut overhead. Every figure links to the study it comes from.
+
+[ E-commerce trends 10](#ecommerce-trends)[ Marketplaces & multichannel 10](#marketplaces)[ AI listings & marketplace SEO 10](#ai-listings)[ AI graphics & visual commerce 10](#ai-graphics)[ Shipping & delivery 10](#shipping)[ Finance & reconciliation 10](#finance)[ Social commerce 10](#social-commerce)[ Operations & overhead 10](#operations)[ AI search & storefronts 10](#ai-search)[ AI in retail 10](#ai-in-retail)
+
+## E-commerce trends
+What is changing in Australian online retail, with the latest numbers.
+E-commerce trends73% of shoppers say a good delivery experience makes them more likely to shop online
+### [What Australian Online Shoppers Expect in 2026](https://ecomchannels.com/insights/australian-online-shopper-expectations-2026/)
+Australian shoppers expect clear delivery dates, delivery choice, reliable tracking, easy returns and accurate stock. The 2026 evidence and how to meet it.
+5 min read · 5 sources E-commerce trendsAustralians spent a record $82.6 billion online in 2025, up 14%
+### [Australian Online Shopping Statistics 2026: The Key Numbers](https://ecomchannels.com/insights/australian-online-shopping-statistics-2026/)
+Australians spent a record $82.6 billion online in 2025. The key 2026 numbers on spend, households, marketplaces and delivery, and what they mean for sellers.
+5 min read · 5 sources E-commerce trends67% of B2B buyers prefer a rep-free buying experience
+### [B2B E-commerce Growth: What Australian Suppliers Need to Know](https://ecomchannels.com/insights/b2b-ecommerce-growth-australia/)
+Two-thirds of B2B buyers now prefer to buy without a sales rep. How B2B e-commerce is growing, what trade buyers expect and how Australian suppliers respond.
+5 min read · 5 sources E-commerce trends81% of Australian shoppers say they shop around for the best deals
+### [Cost of Living and Value Shopping: What It Means for Sellers](https://ecomchannels.com/insights/cost-of-living-value-shopping-online-retail/)
+Cost-of-living pressure has made Australians deliberate, deal-driven shoppers. How value shopping is changing online buying and how sellers protect margin.
+5 min read · 8 sources E-commerce trends71% of Australians buy from overseas retailers, versus a 59% global average
+### [Cross-Border E-commerce in Australia: What Local Sellers Need](https://ecomchannels.com/insights/cross-border-ecommerce-australia/)
+71% of Australians buy from overseas retailers and offshore marketplaces keep growing. What cross-border trade means for local sellers and how to export.
+5 min read · 8 sources E-commerce trends48% of Australians have already used AI when shopping online
+### [E-commerce Planning for 2027: What Australian Retailers Need](https://ecomchannels.com/insights/ecommerce-planning-2027-australian-retailers/)
+What Australian retailers should plan for in 2027: AI-led discovery, social commerce, marketplaces, smaller baskets and delivery choice, with the evidence.
+5 min read · 6 sources E-commerce trends24% of Australians now shop online exclusively on mobile, up from 7% a year earlier
+### [Mobile Commerce in Australia 2026: How Shoppers Buy on Phones](https://ecomchannels.com/insights/mobile-commerce-australia-2026/)
+Smartphones are now Australians' preferred device for online shopping, and almost half of online payments go through apps. What mobile-first selling needs.
+5 min read · 5 sources E-commerce trendsOnline was 26% of total Australian retail in the September 2026 quarter
+### [What Share of Australian Retail Is Online? 2026 Data Explained](https://ecomchannels.com/insights/online-share-of-retail-australia/)
+Online is 12.7% of Australian retail on the last ABS measure and 24-26% on bank transaction data. Why the numbers differ and which one to use for planning.
+5 min read · 6 sources E-commerce trendsAustralia Post delivered more than 110 million parcels in November-December 2025, up 7.6%
+### [Peak Season Planning: Black Friday to Boxing Day in Australia](https://ecomchannels.com/insights/peak-season-planning-black-friday-boxing-day/)
+Black Friday is now Australia's biggest sales event. 2025 peak data, when shoppers start buying, and a practical plan for stock, listings and dispatch.
+5 min read · 8 sources E-commerce trendsOuter regional and remote households grew online spend 14.4% in 2025, the fastest of any area type
+### [Regional Australia Online Shopping: Growth and How to Serve It](https://ecomchannels.com/insights/regional-australia-online-shopping-growth/)
+Regional and remote households spent $20.6 billion online in 2025, and outer regional areas grew fastest. What regional shoppers need and how to deliver.
+5 min read · 6 sources
+
+## Marketplaces & multichannel
+How Australian marketplaces work and how to grow across them.
+Marketplaces & multichannelMost Amazon Australia referral fees sit between 6% and 15%
+### [Marketplace Fees in Australia Compared: Amazon, eBay, Etsy & More](https://ecomchannels.com/insights/australian-marketplace-fees-compared/)
+Published seller fees for Amazon, eBay, Etsy, Kogan, Temu and retailer marketplaces in Australia, plus the hidden costs that decide if a channel pays.
+5 min read · 8 sources Marketplaces & multichannelAustralians spent $18.9b on pure online marketplaces in 2025, up 13%
+### [Australian Online Marketplaces Compared: 2026 Seller Guide](https://ecomchannels.com/insights/australian-online-marketplaces-compared/)
+Amazon, eBay, Temu, BIG W, Bunnings, Kmart, Myer and more: how Australia's online marketplaces differ on audience, model and fit for local sellers in 2026.
+5 min read · 8 sources Marketplaces & multichannelOut-of-stocks and overstocks cost retailers 6.5% of global sales
+### [How to Avoid Overselling When You Sell on Multiple Channels](https://ecomchannels.com/insights/avoid-overselling-across-multiple-channels/)
+Overselling across Amazon, eBay, BIG W and your store causes cancellations, penalties and lost customers. Why it happens and how central stock sync stops it.
+5 min read · 5 sources Marketplaces & multichannel29% of Australian shoppers start product discovery on marketplaces
+### [Which Marketplace Should You Launch on Next? A Decision Guide](https://ecomchannels.com/insights/choosing-your-next-marketplace-australia/)
+A practical framework for choosing your next marketplace in Australia: audience fit, category demand, margin after fees, operational readiness and risk.
+5 min read · 6 sources Marketplaces & multichannelAmazon requires an Order Defect Rate under 1% to keep selling
+### [Marketplace Account Health: The Metrics That Protect Your Sales](https://ecomchannels.com/insights/marketplace-account-health-metrics-explained/)
+Order defect, cancellation, late shipment and tracking rates explained, with Amazon and eBay thresholds and practical ways to keep seller accounts healthy.
+5 min read · 7 sources Marketplaces & multichannelAmazon's Australian retail sales reached an estimated $7.1b in 2025
+### [Selling on Amazon Australia: A Practical Guide for Retailers](https://ecomchannels.com/insights/selling-on-amazon-australia-retailer-guide/)
+How Amazon.com.au works for Australian retailers: fees, referral rates, performance targets, fulfilment options and what it takes to compete profitably.
+4 min read · 7 sources Marketplaces & multichannelBunnings Marketplace has 300,000+ SKUs from 600+ sellers
+### [Selling on Bunnings and Kmart Marketplaces: What to Know](https://ecomchannels.com/insights/selling-on-bunnings-and-kmart-marketplaces/)
+Bunnings Marketplace and Kmart Marketplace explained: who they suit, how big they are, how sellers are chosen and what operations you need to succeed in 2026.
+5 min read · 6 sources Marketplaces & multichannelTemu had 5 million Australian shoppers in 2025, up 17% in a year
+### [Temu and TikTok Shop: What They Mean for Australian Sellers](https://ecomchannels.com/insights/temu-tiktok-shop-impact-australian-sellers/)
+Temu's rapid growth and TikTok Shop's absence from Australia are changing local e-commerce. What the data shows and how Australian sellers can respond.
+5 min read · 8 sources Marketplaces & multichannelSellers on 2+ marketplaces average 17.5x the GMV of single-marketplace sellers
+### [Why Multichannel Sellers Grow Faster, and What It Takes](https://ecomchannels.com/insights/why-multichannel-sellers-grow-faster/)
+Sellers on two or more marketplaces reach more shoppers and earn more. Here is what the data shows, why it happens and how to expand without adding overhead.
+5 min read · 6 sources Marketplaces & multichannelBIG W eCommerce GTV including marketplace rose 26.7% to $956m in F26
+### [Woolworths MarketPlus and BIG W Market Explained for Sellers](https://ecomchannels.com/insights/woolworths-marketplus-big-w-market-explained/)
+How Woolworths MarketPlus works: one onboarding for BIG W, Everyday Market and Everyday Rewards Shop, audience size, fees to expect and how to get approved.
+4 min read · 6 sources
+
+## AI listings & marketplace SEO
+Titles, attributes and content that get products found and bought.
+AI listings & marketplace SEOSellers created 12 million+ listings with Amazon's generative AI in 2025
+### [Bulk Listing at Scale: How to List Thousands of SKUs Accurately](https://ecomchannels.com/insights/bulk-listing-at-scale-marketplaces/)
+How Australian sellers can bulk list and update thousands of SKUs across marketplaces without errors, using a master record, channel templates and AI drafts.
+4 min read · 6 sources AI listings & marketplace SEO41% of shoppers will scroll to page three of search results
+### [How Marketplace Search Ranking Works: A9-Style Factors Explained](https://ecomchannels.com/insights/how-marketplace-search-ranking-works/)
+Marketplace search engines rank listings on relevance and likely conversion. Here are the A9-style ranking factors Australian sellers can actually influence.
+4 min read · 6 sources AI listings & marketplace SEOOnly 27% of organisations review all gen AI content before use
+### [Human-in-the-Loop AI: Why People Should Approve Product Content](https://ecomchannels.com/insights/human-in-the-loop-ai-product-content/)
+AI can draft product listings at scale, but people should approve them. How a human-in-the-loop workflow protects accuracy, compliance and conversion.
+5 min read · 6 sources AI listings & marketplace SEOOnly 18% of shoppers believe in 'page one or bust'
+### [Keyword Research for Marketplaces: A Practical Guide](https://ecomchannels.com/insights/keyword-research-for-marketplaces/)
+How to find the words Australian shoppers type into Amazon, eBay, TikTok Shop and other marketplaces, and where to put them in titles, bullets and attributes.
+5 min read · 7 sources AI listings & marketplace SEOeBay titles of 60-80 characters are 2.1x more likely to sell
+### [Product Titles That Convert: Rules for Each Marketplace](https://ecomchannels.com/insights/marketplace-product-titles-that-convert/)
+How to write product titles that rank and convert on Amazon, eBay, TikTok Shop, Bunnings and Google, with character limits, formulas and common mistakes.
+5 min read · 7 sources AI listings & marketplace SEO1.6% of global ecommerce visits converted in Q3 2025
+### [Measuring Listing Performance: CTR, Conversion and What to Fix](https://ecomchannels.com/insights/measuring-listing-performance-ctr-conversion/)
+How to measure marketplace listing performance with impressions, click-through rate and conversion, diagnose the weak step and decide what to fix first.
+5 min read · 6 sources AI listings & marketplace SEO54% of shoppers dropped a purchase due to conflicting product information
+### [Product Attributes and Data Quality: How They Drive Conversion](https://ecomchannels.com/insights/product-attributes-data-quality-conversion/)
+Complete, accurate product attributes decide whether listings show in filtered searches and whether shoppers buy. What the data says and how to fix it.
+5 min read · 6 sources AI listings & marketplace SEOUsers read about 20% of the words on an average web page
+### [Product Descriptions vs Bullet Points: What Shoppers Read](https://ecomchannels.com/insights/product-descriptions-vs-bullet-points/)
+Shoppers scan bullets and specs first and read long descriptions only when they need detail. How to split content between bullets, specs and descriptions.
+4 min read · 6 sources AI listings & marketplace SEO71% of shoppers have returned items over inaccurate descriptions
+### [How Poor Product Information Drives Returns (and How to Fix It)](https://ecomchannels.com/insights/returns-caused-by-poor-product-information/)
+Inaccurate or missing product information is a leading, avoidable cause of online returns. The data on why it happens and practical fixes for your listings.
+4 min read · 6 sources AI listings & marketplace SEO1.3 million Amazon sellers have used its generative AI listing tools
+### [What Is AI Listing Optimisation? A Guide for Online Sellers](https://ecomchannels.com/insights/what-is-ai-listing-optimisation/)
+AI listing optimisation uses AI to draft and improve marketplace titles, attributes and descriptions, with people approving. How it works and why it matters.
+5 min read · 6 sources
+
+## AI graphics & visual commerce
+Product images, infographics and video that lift clicks and sales.
+AI graphics & visual commerceAlmost 90% of consumers want to know if an image is AI-made
+### [AI-Generated Product Photos: Risks, Rules and Disclosure](https://ecomchannels.com/insights/ai-generated-product-images-rules-risks/)
+AI can create product scenes in seconds, but Australian Consumer Law and marketplace rules still apply. The risks, the disclosure rules and a safe workflow.
+5 min read · 8 sources AI graphics & visual commerceAmazon recommends a main image plus at least 6 more and a video
+### [How Many Product Images Per Listing? What Marketplaces Advise](https://ecomchannels.com/insights/how-many-product-images-per-listing/)
+Amazon, Google, eBay and TikTok Shop all publish image-count guidance. How many product images to aim for, which shots to include and why order matters.
+5 min read · 9 sources AI graphics & visual commerceLifestyle ad images lifted click-through up to 40% in Amazon tests
+### [Lifestyle vs White Background Product Photos: When to Use Each](https://ecomchannels.com/insights/lifestyle-vs-white-background-product-photos/)
+White-background shots win marketplace search; lifestyle images build context and clicks. Learn where each belongs and how to balance them in your gallery.
+5 min read · 7 sources AI graphics & visual commerceAmazon wants the product to fill 85% of the main image
+### [Marketplace Image Requirements Compared: Amazon, eBay & More](https://ecomchannels.com/insights/marketplace-image-requirements-compared/)
+Side-by-side image rules for Amazon, eBay, Etsy, TikTok Shop, Google, Bunnings and THE ICONIC: sizes, backgrounds, text bans and image counts for 2026.
+6 min read · 9 sources AI graphics & visual commerce97% of Australian adults went online via mobile phone in 2025
+### [Mobile-First Product Images: Designing for the Small Screen](https://ecomchannels.com/insights/mobile-first-product-images/)
+Nearly every Australian goes online by phone. How to design product images that read at thumbnail size, load fast and zoom well on mobile channels.
+5 min read · 8 sources AI graphics & visual commerce55.5% of top home pages have images missing alt text
+### [Product Image Alt Text and Image SEO for Online Retailers](https://ecomchannels.com/insights/product-image-alt-text-and-image-seo/)
+How to write product image alt text that helps shoppers using screen readers and helps Google understand your images, plus file names, sizing and feed tips.
+5 min read · 7 sources AI graphics & visual commerce52% of sites skip descriptive graphics on product images
+### [Product Infographics That Sell: Design Rules for Marketplaces](https://ecomchannels.com/insights/product-infographics-that-sell/)
+How to design product infographics that answer buyer questions fast, where marketplaces allow text on images, and the mistakes that get images rejected.
+6 min read · 9 sources AI graphics & visual commerceAdding a first video lifted Amazon listing sales by 24% on average
+### [Product Video and 360 Views: Do They Lift Online Sales?](https://ecomchannels.com/insights/product-video-and-360-views-ecommerce/)
+Amazon data links product video to sales lifts of around 24%, and 360 and 3D views raise purchase intent. How to plan video and 360 content for marketplaces.
+5 min read · 8 sources AI graphics & visual commerceNearly 75% of struggling advertisers cite creative as their top hurdle
+### [Cut Product Photography Overhead with AI, Without Cutting Corners](https://ecomchannels.com/insights/reduce-product-photography-costs-with-ai/)
+Where AI genuinely saves time and money in product imagery, where a real photo shoot still matters, and how to build a lean image workflow for many channels.
+5 min read · 8 sources AI graphics & visual commerce76% of shoppers say high-quality images are key to clicking a product
+### [Why Product Images Drive Online Conversion: The 2026 Evidence](https://ecomchannels.com/insights/why-product-images-drive-ecommerce-conversion/)
+Product images decide whether shoppers click, trust and buy. See what Baymard, Salsify and the marketplaces say, and how to build image sets that convert.
+6 min read · 7 sources
+
+## Shipping & delivery
+Couriers, delivery expectations, tracking and returns in Australia.
+Shipping & deliveryStarTrack delivers to 12.6 million locations across Australia
+### [Australia Post vs StarTrack vs CouriersPlease vs Allied Express](https://ecomchannels.com/insights/australia-post-startrack-couriersplease-allied-express-compared/)
+Compare Australia Post, StarTrack, CouriersPlease and Allied Express for e-commerce: size limits, surcharges, coverage and when to use each carrier.
+5 min read · 9 sources Shipping & delivery73% of shoppers say a good delivery experience makes them more likely to shop online
+### [What Australian Shoppers Expect From Delivery in 2026](https://ecomchannels.com/insights/australian-online-shopper-delivery-expectations-2026/)
+Australian shoppers want reliable, low-cost delivery, clear dates and more choice at checkout. Here is what the 2025-26 research says and how to respond.
+5 min read · 5 sources Shipping & delivery75% of shoppers say an easy returns process makes them more likely to buy again
+### [Ecommerce Returns Management for Australian Retailers](https://ecomchannels.com/insights/ecommerce-returns-management-australia/)
+How Australian online retailers can manage returns: consumer law basics, what shoppers expect, the main causes of returns and how to cut cost and handling.
+5 min read · 7 sources Shipping & delivery56% of Australian shoppers rank free shipping as their top delivery preference
+### [Free Shipping Thresholds: How to Set One That Pays](https://ecomchannels.com/insights/free-shipping-threshold-strategy-australia/)
+How Australian online retailers can set a free shipping threshold that lifts basket size without eroding margin, using current shopper and carrier data.
+5 min read · 7 sources Shipping & deliveryAmazon requires a late shipment rate under 4% to keep selling privileges
+### [Late Dispatch on Marketplaces: Penalties and How to Avoid Them](https://ecomchannels.com/insights/marketplace-late-dispatch-penalties-late-shipment-rate/)
+How Amazon, eBay and Bunnings measure late dispatch, what happens when sellers miss targets, and practical steps to keep your late shipment rate low.
+5 min read · 8 sources Shipping & delivery32% of Australian shoppers would switch retailers to access out-of-home collection points
+### [Parcel Lockers and Click-and-Collect: A Guide for Retailers](https://ecomchannels.com/insights/parcel-lockers-click-and-collect-australia/)
+Why Australian shoppers want parcel lockers and click-and-collect, what it means for conversion and delivery costs, and how to add out-of-home options.
+5 min read · 7 sources Shipping & deliveryThe last mile generates 60 to 70% of parcel delivery costs
+### [How Shipping Automation Cuts Costs for Online Retailers](https://ecomchannels.com/insights/reduce-shipping-costs-automation-ecommerce/)
+How Australian online retailers can cut shipping costs with automation: right-sized parcels, smarter carrier choice, fewer surcharges and less manual work.
+5 min read · 8 sources Shipping & deliveryTracked Amazon orders have 60% fewer order defects
+### [How to Reduce 'Where Is My Order?' Enquiries With Tracking](https://ecomchannels.com/insights/reduce-wismo-order-tracking-ecommerce/)
+How Australian online retailers can cut 'where is my order' (WISMO) enquiries with accurate delivery dates, fast tracking upload and clear notifications.
+5 min read · 7 sources Shipping & delivery43% of Australian shoppers will pay extra for same-day or next-day delivery
+### [Same-Day and Next-Day Delivery in Australia: Is It Worth It?](https://ecomchannels.com/insights/same-day-next-day-delivery-australia-trends/)
+Same-day and next-day delivery in Australia: who wants it, what shoppers will pay, what it costs, and how retailers can offer fast delivery profitably.
+5 min read · 6 sources Shipping & deliveryStarTrack oversize charges range from $25 to $600 per item (excl. GST)
+### [Shipping Bulky and Heavy Items in Australia: A Seller's Guide](https://ecomchannels.com/insights/shipping-bulky-heavy-items-australia-guide/)
+How to ship furniture, flat-packs and other bulky goods in Australia: carrier limits, cubic weight, oversize surcharges, packaging and choosing a carrier.
+5 min read · 7 sources
+
+## Finance & reconciliation
+Marketplace payouts, fees, cash flow and month-end close.
+Finance & reconciliation59% of finance functions reported using AI in 2025
+### [Automating E-commerce Finance with AI: What Works Now](https://ecomchannels.com/insights/automating-ecommerce-finance-with-ai/)
+Where AI and automation help e-commerce finance today, from reconciliation and anomaly detection to forecasting, and how retailers can start safely.
+5 min read · 7 sources Finance & reconciliationInadequate cash flow is the most cited cause of business failure in Australian company insolvencies
+### [Cash-Flow Forecasting for Online Sellers: A Practical Guide](https://ecomchannels.com/insights/cash-flow-forecasting-online-sellers/)
+How Australian online sellers can forecast cash flow when marketplaces pay on different cycles: payout timing, peak stock buys, returns and GST.
+5 min read · 8 sources Finance & reconciliation59% of accountants make several financial errors a month
+### [The Real Cost of Manual Reconciliation for Online Retailers](https://ecomchannels.com/insights/cost-of-manual-reconciliation-ecommerce/)
+What manual marketplace reconciliation costs Australian online retailers in staff time, errors, missed recoveries and slow decisions, and how to measure it.
+5 min read · 6 sources Finance & reconciliationThe median organisation takes 6.4 calendar days to close its monthly books
+### [Month-End Close for E-commerce: A Checklist for Retailers](https://ecomchannels.com/insights/ecommerce-month-end-close-checklist/)
+A month-end close checklist for Australian online retailers: cut-off, settlements that straddle month end, stock, refunds, GST and channel reporting.
+5 min read · 5 sources Finance & reconciliationGST registration is required once GST turnover reaches $75,000
+### [GST on Marketplace Sales in Australia: A Seller's Overview](https://ecomchannels.com/insights/gst-marketplace-sales-australia-guide/)
+General information on GST for Australian marketplace sellers: registration, who charges GST, fees and GST credits, and records to keep. Not tax advice.
+5 min read · 7 sources Finance & reconciliationMost Amazon AU referral fees sit between 6% and 15% of the sale
+### [Hidden Marketplace Fees: What Cuts Your Payout in Australia](https://ecomchannels.com/insights/hidden-marketplace-fees-australian-sellers/)
+The less obvious marketplace fees Australian sellers pay, from refund admin fees to currency charges and ad deductions, and how to spot them in payouts.
+5 min read · 8 sources Finance & reconciliationAmazon.com.au settles seller payouts in 14-day cycles
+### [Marketplace Settlement Reconciliation Explained for AU Sellers](https://ecomchannels.com/insights/marketplace-settlement-reconciliation-explained/)
+How marketplace settlement reconciliation works for Australian sellers: matching payouts to orders, fees, refunds and reserves, and catching short payments.
+6 min read · 5 sources Finance & reconciliationOnline payments made up around 20% of Australian consumer payments in 2025, up from 4% in 2007
+### [Payment Methods and BNPL Trends in Australian E-commerce](https://ecomchannels.com/insights/payment-methods-bnpl-trends-australia/)
+How Australians pay online in 2026: cards, digital wallets, PayPal and buy now pay later, what the RBA and ASIC changes mean, and the cost to retailers.
+5 min read · 8 sources Finance & reconciliationAustralians spent $18.9 billion through pure online marketplaces in 2025, up 13%
+### [Profit per Channel: How to Measure True Marketplace Margins](https://ecomchannels.com/insights/profitability-per-sales-channel/)
+How Australian multichannel retailers can measure contribution margin per sales channel, including fees, ads, freight, returns and payment costs.
+5 min read · 6 sources Finance & reconciliationEach chargeback costs merchants an average of $128 in fees and internal costs
+### [How to Track Refunds and Chargebacks Across Every Channel](https://ecomchannels.com/insights/tracking-refunds-chargebacks-ecommerce/)
+A practical system for Australian online retailers to track refunds, returns and chargebacks across marketplaces and their own store, and cut their cost.
+5 min read · 6 sources
+
+## Social commerce
+Selling and getting discovered on social platforms.
+Social commerceHighly consistent posters get 5x more engagement per post
+### [AI Content Calendars for Retail Social Media: A Practical Guide](https://ecomchannels.com/insights/ai-social-media-content-calendar-retailers/)
+How online retailers can use AI to plan and draft a consistent social media calendar across channels, keep humans in control and avoid the trust pitfalls.
+5 min read · 6 sources Social commerce17.7 million Facebook and 15.2 million Instagram users in Australia
+### [Facebook and Instagram Shops for Australian Retailers in 2026](https://ecomchannels.com/insights/facebook-instagram-shops-australian-retailers/)
+Meta moved Facebook and Instagram Shops to website checkout. How Shops, product tags and Shops ads work now and how Australian retailers make them sell.
+5 min read · 6 sources Social commerce81% of influencers reviewed by the ACCC made potentially misleading posts
+### [Influencer and UGC Marketing for Australian Online Retailers](https://ecomchannels.com/insights/influencer-ugc-marketing-australian-retailers/)
+How Australian retailers can use creators and customer content to drive discovery and sales, stay compliant with ACCC rules and measure what actually works.
+5 min read · 7 sources Social commerce85% of marketers feel confident measuring ROI, but only 32% measure it holistically
+### [How to Measure Social Media ROI for E-commerce](https://ecomchannels.com/insights/measuring-social-media-roi-ecommerce/)
+A practical framework for measuring social media ROI in e-commerce: what to track, why platform attribution overstates results and how to test incrementality.
+5 min read · 6 sources Social commercePinterest sees over 80 billion searches a month, most of them visual
+### [Pinterest and Visual Search: Getting Products Discovered](https://ecomchannels.com/insights/pinterest-visual-search-product-discovery/)
+How Pinterest and visual search help Australian retailers get products discovered, what Pinterest's own data shows and how to set up Pins that drive traffic.
+5 min read · 5 sources Social commerce732,000 people living in Australia were born in China
+### [RedNote: Reaching Chinese-Speaking Shoppers in Australia](https://ecomchannels.com/insights/rednote-xiaohongshu-chinese-speaking-shoppers-australia/)
+What RedNote (Xiaohongshu) is, who uses it in Australia, and how local retailers can use it to reach Chinese-speaking shoppers, students and visitors.
+5 min read · 5 sources Social commerce3 in 5 Australian shoppers have bought on social media
+### [Social Commerce in Australia 2026: The State of Play](https://ecomchannels.com/insights/social-commerce-australia-2026/)
+How big social commerce is in Australia in 2026, where shoppers actually buy after discovering products on social, and what online retailers should do next.
+5 min read · 8 sources Social commerceMeta's average price per ad rose 14% year on year in Q3 2026
+### [Social Media Ad Costs in 2026: Trends for Australian Sellers](https://ecomchannels.com/insights/social-media-ad-costs-trends-2026/)
+Social ad prices are rising. What Meta's results and benchmark data show about 2026 ad costs, and how Australian retailers can lower their cost per sale.
+5 min read · 7 sources Social commerceProducts with five reviews were 270% more likely to be bought than those with none
+### [Social Proof and Reviews: How They Lift Online Conversion](https://ecomchannels.com/insights/social-proof-reviews-online-conversion/)
+What research shows about reviews, ratings and social proof on conversion, how Australian rules on fake reviews apply, and how retailers collect more reviews.
+5 min read · 6 sources Social commerceTikTok Shop is live for buyers in 24 markets, not including Australia
+### [TikTok Shop and Live Shopping: A Guide for Australian Sellers](https://ecomchannels.com/insights/tiktok-shop-live-shopping-australian-sellers/)
+TikTok Shop is still not open to Australian buyers. What that means for local sellers, how live shopping performs overseas and how to prepare now.
+5 min read · 7 sources
+
+## Operations & overhead
+Order management, stock accuracy and running leaner.
+Operations & overhead65% of smaller companies report automation success vs 55% of large ones
+### [Automation ROI for Small Retailers: What the Evidence Shows](https://ecomchannels.com/insights/automation-roi-small-retailers/)
+Smaller firms report higher automation success than large ones when they set clear KPIs. How SMB retailers can estimate, measure and protect automation ROI.
+5 min read · 6 sources Operations & overheadMinimum award wages rose 4.75% from 1 July 2026
+### [The Real Cost of Manual Order Processing for Online Retailers](https://ecomchannels.com/insights/cost-of-manual-order-processing/)
+Re-keying orders, stock and tracking costs wages, errors and marketplace penalties. A practical breakdown of manual order processing costs and how to cut it.
+5 min read · 7 sources Operations & overheadTemple & Webster sells 200,000+ products from hundreds of suppliers via drop-ship
+### [Dropship and Supplier Workflows: Run Them Without the Chaos](https://ecomchannels.com/insights/dropship-supplier-workflows-marketplaces/)
+Dropshipping widens your range without holding stock, but marketplaces hold you responsible. How to run supplier and dropship workflows that meet the rules.
+5 min read · 7 sources Operations & overheadAbout 60% of SKUs studied had inaccurate inventory records
+### [Inventory Sync and Stock Accuracy: Stop Overselling Everywhere](https://ecomchannels.com/insights/inventory-sync-stock-accuracy-multichannel/)
+About 60% of retail stock records are wrong, and fixing them can lift sales 4-8%. How multichannel sellers keep stock accurate and stop overselling.
+5 min read · 8 sources Operations & overhead73% of shoppers say a great delivery experience makes them more likely to buy again
+### [Reduce Order Errors: Wrong Items, Mis-ships and Late Dispatch](https://ecomchannels.com/insights/reduce-order-errors-wrong-item-mis-ship/)
+Wrong items and mis-ships cost reshipping, refunds and marketplace standing. Where order errors come from and the checks that stop them before parcels leave.
+5 min read · 7 sources Operations & overheadMinimum award wages rose 4.75% from 1 July 2026
+### [Retail Staffing and Productivity Trends in Australia for 2026](https://ecomchannels.com/insights/retail-staffing-productivity-trends-australia/)
+Retail employs 1.34 million Australians, award wages rose 4.75% and productivity growth is flat. What staffing trends mean for online retailers' costs.
+5 min read · 9 sources Operations & overheadAlmost 111 million parcels delivered in Nov-Dec 2025, up 7.6%
+### [Scaling for Peak Season Without Hiring a Temporary Army](https://ecomchannels.com/insights/scale-peak-season-without-hiring/)
+Australia Post moved almost 111 million parcels in peak 2025. How online retailers can handle Black Friday and Christmas volume with automation, not temps.
+5 min read · 7 sources Operations & overhead88% of retailers call unified commerce critical; only 15% have implemented it
+### [Single Source of Truth: Why Retail Data Belongs in One Place](https://ecomchannels.com/insights/single-source-of-truth-retail-data/)
+88% of retailers say unified commerce is critical, yet only 15% have built it. Why a single source of truth for products, stock, orders and payouts cuts cost.
+5 min read · 6 sources Operations & overheadTravel takes up 55% of a picker's time on average
+### [Warehouse Picking and Packing: Ship Faster With Fewer Errors](https://ecomchannels.com/insights/warehouse-picking-packing-efficiency/)
+Picking is the costliest warehouse task and walking eats over half of it. Practical ways small online retailers can speed up picking, packing and cut errors.
+5 min read · 5 sources Operations & overheadAustralians spent $82.6 billion online in 2025, up 14% year on year
+### [What Is an Order Management System (OMS)? A Retailer's Guide](https://ecomchannels.com/insights/what-is-an-order-management-system-oms/)
+An order management system pulls orders from every channel into one place, keeps stock in sync and drives dispatch. How an OMS works and when you need one.
+6 min read · 6 sources
+
+## AI search & storefronts
+GEO, AI shopping assistants, agentic commerce and fast stores.
+AI search & storefrontsAI agents could mediate US$3 trillion to US$5 trillion of global consumer commerce by 2030
+### [Agentic Commerce Explained: ACP, UCP and What Retailers Need](https://ecomchannels.com/insights/agentic-commerce-protocols-acp-ucp-explained/)
+Agentic commerce lets AI agents find and buy products for shoppers. Here is how ACP, UCP and AP2 work, what is live in Australia, and how to get ready.
+5 min read · 9 sources AI search & storefrontsAI-referred shoppers convert at nearly 50% higher rates than organic search visitors
+### [AI Shopping Assistants: How ChatGPT and AI Mode Pick Products](https://ecomchannels.com/insights/ai-shopping-assistants-chatgpt-perplexity-google-ai-mode/)
+How ChatGPT, Perplexity and Google AI Mode research and recommend products, what data they rely on, and how Australian retailers can be in the shortlist.
+5 min read · 7 sources AI search & storefrontsA 0.1s mobile speed improvement lifted retail conversions by 8.4%
+### [Site Speed and Conversion: Core Web Vitals for Online Stores](https://ecomchannels.com/insights/core-web-vitals-site-speed-ecommerce-conversion/)
+How page speed affects online sales, what Core Web Vitals measure, the thresholds to hit, and the fixes that matter most for Australian ecommerce stores.
+4 min read · 8 sources AI search & storefrontsPure online marketplaces took 23% of Australian online spending in 2025
+### [DTC vs Marketplace: Getting the Channel Mix Right in Australia](https://ecomchannels.com/insights/dtc-vs-marketplace-channel-mix-australia/)
+Should Australian retailers sell direct, on marketplaces, or both? The data on where shoppers buy, the trade-offs in margin and control, and how to run both.
+5 min read · 5 sources AI search & storefrontsAI and agents influenced 20% of global Cyber Week 2025 orders
+### [E-commerce Personalisation: What Works and What It Returns](https://ecomchannels.com/insights/ecommerce-personalisation-what-works/)
+What ecommerce personalisation delivers, the research on revenue and cost, and practical, privacy-aware tactics Australian retailers can use across channels.
+5 min read · 6 sources AI search & storefronts56% of ecommerce sites fail to adequately support users' search needs
+### [Site Search for Online Stores: Best Practice and Benchmarks](https://ecomchannels.com/insights/ecommerce-site-search-best-practice/)
+Why on-site search makes or breaks online sales, what benchmark research shows most stores get wrong, and the fixes Australian retailers should make first.
+5 min read · 5 sources AI search & storefronts84% of Australians want more control over how their personal information is collected and used
+### [First-Party Data for Retailers: A Strategy Beyond Cookies](https://ecomchannels.com/insights/first-party-data-strategy-after-cookies/)
+Chrome kept third-party cookies, but privacy rules and shopper expectations are tightening. How Australian retailers can build consented customer data.
+4 min read · 6 sources AI search & storefrontsRetail traffic from generative AI tools rose 693% in the 2025 US holiday season
+### [Generative Engine Optimisation (GEO): A Guide for Retailers](https://ecomchannels.com/insights/generative-engine-optimisation-geo-for-retailers/)
+What generative engine optimisation means for online retailers, what the research shows, and the practical steps that get products cited by AI search tools.
+6 min read · 8 sources AI search & storefronts59.5% of Shopify Liquid origins passed Core Web Vitals vs 35% for Hydrogen headless
+### [Headless and Composable Storefronts: When Do They Pay Off?](https://ecomchannels.com/insights/headless-composable-commerce-storefronts-guide/)
+Headless and composable commerce explained for Australian retailers: the real benefits, the performance and cost trade-offs, and when a simpler store wins.
+5 min read · 5 sources AI search & storefrontsNestlé measured an 82% higher click-through rate on pages shown as rich results
+### [Product Structured Data: A Schema Markup Guide for Online Stores](https://ecomchannels.com/insights/product-structured-data-schema-for-ecommerce/)
+How Product schema markup works, which properties Google requires for merchant listings, and why accurate structured data now feeds AI shopping answers too.
+5 min read · 7 sources
+
+## AI in retail
+Where AI pays off in retail, the evidence and the risks.
+AI in retail12% of Australian businesses used AI in 2024-25, up from about 1%
+### [AI Adoption Among Australian SMEs: The 2026 Numbers Explained](https://ecomchannels.com/insights/ai-adoption-australian-small-businesses/)
+How many Australian small businesses use AI in 2026, what they use it for, what holds them back, and practical next steps for online retailers and sellers.
+5 min read · 5 sources AI in retailAI assistance lifted support agents' resolutions per hour by 13.8%
+### [AI Customer Service for Online Retailers: What Works in 2026](https://ecomchannels.com/insights/ai-customer-service-online-retailers/)
+What the evidence says about AI customer service for online retailers: productivity gains, shopper concerns, chatbot pitfalls and how to cut WISMO contacts.
+5 min read · 5 sources AI in retailAI forecasting can cut supply chain forecast errors by 20-50%
+### [AI Demand Forecasting for Retailers: Fewer Stockouts, Less Waste](https://ecomchannels.com/insights/ai-demand-forecasting-retail-inventory/)
+How AI demand forecasting cuts forecast errors, stockouts and excess stock for online retailers, what data it needs, and how multichannel sellers can start.
+5 min read · 5 sources AI in retailDynamic pricing typically lifts sales 2-5% and margins 5-10%
+### [AI Dynamic Pricing for Online Retailers: Gains, Risks and Rules](https://ecomchannels.com/insights/ai-dynamic-pricing-australian-retailers/)
+How AI dynamic pricing works for online retailers, the margin gains reported, Australian Consumer Law and marketplace pricing rules, and how to start safely.
+5 min read · 5 sources AI in retail51% of organisations using AI have seen at least one negative consequence
+### [AI Risks and Governance for Australian Retailers: A Guide](https://ecomchannels.com/insights/ai-risks-governance-australian-retailers/)
+AI risks and governance for Australian retailers: the six essential AI practices, privacy rules, ADM transparency from December 2026 and simple controls.
+5 min read · 6 sources AI in retail71% of Australian leaders know AI agents, but only 31% of employees
+### [Building an AI-Ready Retail Team: Skills, Roles and Training](https://ecomchannels.com/insights/building-ai-ready-retail-team/)
+How Australian retailers can build an AI-ready team: the skills gap in numbers, which roles change, how to train staff and how to keep people in control of AI.
+5 min read · 6 sources AI in retailOverseas online card spending is 3% of spend but 52% of card fraud
+### [AI E-commerce Fraud Prevention: A Guide for Australian Sellers](https://ecomchannels.com/insights/ecommerce-fraud-prevention-ai-australia/)
+Australian card-not-present fraud and scam data for 2025, the fraud types online sellers face, and how AI, automation and reconciliation reduce losses.
+5 min read · 5 sources AI in retailAI and agents influenced 20% of global online holiday sales in 2025
+### [How AI Is Changing E-commerce in 2026: A Guide for Retailers](https://ecomchannels.com/insights/how-ai-is-changing-ecommerce-2026/)
+AI is reshaping e-commerce in 2026: AI shopping assistants, agentic commerce, service bots and back-office automation, plus what Australian sellers should do.
+6 min read · 4 sources AI in retailOnly 25% of AI initiatives delivered expected ROI, CEOs say
+### [The ROI of AI in Retail: What the Studies Actually Show](https://ecomchannels.com/insights/roi-of-ai-in-retail-what-studies-show/)
+What research from IBM, Deloitte, McKinsey and IHL says about AI returns in retail, why many projects stall, and how online sellers can get measurable payback.
+5 min read · 6 sources AI in retailOnly 20% of plastic packaging is recycled, against a 70% target
+### [Sustainable E-commerce Packaging and AI: A Guide for Retailers](https://ecomchannels.com/insights/sustainable-ecommerce-packaging-ai/)
+Where Australian e-commerce packaging stands against national targets, how to avoid greenwashing, and how AI and automation cut waste, freight and returns.
+5 min read · 6 sources
+
+
+---
+
+# What the research says
+
+URL: https://ecomchannels.com/research/
+Updated: 2026-10-30
+
+> Independent studies on how AI listings, product images, fast delivery, multichannel selling and automation lift visibility, traffic, sales and cut costs.
+
+Independent studies from Australia Post, Amazon, eBay, Adobe, McKinsey, Baymard, Salesforce and others on how better listings, images, delivery, multichannel selling and AI move visibility, traffic, sales and costs. Every figure links to its source.
+
+1
+### Exposure & visibility
+40%Optimising content for generative engines boosted source visibility in AI-generated answers by up to 40% in controlled tests.
+[Aggarwal et al. (Princeton), GEO: Generative Engine Optimization, KDD 2024, 2024](https://arxiv.org/abs/2311.09735)[AI listings](https://ecomchannels.com/products/ai-listing-optimisation/)[GEO-ready storefronts](https://ecomchannels.com/products/storefronts/)[AI social](https://ecomchannels.com/products/ai-social-media-marketing/)2
+### Traffic & clicks
+76%76% of shoppers say high-quality product images are extremely or very important to their decision to click on a product page from search results.
+[Salsify, 2024 Consumer Research Report, 2024](https://www.salsify.com/hubfs/2024/Content/Salsify%20Consumer%20Research%20Report%202024.pdf)[AI graphics](https://ecomchannels.com/products/ai-graphics/)[AI social](https://ecomchannels.com/products/ai-social-media-marketing/)3
+### Conversion
+54%54% of shoppers dropped purchases because of conflicting product information.
+[Salsify, 2025 Consumer Research Report (press release), 2025](https://www.salsify.com/press-release-salsify-2025-consumer-research-report)[AI listings](https://ecomchannels.com/products/ai-listing-optimisation/)[AI shipping](https://ecomchannels.com/products/ai-shipping/)4
+### Sales growth
+2.3xRetailers deploying AI and machine learning achieved sales growth 2.3 times higher and profit growth 2.5 times higher than competitors.
+[IHL Group, Retail Inventory Crisis Persists Despite $172 Billion in Improvements, 2025](https://www.ihlservices.com/news/analyst-corner/2025/09/retail-inventory-crisis-persists-despite-172-billion-in-improvements/)[Multichannel OMS](https://ecomchannels.com/products/order-management/)[AI graphics](https://ecomchannels.com/products/ai-graphics/)5
+### Lower overhead
+12 million+Independent sellers created more than 12 million sales-ready listings using Amazon's generative AI in 2025.
+[About Amazon, A record number of independent sellers in Amazon's store surpassed $1 million in sales in 2025, 2026](https://www.aboutamazon.com/news/small-business/amazon-2025-small-business-empowerment-report)[Auto reconciliation](https://ecomchannels.com/products/finance-reconciliation/)[Auto shipping](https://ecomchannels.com/products/ai-shipping/)[Bulk AI listings](https://ecomchannels.com/products/ai-listing-optimisation/)
+[Exposure & visibility 8](#visibility)[Traffic & clicks 6](#traffic)[Conversion 19](#conversion)[Sales growth 18](#sales)[Lower overhead 27](#overhead)[Delivery experience 4](#delivery)[Market trends 14](#trend)
+
+## Exposure & visibility
+Be found in marketplace search, Google, AI assistants and social feeds.
+23%Pure online marketplaces captured $18.9 billion in 2025, 23% of all Australian online spending, making them the largest online category.
+[Australia Post, eCommerce Report 2026, 2026](https://auspost.com.au/content/dam/auspost_corp/media/documents/ecommerce-reports/annual-ecommerce-reports/ecommerce-report-2026.pdf)29%29% of Australian shoppers start their product discovery on online marketplaces, so marketplace listings directly drive visibility.
+[Australia Post, Category Insights: Online marketplaces (eCommerce Report 2026), 2026](https://auspost.com.au/content/dam/auspost_corp/media/documents/australia-post-ecommerce-report-2026-online-marketplaces.pdf)41%41% of shoppers will scroll up to page three of search results to find the right product, so visibility beyond page one still drives traffic.
+[Salsify, 2025 Consumer Research Report (press release), 2025](https://www.salsify.com/press-release-salsify-2025-consumer-research-report)58%More than 58% of Australians use social media for brand and product research, close to search engines (62%) and well ahead of brand websites (37%).
+[We Are Social, Digital 2025 Australia, 2025](https://wearesocial.com/au/blog/2025/02/digital-2025-australia-social-media-rivals-search-for-brand-discovery/)5xHighly consistent social posters received five times more engagement per post than inconsistent posters across more than 100,000 accounts.
+[Buffer, Consistent Posting Means 5x More Likes, Comments, and Shares, 2025](https://buffer.com/resources/consistent-posting-study/)75%75% of Australians aged 18 to 39 have discovered brand information from an influencer or content creator they follow.
+[IAB Australia, Australian and New Zealand Commerce Report 2025, 2025](https://www.iabaustralia.com.au/resource/ecommerce-report-2025/)40%Optimising content for generative engines boosted source visibility in AI-generated answers by up to 40% in controlled tests.
+[Aggarwal et al. (Princeton), GEO: Generative Engine Optimization, KDD 2024, 2024](https://arxiv.org/abs/2311.09735)82%Nestlé measured an 82% higher click-through rate on pages shown as rich results, enabled by structured data.
+[Google Search Central, Introduction to structured data markup, 2025](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data)
+
+## Traffic & clicks
+Turn impressions into visits with better images, titles and content.
+73%73% of Australian online shoppers made a purchase on a marketplace in 2025.
+[Australia Post, Category Insights: Online marketplaces (eCommerce Report 2026), 2026](https://auspost.com.au/content/dam/auspost_corp/media/documents/australia-post-ecommerce-report-2026-online-marketplaces.pdf)76%76% of shoppers say high-quality product images are extremely or very important to their decision to click on a product page from search results.
+[Salsify, 2024 Consumer Research Report, 2024](https://www.salsify.com/hubfs/2024/Content/Salsify%20Consumer%20Research%20Report%202024.pdf)40%Placing a product in a lifestyle context in a mobile Sponsored Brands ad can deliver click-through rates 40% higher than ads with standard product images.
+[Amazon, Amazon rolls out AI-powered image generation to help advertisers, 2023](https://www.aboutamazon.com/news/innovation-at-amazon/amazon-ads-ai-powered-image-generator)80 billionPinterest sees over 80 billion searches a month, most of them visual, generating 1.7 billion monthly outbound clicks.
+[Pinterest, Q4 2025 earnings call transcript, 2026](https://s204.q4cdn.com/369458543/files/doc_financials/2025/q4/PINS-Q4-2025-Transcript.pdf)693%Traffic from generative AI tools to US retail sites rose 693% year on year in the 2025 holiday season.
+[Adobe, AI traffic surges across industries, retail sees biggest gains, 2026](https://business.adobe.com/blog/ai-driven-traffic-surges-across-industries)693.4%Traffic to US retail sites from generative AI tools rose 693.4% year on year in the 2025 holiday season.
+[Adobe, Holiday Shopping Season Drove a Record $257.8 Billion Online, 2026](https://news.adobe.com/news/2026/01/adobe-holiday-shopping-season)
+
+## Conversion
+Turn visits into orders with complete information, delivery promises and speed.
+3-10%THE ICONIC reports a 3-10% decrease in conversion for every additional day added to the delivery time shown at checkout.
+[Australia Post, eCommerce Report 2026, 2026](https://auspost.com.au/content/dam/auspost_corp/media/documents/ecommerce-reports/annual-ecommerce-reports/ecommerce-report-2026.pdf)35.26%Large e-commerce sites can gain an average 35.26% increase in conversion rate by fixing documented checkout design issues.
+[Baymard Institute, Cart Abandonment Rate Statistics 2026, 2026](https://baymard.com/lists/cart-abandonment-rate)2.1xeBay Australia says listing titles of 60 to 80 characters are 2.1 times more likely to sell.
+[eBay Australia Seller Centre, Listing an Item, 2026](https://www.ebay.com.au/sellercentre/private-selling/listing-an-item)54%54% of shoppers dropped purchases because of conflicting product information.
+[Salsify, 2025 Consumer Research Report (press release), 2025](https://www.salsify.com/press-release-salsify-2025-consumer-research-report)44%44% of consumers have abandoned a purchase because of insufficient product information.
+[Syndigo, 2025 State of Product Experience Report, 2025](https://syndigo.com/news/2025-product-experience-report/)up to 94%According to Shopify merchant data, products with AR and 3D content see conversion rates up to 94% higher than comparable products without them.
+[Shopify, 6 Digital Transformation Trends in Retail, 2026](https://www.shopify.com/au/blog/digital-transformation-trends-in-retail)56%56% of users' first action on a product page is to explore the product images, before reading titles or descriptions.
+[Baymard Institute, Ensure Sufficient Image Resolution and Zoom, 2020](https://baymard.com/research-articles/ensure-sufficient-image-resolution-and-zoom)37%42% of users try to gauge product size from images, yet 37% of sites provide no 'in scale' image.
+[Baymard Institute, Product Page UX 2026, 2026](https://baymard.com/research-articles/current-state-ecommerce-product-page-ux)73%On 73% of mobile web pages the Largest Contentful Paint element is an image, so image delivery largely decides how fast a mobile page feels.
+[HTTP Archive, Web Almanac 2024: Performance, 2024](https://almanac.httparchive.org/en/2024/performance)70%70% of shoppers say poor delivery communication at checkout makes them less likely to complete a purchase.
+[Australia Post, eCommerce Report 2026, 2026](https://auspost.com.au/content/dam/auspost_corp/media/documents/ecommerce-reports/annual-ecommerce-reports/ecommerce-report-2026.pdf)39%39% of shoppers abandon a checkout because of additional fees such as delivery charges and taxes.
+[Baymard Institute, How to Reduce Cart Abandonment, 2026](https://baymard.com/blog/reduce-cart-abandonment)45%45% of Baby Boomer and Builder shoppers say they would abandon their cart and shop elsewhere if their preferred payment method was not offered.
+[Australia Post, eCommerce Report 2025, 2025](https://auspost.com.au/content/dam/auspost_corp/media/documents/ecommerce-reports/annual-ecommerce-reports/ecommerce-report-2025.pdf)270%A product with five reviews had a 270% greater purchase likelihood than a product with no reviews.
+[Spiegel Research Center, How Online Reviews Influence Sales, 2017](https://spiegel.medill.northwestern.edu/wp-content/uploads/sites/2/2021/04/Spiegel_Online-Review_eBook_Jun2017_FINAL.pdf)60%60% of Australian shoppers say customer reviews on social media influence their buying decisions.
+[DHL eCommerce, Clicks, carts & conversions in Australia, 2025](https://www.dhl.com/content/dam/dhl/local/global/dhl-ecommerce/documents/pdf/g0-ecs-insights-country-report-australia-2025.pdf)31%AI referrals to US retail sites converted 31% more than other traffic sources in the 2025 holiday season.
+[Adobe, AI traffic surges across industries, retail sees biggest gains, 2026](https://business.adobe.com/blog/ai-driven-traffic-surges-across-industries)~50%AI-referred sessions on Shopify stores convert at nearly 50% higher rates than organic search, with 14% higher average order values.
+[Shopify, AI-referred shoppers convert better and spend more, 2026](https://www.shopify.com/enterprise/blog/ai-search-insights)8.4%A 0.1 second improvement in mobile site speed was associated with an 8.4% increase in retail conversions and 9.2% higher average order value.
+[Deloitte, Milliseconds Make Millions, 2020](https://www.deloitte.com/ie/en/services/consulting/research/milliseconds-make-millions.html)53%53% of shoppers typically abandon their cart and go elsewhere after an unsuccessful search on a retail website.
+[Google Cloud, New research: Search abandonment continues to vex retailers worldwide, 2023](https://cloud.google.com/blog/topics/retail/new-research-on-search-abandonment-in-retail)9xShoppers referred to retail sites from AI-powered search channels converted nine times more often than shoppers referred from social media.
+[Salesforce, Salesforce Reveals 2025 Holiday Shopping Data, 2026](https://www.salesforce.com/news/stories/2025-holiday-shopping-data/)
+
+## Sales growth
+Sell on more channels, stay in stock and grow order value.
+80%When an item is out of stock, 80% of Australian online shoppers turn to a competitor.
+[Grant Thornton Australia, Value, Speed, and Reliability: What's Driving Australian Retail, 2025](https://www.grantthornton.com.au/globalassets/1.-member-firms/australian-website/industry/retail/pdfs/gtal_2026_retail_report.pdf)11%Social media accounts for 11% of Australian online sales, and 67% of businesses now sell through social platforms.
+[IT Brief Australia, reporting PayPal eCommerce Index 2026, 2026](https://itbrief.com.au/story/australian-businesses-embrace-social-selling-paypal-says)17.5xSellers active on two or more marketplaces averaged 17.5 times the GMV of sellers on a single marketplace ($10.07m vs $575,093).
+[Mirakl, The marketplace revolution: Key insights from our 2026 Seller Report, 2026](https://www.mirakl.com/blogs/brands-sellers/the-marketplace-revolution-key-insights-from-our-2026-seller-report/)88%Sellers using Mirakl's AI catalogue tool to classify products and standardise listings across marketplaces generated 88% higher GMV than those who did not (vendor-reported).
+[Mirakl, The marketplace revolution: Key insights from our 2026 Seller Report, 2026](https://www.mirakl.com/blogs/brands-sellers/the-marketplace-revolution-key-insights-from-our-2026-seller-report/)26.7%BIG W's eCommerce gross transaction value, including third-party marketplace sales, rose 26.7% to $956 million in F26, more than double the growth of its own online sales.
+[Woolworths Group, F26 Full Year Results Announcement, 2026](https://www.woolworthsgroup.com.au/content/dam/wwg/investors/asx-announcements/2026/3108623.pdf)24%Amazon product detail pages that added their first shoppable video saw an average 24% increase in sales compared with those without videos.
+[Amazon, Let Amazon product videos show customers what images can't, 2025](https://sell.amazon.com/blog/amazon-product-video)up to 20%Basic A+ Content (enhanced images and comparison charts) can increase Amazon sales by up to 8%, and well-implemented Premium A+ Content by up to 20%.
+[Amazon, A+ Content, 2026](https://sell.amazon.com/tools/a-content)3.5-4%Australian retailers offering same- or next-day delivery grew 3.5 to 4% faster during Black Friday and Cyber Monday 2025.
+[Shippit, Fast delivery won peak, 2025](https://www.shippit.com/delivered-newsletter/fast-delivery-won-peak)75%75% of shoppers say an easy returns process makes them more likely to buy again.
+[Australia Post, Trends and insights: Quarterly eCommerce Update, 2026](https://auspost.com.au/business/grow-your-business/trends-insights)$18.9bnAustralians spent $18.9 billion through pure online marketplaces in 2025, up 13% year on year and almost a quarter of all online spending.
+[Australia Post, Why marketplaces are a powerful growth channel, 2026](https://auspost.com.au/business/grow-your-business/business-ideas-blog/marketplace-growth-strategy)3 in 5Three in five Australian shoppers have made a purchase on social media, and 53% say it could become their top shopping destination by 2030.
+[DHL eCommerce, Clicks, carts & conversions in Australia, 2025](https://www.dhl.com/content/dam/dhl/local/global/dhl-ecommerce/documents/pdf/g0-ecs-insights-country-report-australia-2025.pdf)4-8%Correcting inaccurate inventory records increased sales by about 4% to 8% across seven large retailers.
+[ECR Retail Loss / Cardiff University, Measuring the sales impact of improving inventory records, 2019](https://orca.cardiff.ac.uk/id/eprint/142664/)33.13%Rakuten 24's Core Web Vitals-optimised site converted 33.13% better and earned 53.37% more revenue per visitor in an A/B test.
+[web.dev (Google), Rakuten 24 case study, 2022](https://web.dev/case-studies/rakuten)20%AI and agents influenced 20% of global Cyber Week 2025 orders, worth US$67 billion, through personalised recommendations and conversational service.
+[Salesforce, AI and Agents Propel Cyber Week to Record $336.6B in Global Spend, 2025](https://www.salesforce.com/news/press-releases/2025/12/05/cyber-week-ai-agents-sales/)20%AI and agents influenced 20% of global online holiday sales in 2025, about US$262 billion.
+[Salesforce, Salesforce Reveals 2025 Holiday Shopping Data, 2026](https://www.salesforce.com/news/stories/2025-holiday-shopping-data/)20-50%AI-driven forecasting can reduce supply chain forecast errors by 20-50% and lost sales from product unavailability by up to 65%.
+[McKinsey & Company, AI-driven operations forecasting in data-light environments, 2022](https://www.mckinsey.com/capabilities/operations/our-insights/ai-driven-operations-forecasting-in-data-light-environments)2.3xRetailers deploying AI and machine learning achieved sales growth 2.3 times higher and profit growth 2.5 times higher than competitors.
+[IHL Group, Retail Inventory Crisis Persists Despite $172 Billion in Improvements, 2025](https://www.ihlservices.com/news/analyst-corner/2025/09/retail-inventory-crisis-persists-despite-172-billion-in-improvements/)5-10%Well-adopted dynamic pricing typically delivers sales growth of 2-5% and margin increases of 5-10% for retailers.
+[McKinsey & Company, How retailers can drive profitable growth through dynamic pricing, 2017](https://www.mckinsey.com/industries/retail/our-insights/how-retailers-can-drive-profitable-growth-through-dynamic-pricing)
+
+## Lower overhead
+Less manual work, fewer errors and fewer costly returns.
+4xCustomers using the AusPost tracking app are up to four times less likely to raise delivery-related cases during peak, reducing support costs.
+[Australia Post, eCommerce Report 2026, 2026](https://auspost.com.au/content/dam/auspost_corp/media/documents/ecommerce-reports/annual-ecommerce-reports/ecommerce-report-2026.pdf)6.5%Inventory distortion (out-of-stocks plus overstocks) costs retailers an estimated $1.73 trillion a year, 6.5% of global retail sales.
+[IHL Group, Retail Inventory Crisis Persists Despite $172 Billion in Improvements, 2025](https://www.ihlservices.com/news/analyst-corner/2025/09/retail-inventory-crisis-persists-despite-172-billion-in-improvements/)5.5%eBay Australia sellers rated Below Standard, for example through out-of-stock cancellations, pay an extra 5.5% fee on sales, rising to 6.6% after four months.
+[eBay Australia, eBay Pro selling fees, 2026](https://www.ebay.com.au/help/selling/fees-credits-invoices/ebay-stores-selling-fees-managed-payments-sellers?id=4809)1.3 million1.3 million third-party sellers had used Amazon's generative AI listing tools, which Amazon says can produce about 70% of a product listing.
+[CNBC, Amazon introduces AI agent to help sellers with tedious tasks, 2025](https://www.cnbc.com/2025/09/17/amazon-ai-agent-sellers.html)12 million+Independent sellers created more than 12 million sales-ready listings using Amazon's generative AI in 2025.
+[About Amazon, A record number of independent sellers in Amazon's store surpassed $1 million in sales in 2025, 2026](https://www.aboutamazon.com/news/small-business/amazon-2025-small-business-empowerment-report)8 hours to 1 hourEuropean small-business owners estimated AI could cut time spent writing product descriptions from an average of eight hours to one hour.
+[About Amazon EU, Amazon announces expansion of generative AI listing tools to sellers across Europe, 2024](https://www.aboutamazon.eu/news/empowering-small-business/amazon-announces-expansion-of-generative-ai-listing-tools-to-sellers-across-europe)71%71% of shoppers have returned items over inaccurate product descriptions.
+[Salsify, 2025 Consumer Research Report (press release), 2025](https://www.salsify.com/press-release-salsify-2025-consumer-research-report)62%62% of consumers say more accurate product information upfront would reduce their likelihood of making a return.
+[Akeneo, Akeneo Releases New Data Detailing Consumer Behavior & the Rationale Behind Product Returns, 2025](https://www.akeneo.com/press-release/akeneo-releases-new-data-detailing-consumer-behavior-the-rationale-behind-product-returns/)45%45% of shoppers returned an item in the past year because of incorrect product content, such as images that didn't match the product.
+[Salsify, 2024 Consumer Research Report, 2024](https://www.salsify.com/hubfs/2024/Content/Salsify%20Consumer%20Research%20Report%202024.pdf)80%80% of surveyed users of Google's AI-powered Product Studio have been, or expect to be, more efficient creating product images and videos.
+[Google Merchant Center Help, About Product Studio, 2026](https://support.google.com/merchants/answer/13708167?hl=en)60-70%The last mile generates 60 to 70% of overall parcel delivery costs in a home delivery network, and raising parcels per stop from one to five can cut delivery costs by more than 50%.
+[McKinsey & Company, Out-of-Home Delivery: Mapping its evolution, 2024](https://www.mckinsey.com/de/publikationen/2024-10-28-ooh-delivery)59%59% of accountants make several financial errors a month, and 18% make errors at least daily, with errors linked to capacity constraints.
+[Gartner, Survey Shows That a Third of Accountants Make Several Financial Errors Per Week due to Capacity Constraints, 2024](https://www.gartner.com/en/newsroom/press-releases/2024-02-21-gartner-survey-shows-that-a-third-of-accountants-make-several-error-per-weeo-due-to-capacity-constraints)39%39% of finance functions using AI apply it to anomaly and error detection, and 44% to intelligent process automation.
+[Gartner, Survey Shows 58% of Finance Functions Using AI in 2024, 2024](https://www.gartner.com/en/newsroom/press-releases/2024-09-11-gartner-survey-shows-58-percent-of-finance-functions-use-ai-in-2024)30%A generative AI assistant for budget variance insights at a global consumer goods company saved an estimated 30% of finance professionals' time.
+[McKinsey & Company, How finance teams are putting AI to work today, 2025](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-finance-teams-are-putting-ai-to-work-today)4.8 daysTop-quartile organisations complete the monthly close in 4.8 days or less, about half the time of the bottom quartile (10+ days); the median is 6.4 days.
+[CFO.com / APQC, Metric of the Month: Cycle Time for Monthly Close, 2018](https://www.cfo.com/news/metric-of-the-month-cycle-time-for-monthly-close/659297/)$128Each chargeback costs merchants an average of $128 in third-party fees and internal costs, often more than the value of the disputed item.
+[Mastercard, What is the true cost of a chargeback for businesses?, 2025](https://www.mastercard.com/us/en/news-and-trends/Insights/2025/what-s-the-true-cost-of-a-chargeback-in-2025.html)83%83% of social marketers say AI helps them create significantly more content.
+[Hootsuite, 60+ social media statistics marketers need to know in 2026, 2026](https://blog.hootsuite.com/social-media-statistics/)60%About 60% of roughly one million SKUs analysed across around 100 stores had inventory record inaccuracies.
+[ECR Retail Loss / Cardiff University, Measuring the sales impact of improving inventory records, 2019](https://orca.cardiff.ac.uk/id/eprint/142664/)95%+Retailers using integrated platforms rather than scattered point tools achieve 95%+ inventory accuracy.
+[IHL Group research via British Retail Consortium, Fixing Inventory Distortion, 2025](https://brc.org.uk/news-and-events/news/associate-insight/2025/fixing-inventory-distortion-who-s-winning-who-s-failing-what-s-working/)65% vs 55%Smaller companies that automate report success more often than large ones (65% vs 55%).
+[McKinsey & Company, The imperatives for automation success, 2020](https://www.mckinsey.com/capabilities/operations/our-insights/the-imperatives-for-automation-success)94%94% of SMB automation users report benefits, led by fewer errors (44%) and cost savings (44%).
+[Zapier, 76% of SMB owners are automating work, 2026](https://zapier.com/blog/ai-governance-for-small-teams/)~1%Single manual data entry produces error rates of around 1%, and visual checking is no more accurate.
+[UNLV, Data Checking (Barchard & Pace studies), 2017](https://img.faculty.unlv.edu/lab/newsletter/issue3/data-checking/)55%Walking between pick locations takes 55% of a warehouse picker's time, the largest share of picking effort.
+[Oracle NetSuite, 55 Expert Warehouse Order Picking Tips (citing Georgia Tech), 2020](https://www.netsuite.com/portal/resource/articles/ecommerce/warehouse-order-picking-tips.shtml)46%46% of Australian multichannel commerce organisations report inventory not synchronised in real time, the most common omnichannel failure point.
+[Salesforce, State of Commerce ANZ data 2026, 2026](https://www.salesforce.com/au/news/stories/sate-of-commerce-anz-data-agentic-search-2026/)13.8%Customer support agents using a generative AI assistant resolved 13.8% more issues per hour, with no significant change in customer satisfaction.
+[NBER, Measuring the Productivity Impact of Generative AI, 2023](https://www.nber.org/digest/20236/measuring-productivity-impact-generative-ai)20-30%AI can reduce distributors' inventory levels by 20-30% through better demand forecasting.
+[McKinsey & Company, Harnessing the power of AI in distribution operations, 2024](https://www.mckinsey.com/industries/industrials/our-insights/distribution-blog/harnessing-the-power-of-ai-in-distribution-operations)20%Service reps using AI spend 20% less time on routine cases, freeing about four hours a week.
+[Salesforce, AI Expected to Resolve Half of Service Cases by 2027 (State of Service), 2025](https://www.salesforce.com/news/stories/state-of-service-report-announcement-2025/)
+
+## Delivery experience
+Fast, tracked delivery that brings shoppers back.
+73%73% of Australian shoppers say a good delivery experience makes them more likely to shop online instead of in-store.
+[Australia Post, eCommerce Report 2026, 2026](https://auspost.com.au/content/dam/auspost_corp/media/documents/ecommerce-reports/annual-ecommerce-reports/ecommerce-report-2026.pdf)32%32% of Australian shoppers would choose one retailer over another if it offered out-of-home collection such as Parcel Lockers.
+[Australia Post, eCommerce Report 2026, 2026](https://auspost.com.au/content/dam/auspost_corp/media/documents/ecommerce-reports/annual-ecommerce-reports/ecommerce-report-2026.pdf)60%Amazon says tracked orders have 60 per cent fewer order defects and that tracking helps reduce buyer enquiries.
+[Amazon Seller Central Australia, On-time delivery, 2026](https://sellercentral.amazon.com.au/help/hub/reference/external/G200847280)73%73% of shoppers say a great delivery experience makes them more likely to buy again.
+[Australia Post, How delivery experience drives repeat sales, 2026](https://auspost.com.au/business/grow-your-business/business-ideas-blog/delivery-experience-repeat-sales)
+
+## Market trends
+Where Australian e-commerce is heading.
+48%48% of Australians have used AI when shopping online, mainly for price and product comparisons, so structured product data affects whether products are surfaced.
+[PayPal Australia, eCommerce Index 2026, 2026](https://www.paypalobjects.com/marketing/web24/au/PayPal_2026_eCommerce_Index_Infographic.pdf)26%Online reached 26% of total Australian retail in the July-September 2026 quarter, with online spend up 17% year on year.
+[Australia Post, Quarterly eCommerce Update FY27 Q1, 2026](https://auspost.com.au/content/dam/auspost/documents/ecommerce/quarterly-updates/oct-2026-quarterly-ecommerce-update.pdf)$18.9bAustralians spent $18.9 billion on pure online marketplaces in 2025, up 13% year on year and 23% of all online spending.
+[Australia Post, eCommerce Report 2026, 2026](https://auspost.com.au/content/dam/auspost_corp/media/documents/ecommerce-reports/annual-ecommerce-reports/ecommerce-report-2026.pdf)700+Bunnings and Kmart marketplaces added more than 400,000 online SKUs and 700 sellers by June 2026, widening the retailer-led marketplace channel for third-party sellers.
+[Wesfarmers, 2026 Full-year results briefing presentation, 2026](https://links.sgx.com/FileOpen/WES26-022%202026%20Full-year%20results%20briefing%20presentation.ashx?App=Announcement&FileID=902523)$18.9 billionAustralians spent $18.9 billion on pure online marketplaces in 2025, up 13% year on year and 23% of all online spending.
+[Australia Post, eCommerce Report 2026, 2026](https://auspost.com.au/content/dam/auspost_corp/media/documents/ecommerce-reports/annual-ecommerce-reports/ecommerce-report-2026.pdf)20%Australia Post Parcel Locker usage grew 20% year on year, with more than two million registered users and locker returns up 36%.
+[Australia Post, Parcel Lockers in Australia: Locker Land insights, 2026](https://auspost.com.au/business/grow-your-business/business-ideas-blog/parcel-lockers-locker-land-merchant-host-insights)39%Online marketplaces drove 39% of Australian online spend growth in 2024.
+[Australia Post, eCommerce Report 2025, 2025](https://auspost.com.au/content/dam/auspost_corp/media/documents/ecommerce-reports/annual-ecommerce-reports/ecommerce-report-2025.pdf)20%Online payments made up around 20% of all Australian consumer payments in 2025, up from 18% in 2022 and 4% in 2007.
+[Reserve Bank of Australia, Consumer Payment Behaviour in Australia, 2026](https://www.rba.gov.au/publications/bulletin/2026/may/pdf/consumer-payment-behaviour-in-australia.pdf)Most citedInadequate cash flow is the most cited cause of business failure among Australian company insolvencies.
+[Reserve Bank of Australia, Financial Stability Review April 2025: The Recent Increase in Company Insolvencies, 2025](https://www.rba.gov.au/publications/fsr/2025/apr/focus-topic-the-recent-increase-in-company-insolvencies-and-its-implications-for-financial-stability.html)$8 billionAustralian social commerce reached $4.9 billion in 2024 and is expected to grow to $8 billion by 2029.
+[Australia Post, eCommerce Report 2025, 2025](https://auspost.com.au/content/dam/auspost_corp/media/documents/ecommerce-reports/annual-ecommerce-reports/ecommerce-report-2025.pdf)14%Meta's average price per ad rose 14% year on year in Q3 2026, making organic reach and stronger creative more valuable.
+[exchange4media, Meta's ad revenue jumps 26% to $63 billion as AI boosts conversions, ad prices, 2026](https://www.exchange4media.com/digital-news/metas-ad-revenue-jumps-26-to-631-billion-as-ai-boosts-conversions-ad-prices-159351.html)45%Australian SMBs moving from basic to intermediate AI use are modelled to see a 45% increase in profitability.
+[Deloitte Access Economics, The AI edge for small business, 2025](https://www.deloitte.com/au/en/about/press-room/ai-edge-small-business-increased-smb-ai-adoption-can-add-44-billion-australias-economy-251125.html)88% vs 15%88% of retailers say unified commerce is very important or critical, but only 15% have implemented and measured it.
+[Salesforce, Connected Shoppers Report (6th edition), 2025](https://www.salesforce.com/au/retail/retail-industry-trends/)12%About 12% of Australian businesses used AI in 2024-25, up from about 1% in the previous survey.
+[Australian Bureau of Statistics, Business adoption of Artificial Intelligence accelerates in 2024-25, 2026](https://www.abs.gov.au/media-centre/media-releases/business-adoption-artificial-intelligence-accelerates-2024-25)
+
+## About these figures
+Each finding comes from a published third-party study, report or official seller guide, and links to it. Some come from overseas samples or earlier years, and the source says so. They describe the market and what better content, delivery and automation tend to achieve; they are not results promised by eComChannels. For the full context, read the [insights guides](https://ecomchannels.com/insights/) that discuss each study.
 

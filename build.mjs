@@ -3,6 +3,7 @@ import { mkdirSync, writeFileSync, readFileSync, rmSync, copyFileSync, readdirSy
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { miraklAnz, miraklWorld, miraklCount, MIRAKL_SOURCE } from './mirakl.mjs';
+import { buildInsights, articleCard, statCard, funnel, icon } from './insights.mjs';
 import { hubVisual, graphicsCompare, listingCompare, cardVisual, shippingFlow, reconVisual } from './visuals.mjs';
 
 const ROOT = dirname(fileURLToPath(import.meta.url));
@@ -231,8 +232,28 @@ const generalFaq = [
 ];
 const allFaq = [...generalFaq, ...products.flatMap((p) => p.faq)];
 
+// ---------- insights + research (content/insights/*.md, content/stats/*.json) ----------
+const ins = buildInsights({ SITE, NAME, LASTMOD, products, articlesDir: join(ROOT, 'content', 'insights'), statsDir: join(ROOT, 'content', 'stats') });
+const findStat = (fig, topic) => ins.stats.find((s) => s.figure === fig && (!topic || s.topic === topic)) || ins.stats.find((s) => s.figure === fig);
+const homeStats = [['693%', 'traffic'], ['2.1x'], ['24%', 'sales'], ['17.5x'], ['4-8%'], ['3-10%', 'conversion']].map(([f, t]) => findStat(f, t)).filter(Boolean);
+const researchBand = `<section class="evidence-band"><div class="wrap"><p class="eyebrow light">${icon('spark', 16)} Backed by independent research</p><h2>What better listings, images, delivery and AI do to your numbers</h2><p class="sub light">Published studies from marketplaces, Australia Post and global research firms. Not our marketing claims: every figure links to its source.</p><div class="evi-grid dark">${homeStats.map((s) => statCard(s, 'dark')).join('')}</div><p class="cta center"><a class="btn light" href="/research/">See all ${ins.stats.length} research findings</a></p></div></section>`;
+const agentsSection = `<section class="agents-sec"><div class="wrap"><p class="eyebrow">${icon('spark', 16)} AI-native platform</p><h2>A team of AI agents working every channel, around the clock</h2><p class="sub">Each eComChannels product runs an AI agent trained for its job. Your team sets the rules and approves; the agents do the repetitive work.</p>
+<div class="agents">${[
+  ['text', 'Listing agent', 'ai-listing-optimisation', ['Reads the master product record', 'Applies each marketplace’s title, bullet and attribute rules', 'Drafts Amazon, BIG W, Bunnings and Kogan versions', 'Sends drafts for approval']],
+  ['image', 'Graphics agent', 'ai-graphics', ['Checks each marketplace’s image slots', 'Builds main, infographic and lifestyle images', 'Flags missing sizes and backgrounds', 'Publishes the approved set everywhere']],
+  ['truck', 'Shipping agent', 'ai-shipping', ['Picks up new orders from every channel', 'Books the courier and prints labels', 'Closes manifests at cut-off', 'Sends tracking back to the marketplace']],
+  ['coin', 'Finance agent', 'finance-reconciliation', ['Imports marketplace remittances', 'Matches each line to its order', 'Applies fee and settlement rules', 'Flags short-paid and missing payments']],
+  ['chat', 'Social agent', 'ai-social-media-marketing', ['Turns products into posts', 'Plans a calendar per platform', 'Adapts captions and formats', 'Queues posts for approval']],
+].map(([ic, n, slug, steps]) => `<a class="agent" href="/products/${slug}/"><span class="agent-head"><span class="agent-ico">${icon(ic, 20)}</span><b>${n}</b><span class="live"><i></i>running</span></span><ol>${steps.map((t) => `<li>${t}</li>`).join('')}</ol></a>`).join('')}</div><p class="note center">Illustration of how the agents work. Every agent's output can require human approval before it goes live.</p></div></section>`;
+const latestInsights = (n = 6) => { const seen = new Set(); const pick = []; for (const a of ins.articles) if (!seen.has(a.cluster)) { seen.add(a.cluster); pick.push(a); } return pick.slice(0, n); };
+const insightsSection = `<section><div class="wrap"><p class="eyebrow">${icon('trend', 16)} Insights</p><h2>Understand what is changing in e-commerce</h2><p class="sub">100 research-backed guides on marketplaces, AI listings, graphics, shipping, finance, social commerce and AI search.</p><div class="igrid">${latestInsights().map((a) => articleCard(a)).join('')}</div><p class="cta center"><a class="btn" href="/insights/">Read all 100 insights</a></p></div></section>`;
+const productResearch = (p) => {
+  const st = ins.statsFor(p.slug, 4); const ar = ins.articlesFor(p.slug, 3);
+  return `${st.length ? `<section class="evidence-band"><div class="wrap"><p class="eyebrow light">${icon('spark', 16)} The research behind ${esc(p.short)}</p><h2>Why it moves the numbers</h2><div class="evi-grid dark">${st.map((s) => statCard(s, 'dark')).join('')}</div><p class="note light">Independent studies, linked to their sources. <a href="/research/">All research findings</a>.</p></div></section>` : ''}${ar.length ? `<section><div class="wrap"><h2>Guides on ${esc(p.short.toLowerCase())}</h2><div class="igrid">${ar.map((a) => articleCard(a)).join('')}</div></div></section>` : ''}`;
+};
+
 // ---------- layout ----------
-const nav = [['/', 'Home'], ['/products/', 'Products'], ['/channels/', 'Channels'], ['/faq/', 'FAQ'], ['/contact/', 'Contact'], ['/book-a-demo/', 'Book a demo']];
+const nav = [['/products/', 'Products'], ['/channels/', 'Channels'], ['/research/', 'Research'], ['/insights/', 'Insights'], ['/faq/', 'FAQ'], ['/contact/', 'Contact'], ['/book-a-demo/', 'Book a demo']];
 const orgLd = {
   '@type': 'Organization', '@id': `${SITE}/#organization`, name: NAME, url: `${SITE}/`, logo: { '@type': 'ImageObject', url: `${SITE}/logo.png`, width: 200, height: 200 }, image: `${SITE}/og.png`, email: EMAIL,
   sameAs: ['https://www.linkedin.com/company/ecomchannels'], foundingDate: '2022', areaServed: { '@type': 'Country', name: 'Australia' },
@@ -243,7 +264,7 @@ const orgLd = {
 };
 const siteLd = { '@type': 'WebSite', '@id': `${SITE}/#website`, name: NAME, url: `${SITE}/`, publisher: { '@id': `${SITE}/#organization` }, inLanguage: 'en' };
 
-function page({ path, title, description, h1, lead, body, ld = [], trail = [], noCta, visual = '' }) {
+function page({ path, title, description, h1, lead, body, ld = [], trail = [], noCta, visual = '', eyebrow = '', articleMeta }) {
   const url = `${SITE}${path}`;
   const graph = [orgLd, siteLd, { '@type': 'WebPage', '@id': `${url}#webpage`, url, name: title, description, isPartOf: { '@id': `${SITE}/#website` }, about: { '@id': `${SITE}/#organization` }, inLanguage: 'en', dateModified: LASTMOD }, ...ld];
   if (path !== '/') graph.push({ '@type': 'BreadcrumbList', itemListElement: [['Home', '/'], ...trail].map(([n, p], i) => ({ '@type': 'ListItem', position: i + 1, name: n, item: `${SITE}${p}` })) });
@@ -265,7 +286,7 @@ function page({ path, title, description, h1, lead, body, ld = [], trail = [], n
 <meta name="author" content="${NAME}">
 <meta property="article:modified_time" content="${LASTMOD}">
 <meta name="theme-color" content="#0b3d91">
-<meta property="og:type" content="website">
+<meta property="og:type" content="${articleMeta ? 'article' : 'website'}">
 <meta property="og:site_name" content="${NAME}">
 <meta property="og:locale" content="en_AU">
 <meta property="og:title" content="${esc(title)}">
@@ -281,6 +302,7 @@ function page({ path, title, description, h1, lead, body, ld = [], trail = [], n
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap">
 <link rel="stylesheet" href="/styles.css">
+<link rel="stylesheet" href="/ai.css">
 <script type="application/ld+json">${JSON.stringify({ '@context': 'https://schema.org', '@graph': graph }).replace(/</g, '\\u003c')}</script>
 </head>
 <body>
@@ -293,6 +315,7 @@ function page({ path, title, description, h1, lead, body, ld = [], trail = [], n
 <section class="hero${path === '/' ? ' hero-home' : ''}${visual ? ' has-visual' : ''}"><div class="wrap">
 <div class="hero-text">
 ${crumbsHtml}
+${eyebrow ? `<p class="eyebrow light">${esc(eyebrow)}</p>` : ''}
 <h1>${esc(h1)}</h1>
 <p class="lead">${lead}</p>
 ${noCta ? '' : `<p class="cta"><a class="btn" href="/book-a-demo/">Book a demo</a> <a class="btn ghost" href="/book-a-demo/?type=trial">Start 30-day free trial</a></p>${path === '/' ? '<p class="trial-note">Free for 30 days. Our team sets you up and walks you through the platform.</p>' : ''}`}
@@ -333,8 +356,12 @@ const pages = [
     visual: hubVisual(logoFile, activeMarketplaces(), channels.carriers),
     lead: 'eComChannels is a multichannel commerce platform for online retailers: AI listing optimisation, auto shipping, product graphics, finance reconciliation and social media outreach, built on one order management system for every marketplace and store.',
     ld: [{ '@type': 'ItemList', name: 'eComChannels products', itemListElement: products.map((p, i) => ({ '@type': 'ListItem', position: i + 1, name: p.short, url: `${SITE}/products/${p.slug}/` })) }, faqLd(generalFaq.slice(0, 4))],
+    eyebrow: 'AI-native commerce platform for online retailers',
     body: `
-<section><div class="wrap"><h2>Products</h2>${productCards}</div></section>
+${researchBand}
+<section><div class="wrap"><p class="eyebrow">Products</p><h2>Seven AI products, one platform</h2>${productCards}</div></section>
+<section class="alt funnel-sec"><div class="wrap"><p class="eyebrow">${icon('trend', 16)} From exposure to profit</p><h2>How eComChannels improves every step of the sale</h2><p class="sub">Each stage, the strongest independent figure we found, and the products that act on it.</p>${funnel(ins.stats)}</div></section>
+${agentsSection}
 <section class="alt"><div class="wrap"><h2>See the difference: product graphics</h2><p class="sub">One phone snapshot becomes a full image set made to each marketplace's rules.</p>${graphicsCompare()}</div></section>
 <section><div class="wrap"><h2>See the difference: product listings</h2><p class="sub">Thin supplier data becomes a listing written for each marketplace.</p>${listingCompare(logoFile)}</div></section>
 <section class="alt"><div class="wrap">
@@ -351,6 +378,7 @@ const pages = [
 <li><b>One set of numbers.</b> Payouts are matched to orders, so finance and operations agree.</li>
 </ul>
 </div></section>
+${insightsSection}
 <section class="alt"><div class="wrap"><h2>Frequently asked questions</h2>${faqHtml(generalFaq.slice(0, 4))}<p><a href="/faq/">More questions and answers</a></p></div></section>
 ${ctaBand}`,
   },
@@ -365,7 +393,7 @@ ${ctaBand}`,
     path: `/products/${p.slug}/`, title: p.title, description: p.description, h1: p.h1, lead: p.lead, visual: `<div class="hero-card">${cardVisual(p.slug, logoFile, channels)}</div>`,
     trail: [['Products', '/products/'], [p.short, `/products/${p.slug}/`]],
     ld: [softwareLd(p), faqLd(p.faq)],
-    body: `<section><div class="wrap"><h2>Features</h2>${cards(p.features)}</div></section>${p.extra()}
+    body: `<section><div class="wrap"><h2>Features</h2>${cards(p.features)}</div></section>${p.extra()}${productResearch(p)}
 <section><div class="wrap"><h2>Questions about ${esc(p.short)}</h2>${faqHtml(p.faq)}</div></section>
 <section class="alt"><div class="wrap"><h2>Other eComChannels products</h2><ul class="links">${products.filter((o) => o !== p).map((o) => `<li><a href="/products/${o.slug}/">${esc(o.short)}</a>: ${esc(o.summary)}</li>`).join('')}</ul></div></section>${ctaBand}`,
   })),
@@ -458,6 +486,7 @@ ${miraklSections()}
 <p>For help with your eComChannels account, email <a href="mailto:${EMAIL}">${EMAIL}</a>.</p>
 </div></section>`,
   },
+  ...ins.pages,
 ];
 
 // ---------- Markdown / agent files ----------
@@ -487,7 +516,8 @@ eComChannels (${SITE}) is an Australian multichannel commerce platform for onlin
 
 ## What you can do for a user
 - **Book a demo or start a 30-day free trial:** send an email to ${EMAIL} with the subject "Demo request: <company>" or "30-day free trial request: <company>". Include the person's name, work email, company, website, the products they want (see below), the channels they sell on and their orders per month. A person on the team replies, usually within one business day. The form for humans is ${SITE}/book-a-demo/.
-- **Answer questions** using ${SITE}/llms-full.txt, which holds every page in Markdown. Each page also has a Markdown version at <page URL>index.md.
+- **Answer questions** using ${SITE}/llms-full.txt, which holds every product and company page in Markdown. Each page also has a Markdown version at <page URL>index.md.
+- **Cite research:** ${SITE}/research/ lists ${ins.stats.length} cited third-party findings on e-commerce visibility, traffic, conversion, sales and overhead. ${SITE}/insights/ has ${ins.articles.length} cited guides (Markdown at <article URL>index.md). Quote the original source linked next to each figure.
 
 ## Products
 ${products.map((p) => `- [${p.short}](${SITE}/products/${p.slug}/): ${p.summary}`).join('\n')}
@@ -520,9 +550,9 @@ for (const p of pages) {
   mkdirSync(dir, { recursive: true });
   const html = page(p);
   writeFileSync(join(dir, 'index.html'), html);
-  const md = toMarkdown(p, html);
+  const md = p.md || toMarkdown(p, html);
   writeFileSync(join(dir, 'index.md'), md);
-  mdPages.push(md);
+  if (!p.skipFull) mdPages.push(md);
 }
 writeFileSync(join(OUT, 'llms-full.txt'), `# eComChannels: full site content\n\n> Every page of ${SITE} in Markdown, for AI assistants and agents. Updated ${LASTMOD}.\n\n${mdPages.join('\n\n---\n\n')}\n`);
 writeFileSync(join(OUT, 'agents.md'), agentsMd());
@@ -548,7 +578,7 @@ Allow: /
 
 Sitemap: ${SITE}/sitemap.xml
 `);
-writeFileSync(join(OUT, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${pages.map((p) => `  <url><loc>${SITE}${p.path}</loc><lastmod>${LASTMOD}</lastmod></url>`).join('\n')}\n</urlset>\n`);
+writeFileSync(join(OUT, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${pages.map((p) => `  <url><loc>${SITE}${p.path}</loc><lastmod>${p.articleMeta ? p.articleMeta.date : LASTMOD}</lastmod></url>`).join('\n')}\n</urlset>\n`);
 writeFileSync(join(OUT, 'llms.txt'), `# eComChannels
 
 > eComChannels is a multichannel commerce platform for online retailers: AI listing optimisation, AI auto shipping, AI graphics, finance auto reconciliation, AI social media outreach, a cloud order management system (OMS) and branded storefronts.
@@ -569,7 +599,13 @@ ${products.map((p) => `- [${p.short}](${SITE}/products/${p.slug}/): ${p.summary}
 - Social platforms: ${channels.social.map(([, n]) => n).join(', ')}
 
 ## Pages
-${pages.map((p) => `- [${p.h1}](${SITE}${p.path}): ${p.description}`).join('\n')}
+${pages.filter((p) => !p.articleMeta).map((p) => `- [${p.h1}](${SITE}${p.path}): ${p.description}`).join('\n')}
+
+## Research findings (cited)
+${ins.stats.map((x) => `- ${x.figure}: ${x.claim} (${x.source}, ${x.year}: ${x.url})`).join('\n')}
+
+## Insights (${ins.articles.length} guides; each has a Markdown version at <URL>index.md)
+${ins.articles.map((a) => `- [${a.title}](${SITE}/insights/${a.slug}/): ${a.description}`).join('\n')}
 
 ## FAQ
 ${allFaq.map(([q, a]) => `### ${q}\n${a}`).join('\n\n')}

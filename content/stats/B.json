@@ -1,0 +1,92 @@
+[
+  {
+    "figure": "17.5x",
+    "claim": "Sellers active on two or more marketplaces averaged 17.5 times the GMV of sellers on a single marketplace ($10.07m vs $575,093).",
+    "topic": "sales",
+    "product": "order-management",
+    "source": "Mirakl, The marketplace revolution: Key insights from our 2026 Seller Report",
+    "year": 2026,
+    "url": "https://www.mirakl.com/blogs/brands-sellers/the-marketplace-revolution-key-insights-from-our-2026-seller-report/"
+  },
+  {
+    "figure": "88%",
+    "claim": "Sellers using Mirakl's AI catalogue tool to classify products and standardise listings across marketplaces generated 88% higher GMV than those who did not (vendor-reported).",
+    "topic": "sales",
+    "product": "ai-listing-optimisation",
+    "source": "Mirakl, The marketplace revolution: Key insights from our 2026 Seller Report",
+    "year": 2026,
+    "url": "https://www.mirakl.com/blogs/brands-sellers/the-marketplace-revolution-key-insights-from-our-2026-seller-report/"
+  },
+  {
+    "figure": "$18.9b",
+    "claim": "Australians spent $18.9 billion on pure online marketplaces in 2025, up 13% year on year and 23% of all online spending.",
+    "topic": "trend",
+    "product": "general",
+    "source": "Australia Post, eCommerce Report 2026",
+    "year": 2026,
+    "url": "https://auspost.com.au/content/dam/auspost_corp/media/documents/ecommerce-reports/annual-ecommerce-reports/ecommerce-report-2026.pdf"
+  },
+  {
+    "figure": "29%",
+    "claim": "29% of Australian shoppers start their product discovery on online marketplaces, so marketplace listings directly drive visibility.",
+    "topic": "visibility",
+    "product": "ai-listing-optimisation",
+    "source": "Australia Post, Category Insights: Online marketplaces (eCommerce Report 2026)",
+    "year": 2026,
+    "url": "https://auspost.com.au/content/dam/auspost_corp/media/documents/australia-post-ecommerce-report-2026-online-marketplaces.pdf"
+  },
+  {
+    "figure": "73%",
+    "claim": "73% of Australian online shoppers made a purchase on a marketplace in 2025.",
+    "topic": "traffic",
+    "product": "order-management",
+    "source": "Australia Post, Category Insights: Online marketplaces (eCommerce Report 2026)",
+    "year": 2026,
+    "url": "https://auspost.com.au/content/dam/auspost_corp/media/documents/australia-post-ecommerce-report-2026-online-marketplaces.pdf"
+  },
+  {
+    "figure": "73%",
+    "claim": "73% of Australian shoppers say a good delivery experience makes them more likely to shop online.",
+    "topic": "delivery",
+    "product": "ai-shipping",
+    "source": "Australia Post, eCommerce Report 2026",
+    "year": 2026,
+    "url": "https://auspost.com.au/content/dam/auspost_corp/media/documents/ecommerce-reports/annual-ecommerce-reports/ecommerce-report-2026.pdf"
+  },
+  {
+    "figure": "26.7%",
+    "claim": "BIG W's eCommerce gross transaction value, including third-party marketplace sales, rose 26.7% to $956 million in F26, more than double the growth of its own online sales.",
+    "topic": "sales",
+    "product": "order-management",
+    "source": "Woolworths Group, F26 Full Year Results Announcement",
+    "year": 2026,
+    "url": "https://www.woolworthsgroup.com.au/content/dam/wwg/investors/asx-announcements/2026/3108623.pdf"
+  },
+  {
+    "figure": "6.5%",
+    "claim": "Inventory distortion (out-of-stocks plus overstocks) costs retailers an estimated $1.73 trillion a year, 6.5% of global retail sales.",
+    "topic": "overhead",
+    "product": "order-management",
+    "source": "IHL Group, Retail Inventory Crisis Persists Despite $172 Billion in Improvements",
+    "year": 2025,
+    "url": "https://www.ihlservices.com/news/analyst-corner/2025/09/retail-inventory-crisis-persists-despite-172-billion-in-improvements/"
+  },
+  {
+    "figure": "5.5%",
+    "claim": "eBay Australia sellers rated Below Standard, for example through out-of-stock cancellations, pay an extra 5.5% fee on sales, rising to 6.6% after four months.",
+    "topic": "overhead",
+    "product": "order-management",
+    "source": "eBay Australia, eBay Pro selling fees",
+    "year": 2026,
+    "url": "https://www.ebay.com.au/help/selling/fees-credits-invoices/ebay-stores-selling-fees-managed-payments-sellers?id=4809"
+  },
+  {
+    "figure": "700+",
+    "claim": "Bunnings and Kmart marketplaces added more than 400,000 online SKUs and 700 sellers by June 2026, widening the retailer-led marketplace channel for third-party sellers.",
+    "topic": "trend",
+    "product": "general",
+    "source": "Wesfarmers, 2026 Full-year results briefing presentation",
+    "year": 2026,
+    "url": "https://links.sgx.com/FileOpen/WES26-022%202026%20Full-year%20results%20briefing%20presentation.ashx?App=Announcement&FileID=902523"
+  }
+]

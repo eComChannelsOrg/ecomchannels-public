@@ -39,7 +39,26 @@ Manage brand accounts across platforms from the same system that runs your order
 - [Image: Pinterest logo] Pinterest
 - [Image: X logo] X
 - [Image: Threads logo] Threads
-- [Image: RedNote (Xiaohongshu) logo] RedNote (Xiaohongshu)
+- [Image: RedNote (Xiaohongshu) logo] RedNote (Xiaohongshu) The research behind AI social media outreach
+
+## Why it moves the numbers
+11%Social media accounts for 11% of Australian online sales, and 67% of businesses now sell through social platforms.
+[IT Brief Australia, reporting PayPal eCommerce Index 2026, 2026](https://itbrief.com.au/story/australian-businesses-embrace-social-selling-paypal-says)$8 billionAustralian social commerce reached $4.9 billion in 2024 and is expected to grow to $8 billion by 2029.
+[Australia Post, eCommerce Report 2025, 2025](https://auspost.com.au/content/dam/auspost_corp/media/documents/ecommerce-reports/annual-ecommerce-reports/ecommerce-report-2025.pdf)3 in 5Three in five Australian shoppers have made a purchase on social media, and 53% say it could become their top shopping destination by 2030.
+[DHL eCommerce, Clicks, carts & conversions in Australia, 2025](https://www.dhl.com/content/dam/dhl/local/global/dhl-ecommerce/documents/pdf/g0-ecs-insights-country-report-australia-2025.pdf)58%More than 58% of Australians use social media for brand and product research, close to search engines (62%) and well ahead of brand websites (37%).
+[We Are Social, Digital 2025 Australia, 2025](https://wearesocial.com/au/blog/2025/02/digital-2025-australia-social-media-rivals-search-for-brand-discovery/)Independent studies, linked to their sources. [All research findings](https://ecomchannels.com/research/).
+
+## Guides on ai social media outreach
+Social commerceHighly consistent posters get 5x more engagement per post
+### [AI Content Calendars for Retail Social Media: A Practical Guide](https://ecomchannels.com/insights/ai-social-media-content-calendar-retailers/)
+How online retailers can use AI to plan and draft a consistent social media calendar across channels, keep humans in control and avoid the trust pitfalls.
+5 min read · 6 sources Social commerce17.7 million Facebook and 15.2 million Instagram users in Australia
+### [Facebook and Instagram Shops for Australian Retailers in 2026](https://ecomchannels.com/insights/facebook-instagram-shops-australian-retailers/)
+Meta moved Facebook and Instagram Shops to website checkout. How Shops, product tags and Shops ads work now and how Australian retailers make them sell.
+5 min read · 6 sources Social commerce81% of influencers reviewed by the ACCC made potentially misleading posts
+### [Influencer and UGC Marketing for Australian Online Retailers](https://ecomchannels.com/insights/influencer-ugc-marketing-australian-retailers/)
+How Australian retailers can use creators and customer content to drive discovery and sales, stay compliant with ACCC rules and measure what actually works.
+5 min read · 7 sources
 
 ## Questions about AI social media outreach
 

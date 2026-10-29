@@ -15,8 +15,10 @@ for (const f of files) {
   try { JSON.parse(h.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/)[1]); } catch { issues.push('bad JSON-LD'); }
   const missing = [...h.matchAll(/(?:src|href)="(\/[^"#?]*)"/g)].map((m) => m[1])
     .filter((s) => !fs.existsSync(p.join(D, s, s.endsWith('/') ? 'index.html' : '')));
-  if (t.length > 60) issues.push(`title ${t.length}`);
-  if (d.length > 155 || d.length < 110) issues.push(`desc ${d.length}`);
+  // Insights articles: research-written titles up to 65 and descriptions up to 160 chars (still inside Google's pixel limits).
+  const art = f.split(p.sep).includes('insights') && !f.endsWith(p.join('insights', 'index.html'));
+  if (t.length > (art ? 65 : 60)) issues.push(`title ${t.length}`);
+  if (d.length > (art ? 160 : 155) || d.length < 110) issues.push(`desc ${d.length}`);
   if (h1 !== 1) issues.push(`h1 ${h1}`);
   if (titles.has(t)) issues.push('dup title');
   if (descs.has(d)) issues.push('dup desc');

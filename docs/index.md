@@ -21,7 +21,20 @@ Free for 30 days. Our team sets you up and walks you through the platform.
 - [Image: JB Hi-Fi Marketplace] [Image: eComChannels] One system
 19 marketplaces4 couriers10 social platforms
 
-## Products
+Backed by independent research
+
+## What better listings, images, delivery and AI do to your numbers
+Published studies from marketplaces, Australia Post and global research firms. Not our marketing claims: every figure links to its source.
+693%Traffic from generative AI tools to US retail sites rose 693% year on year in the 2025 holiday season.
+[Adobe, AI traffic surges across industries, retail sees biggest gains, 2026](https://business.adobe.com/blog/ai-driven-traffic-surges-across-industries)2.1xeBay Australia says listing titles of 60 to 80 characters are 2.1 times more likely to sell.
+[eBay Australia Seller Centre, Listing an Item, 2026](https://www.ebay.com.au/sellercentre/private-selling/listing-an-item)24%Amazon product detail pages that added their first shoppable video saw an average 24% increase in sales compared with those without videos.
+[Amazon, Let Amazon product videos show customers what images can't, 2025](https://sell.amazon.com/blog/amazon-product-video)17.5xSellers active on two or more marketplaces averaged 17.5 times the GMV of sellers on a single marketplace ($10.07m vs $575,093).
+[Mirakl, The marketplace revolution: Key insights from our 2026 Seller Report, 2026](https://www.mirakl.com/blogs/brands-sellers/the-marketplace-revolution-key-insights-from-our-2026-seller-report/)4-8%Correcting inaccurate inventory records increased sales by about 4% to 8% across seven large retailers.
+[ECR Retail Loss / Cardiff University, Measuring the sales impact of improving inventory records, 2019](https://orca.cardiff.ac.uk/id/eprint/142664/)3-10%THE ICONIC reports a 3-10% decrease in conversion for every additional day added to the delivery time shown at checkout.
+[Australia Post, eCommerce Report 2026, 2026](https://auspost.com.au/content/dam/auspost_corp/media/documents/ecommerce-reports/annual-ecommerce-reports/ecommerce-report-2026.pdf)
+Products
+
+## Seven AI products, one platform
 →
 ### [AI listing optimisation](https://ecomchannels.com/products/ai-listing-optimisation/)
 AI already trained on each marketplace’s listing rules writes titles, bullet points, descriptions and attributes, and your team approves them before they go live.
@@ -43,6 +56,53 @@ One queue for every order and one stock figure for every SKU, across all your ma
 
 ### [Branded storefronts](https://ecomchannels.com/products/storefronts/)
 Your own fast, search-friendly web store, with products, prices and stock fed by the OMS.
+
+From exposure to profit
+
+## How eComChannels improves every step of the sale
+Each stage, the strongest independent figure we found, and the products that act on it.
+1
+### Exposure & visibility
+40%Optimising content for generative engines boosted source visibility in AI-generated answers by up to 40% in controlled tests.
+[Aggarwal et al. (Princeton), GEO: Generative Engine Optimization, KDD 2024, 2024](https://arxiv.org/abs/2311.09735)[AI listings](https://ecomchannels.com/products/ai-listing-optimisation/)[GEO-ready storefronts](https://ecomchannels.com/products/storefronts/)[AI social](https://ecomchannels.com/products/ai-social-media-marketing/)2
+### Traffic & clicks
+76%76% of shoppers say high-quality product images are extremely or very important to their decision to click on a product page from search results.
+[Salsify, 2024 Consumer Research Report, 2024](https://www.salsify.com/hubfs/2024/Content/Salsify%20Consumer%20Research%20Report%202024.pdf)[AI graphics](https://ecomchannels.com/products/ai-graphics/)[AI social](https://ecomchannels.com/products/ai-social-media-marketing/)3
+### Conversion
+54%54% of shoppers dropped purchases because of conflicting product information.
+[Salsify, 2025 Consumer Research Report (press release), 2025](https://www.salsify.com/press-release-salsify-2025-consumer-research-report)[AI listings](https://ecomchannels.com/products/ai-listing-optimisation/)[AI shipping](https://ecomchannels.com/products/ai-shipping/)4
+### Sales growth
+2.3xRetailers deploying AI and machine learning achieved sales growth 2.3 times higher and profit growth 2.5 times higher than competitors.
+[IHL Group, Retail Inventory Crisis Persists Despite $172 Billion in Improvements, 2025](https://www.ihlservices.com/news/analyst-corner/2025/09/retail-inventory-crisis-persists-despite-172-billion-in-improvements/)[Multichannel OMS](https://ecomchannels.com/products/order-management/)[AI graphics](https://ecomchannels.com/products/ai-graphics/)5
+### Lower overhead
+12 million+Independent sellers created more than 12 million sales-ready listings using Amazon's generative AI in 2025.
+[About Amazon, A record number of independent sellers in Amazon's store surpassed $1 million in sales in 2025, 2026](https://www.aboutamazon.com/news/small-business/amazon-2025-small-business-empowerment-report)[Auto reconciliation](https://ecomchannels.com/products/finance-reconciliation/)[Auto shipping](https://ecomchannels.com/products/ai-shipping/)[Bulk AI listings](https://ecomchannels.com/products/ai-listing-optimisation/)
+AI-native platform
+
+## A team of AI agents working every channel, around the clock
+Each eComChannels product runs an AI agent trained for its job. Your team sets the rules and approves; the agents do the repetitive work.
+
+Listing agentrunning
+- Reads the master product record
+- Applies each marketplace’s title, bullet and attribute rules
+- Drafts Amazon, BIG W, Bunnings and Kogan versions
+- Sends drafts for approvalGraphics agentrunning
+- Checks each marketplace’s image slots
+- Builds main, infographic and lifestyle images
+- Flags missing sizes and backgrounds
+- Publishes the approved set everywhereShipping agentrunning
+- Picks up new orders from every channel
+- Books the courier and prints labels
+- Closes manifests at cut-off
+- Sends tracking back to the marketplaceFinance agentrunning
+- Imports marketplace remittances
+- Matches each line to its order
+- Applies fee and settlement rules
+- Flags short-paid and missing paymentsSocial agentrunning
+- Turns products into posts
+- Plans a calendar per platform
+- Adapts captions and formats
+- Queues posts for approvalIllustration of how the agents work. Every agent's output can require human approval before it goes live.
 
 ## See the difference: product graphics
 One phone snapshot becomes a full image set made to each marketplace's rules.
@@ -143,6 +203,30 @@ Illustrative example with a fictional product. Titles follow each marketplace's 
 - One shipping workflow. Every courier, label and tracking update from one screen.
 
 - One set of numbers. Payouts are matched to orders, so finance and operations agree.
+
+Insights
+
+## Understand what is changing in e-commerce
+100 research-backed guides on marketplaces, AI listings, graphics, shipping, finance, social commerce and AI search.
+E-commerce trends73% of shoppers say a good delivery experience makes them more likely to shop online
+### [What Australian Online Shoppers Expect in 2026](https://ecomchannels.com/insights/australian-online-shopper-expectations-2026/)
+Australian shoppers expect clear delivery dates, delivery choice, reliable tracking, easy returns and accurate stock. The 2026 evidence and how to meet it.
+5 min read · 5 sources Marketplaces & multichannelMost Amazon Australia referral fees sit between 6% and 15%
+### [Marketplace Fees in Australia Compared: Amazon, eBay, Etsy & More](https://ecomchannels.com/insights/australian-marketplace-fees-compared/)
+Published seller fees for Amazon, eBay, Etsy, Kogan, Temu and retailer marketplaces in Australia, plus the hidden costs that decide if a channel pays.
+5 min read · 8 sources AI listings & marketplace SEOSellers created 12 million+ listings with Amazon's generative AI in 2025
+### [Bulk Listing at Scale: How to List Thousands of SKUs Accurately](https://ecomchannels.com/insights/bulk-listing-at-scale-marketplaces/)
+How Australian sellers can bulk list and update thousands of SKUs across marketplaces without errors, using a master record, channel templates and AI drafts.
+4 min read · 6 sources AI graphics & visual commerceAlmost 90% of consumers want to know if an image is AI-made
+### [AI-Generated Product Photos: Risks, Rules and Disclosure](https://ecomchannels.com/insights/ai-generated-product-images-rules-risks/)
+AI can create product scenes in seconds, but Australian Consumer Law and marketplace rules still apply. The risks, the disclosure rules and a safe workflow.
+5 min read · 8 sources Shipping & deliveryStarTrack delivers to 12.6 million locations across Australia
+### [Australia Post vs StarTrack vs CouriersPlease vs Allied Express](https://ecomchannels.com/insights/australia-post-startrack-couriersplease-allied-express-compared/)
+Compare Australia Post, StarTrack, CouriersPlease and Allied Express for e-commerce: size limits, surcharges, coverage and when to use each carrier.
+5 min read · 9 sources Finance & reconciliation59% of finance functions reported using AI in 2025
+### [Automating E-commerce Finance with AI: What Works Now](https://ecomchannels.com/insights/automating-ecommerce-finance-with-ai/)
+Where AI and automation help e-commerce finance today, from reconciliation and anomaly detection to forecasting, and how retailers can start safely.
+5 min read · 7 sources
 
 ## Frequently asked questions
 

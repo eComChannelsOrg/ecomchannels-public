@@ -1,0 +1,92 @@
+[
+  {
+    "figure": "693%",
+    "claim": "Traffic from generative AI tools to US retail sites rose 693% year on year in the 2025 holiday season.",
+    "topic": "traffic",
+    "product": "storefronts",
+    "source": "Adobe, AI traffic surges across industries, retail sees biggest gains",
+    "year": 2026,
+    "url": "https://business.adobe.com/blog/ai-driven-traffic-surges-across-industries"
+  },
+  {
+    "figure": "31%",
+    "claim": "AI referrals to US retail sites converted 31% more than other traffic sources in the 2025 holiday season.",
+    "topic": "conversion",
+    "product": "storefronts",
+    "source": "Adobe, AI traffic surges across industries, retail sees biggest gains",
+    "year": 2026,
+    "url": "https://business.adobe.com/blog/ai-driven-traffic-surges-across-industries"
+  },
+  {
+    "figure": "~50%",
+    "claim": "AI-referred sessions on Shopify stores convert at nearly 50% higher rates than organic search, with 14% higher average order values.",
+    "topic": "conversion",
+    "product": "ai-listing-optimisation",
+    "source": "Shopify, AI-referred shoppers convert better and spend more",
+    "year": 2026,
+    "url": "https://www.shopify.com/enterprise/blog/ai-search-insights"
+  },
+  {
+    "figure": "40%",
+    "claim": "Optimising content for generative engines boosted source visibility in AI-generated answers by up to 40% in controlled tests.",
+    "topic": "visibility",
+    "product": "ai-listing-optimisation",
+    "source": "Aggarwal et al. (Princeton), GEO: Generative Engine Optimization, KDD 2024",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2311.09735"
+  },
+  {
+    "figure": "82%",
+    "claim": "Nestlé measured an 82% higher click-through rate on pages shown as rich results, enabled by structured data.",
+    "topic": "visibility",
+    "product": "storefronts",
+    "source": "Google Search Central, Introduction to structured data markup",
+    "year": 2025,
+    "url": "https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data"
+  },
+  {
+    "figure": "8.4%",
+    "claim": "A 0.1 second improvement in mobile site speed was associated with an 8.4% increase in retail conversions and 9.2% higher average order value.",
+    "topic": "conversion",
+    "product": "storefronts",
+    "source": "Deloitte, Milliseconds Make Millions",
+    "year": 2020,
+    "url": "https://www.deloitte.com/ie/en/services/consulting/research/milliseconds-make-millions.html"
+  },
+  {
+    "figure": "33.13%",
+    "claim": "Rakuten 24's Core Web Vitals-optimised site converted 33.13% better and earned 53.37% more revenue per visitor in an A/B test.",
+    "topic": "sales",
+    "product": "storefronts",
+    "source": "web.dev (Google), Rakuten 24 case study",
+    "year": 2022,
+    "url": "https://web.dev/case-studies/rakuten"
+  },
+  {
+    "figure": "20%",
+    "claim": "AI and agents influenced 20% of global Cyber Week 2025 orders, worth US$67 billion, through personalised recommendations and conversational service.",
+    "topic": "sales",
+    "product": "general",
+    "source": "Salesforce, AI and Agents Propel Cyber Week to Record $336.6B in Global Spend",
+    "year": 2025,
+    "url": "https://www.salesforce.com/news/press-releases/2025/12/05/cyber-week-ai-agents-sales/"
+  },
+  {
+    "figure": "46%",
+    "claim": "46% of Australian multichannel commerce organisations report inventory not synchronised in real time, the most common omnichannel failure point.",
+    "topic": "overhead",
+    "product": "order-management",
+    "source": "Salesforce, State of Commerce ANZ data 2026",
+    "year": 2026,
+    "url": "https://www.salesforce.com/au/news/stories/sate-of-commerce-anz-data-agentic-search-2026/"
+  },
+  {
+    "figure": "53%",
+    "claim": "53% of shoppers typically abandon their cart and go elsewhere after an unsuccessful search on a retail website.",
+    "topic": "conversion",
+    "product": "ai-listing-optimisation",
+    "source": "Google Cloud, New research: Search abandonment continues to vex retailers worldwide",
+    "year": 2023,
+    "url": "https://cloud.google.com/blog/topics/retail/new-research-on-search-abandonment-in-retail"
+  }
+]
