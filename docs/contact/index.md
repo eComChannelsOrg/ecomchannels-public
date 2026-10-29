@@ -3,7 +3,7 @@
 URL: https://ecomchannels.com/contact/
 Updated: 2026-10-30
 
-> Contact eComChannels about AI listing optimisation, shipping, graphics, reconciliation, social media or order management. Email support@ecomchannels.com.
+> Contact eComChannels about AI listing optimisation, graphics, shipping, order management, reconciliation or social media. Email support@ecomchannels.com.
 
 Email us at [support@ecomchannels.com](mailto:support@ecomchannels.com).
 

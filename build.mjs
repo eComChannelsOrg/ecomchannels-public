@@ -95,6 +95,27 @@ const products = [
     ],
   },
   {
+    slug: 'ai-graphics', short: 'AI graphics', icon: '🎨',
+    title: 'AI product graphics for online retailers | eComChannels',
+    description: 'Graphics AI already trained on each marketplace’s image rules creates product images and infographics, with one approval for every channel.',
+    h1: 'AI graphics for e-commerce and online retailers',
+    summary: 'AI already trained on every marketplace’s image rules produces product images, infographics and lifestyle shots, with one approval per image set.',
+    lead: 'Every marketplace wants different product images. The eComChannels graphics AI is already trained on each marketplace’s image rules (image count, sizes, backgrounds and infographic slots), produces the graphics to match, and publishes approved images to every channel that uses the set.',
+    features: [
+      ['Already trained on every marketplace’s image rules', 'Image count, sizes, white-background and infographic slot rules for each marketplace are already trained into the AI and kept as image sets, so every graphic is made to spec.'],
+      ['AI-assisted creation', 'AI helps generate and edit product graphics, lifestyle scenes and infographics from your product data and photos.'],
+      ['Approve once, publish everywhere', 'Approving a product’s images for a set publishes them to every channel on that set.'],
+      ['Designer workflow', 'Queues for designers and approvers show what is missing, what is waiting for review and what is ready.'],
+      ['Organised by SKU', 'Images, documents and videos are stored per SKU, in slot order, ready for listings and your web store.'],
+      ['Readiness at a glance', 'See which products are ready for which channels before you list them.'],
+    ],
+    extra: () => `<section class="alt"><div class="wrap"><h2>Before and after</h2>${graphicsCompare()}</div></section><section><div class="wrap"><h2>Marketplaces the graphics AI is trained for</h2>${logoRow([...activeMarketplaces(), ...channels.stores])}</div></section>`,
+    faq: [
+      ['How does eComChannels handle different marketplace image rules?', 'Each marketplace is mapped to an image set that holds its slot rules. Designers produce images to the set, and approval publishes them to every channel that uses it.'],
+      ['Can AI create product images?', 'Yes. The graphics AI, already trained on each marketplace’s image rules, generates and edits product graphics, and every image is reviewed before it is approved for a channel.'],
+    ],
+  },
+  {
     slug: 'ai-shipping', short: 'AI auto shipping', icon: '📦',
     title: 'AI auto shipping for Australian couriers | eComChannels',
     description: 'Book Australia Post, StarTrack, CouriersPlease and Allied Express from one screen: labels, manifests and tracking sent to every channel automatically.',
@@ -116,24 +137,24 @@ const products = [
     ],
   },
   {
-    slug: 'ai-graphics', short: 'AI graphics', icon: '🎨',
-    title: 'AI product graphics for online retailers | eComChannels',
-    description: 'Graphics AI already trained on each marketplace’s image rules creates product images and infographics, with one approval for every channel.',
-    h1: 'AI graphics for e-commerce and online retailers',
-    summary: 'AI already trained on every marketplace’s image rules produces product images, infographics and lifestyle shots, with one approval per image set.',
-    lead: 'Every marketplace wants different product images. The eComChannels graphics AI is already trained on each marketplace’s image rules (image count, sizes, backgrounds and infographic slots), produces the graphics to match, and publishes approved images to every channel that uses the set.',
+    slug: 'order-management', short: 'Order management (OMS)', icon: '🧭',
+    title: 'Multichannel order management system (OMS) | eComChannels',
+    description: 'The eComChannels OMS brings orders, inventory, purchasing, pricing, B2B and customer service for every marketplace and web store into one system.',
+    h1: 'Multichannel order management system (OMS)',
+    summary: 'One queue for every order and one stock figure for every SKU, across all your marketplaces and stores.',
+    lead: 'The core of eComChannels: a cloud order management system that brings every order, every stock movement and every product into one place. It runs in the browser; there is nothing to install.',
     features: [
-      ['Already trained on every marketplace’s image rules', 'Image count, sizes, white-background and infographic slot rules for each marketplace are already trained into the AI and kept as image sets, so every graphic is made to spec.'],
-      ['AI-assisted creation', 'AI helps generate and edit product graphics, lifestyle scenes and infographics from your product data and photos.'],
-      ['Approve once, publish everywhere', 'Approving a product’s images for a set publishes them to every channel on that set.'],
-      ['Designer workflow', 'Queues for designers and approvers show what is missing, what is waiting for review and what is ready.'],
-      ['Organised by SKU', 'Images, documents and videos are stored per SKU, in slot order, ready for listings and your web store.'],
-      ['Readiness at a glance', 'See which products are ready for which channels before you list them.'],
+      ['One order queue', 'Orders from every marketplace and store arrive in one queue to be allocated, picked, packed and shipped.'],
+      ['Inventory and warehouses', 'One stock position per SKU across warehouses, pushed to every channel to prevent overselling.'],
+      ['Pricing', 'Price books and pricing rules per channel and country, including tax handling.'],
+      ['Purchasing', 'Purchase orders, goods receiving and supplier information next to the products they belong to.'],
+      ['B2B and wholesale', 'Serve trade customers from the same catalogue and stock as your retail channels.'],
+      ['Customer service', 'A shared team inbox with the order in view, so support can answer without switching systems.'],
     ],
-    extra: () => `<section class="alt"><div class="wrap"><h2>Before and after</h2>${graphicsCompare()}</div></section><section><div class="wrap"><h2>Marketplaces the graphics AI is trained for</h2>${logoRow([...activeMarketplaces(), ...channels.stores])}</div></section>`,
+    extra: () => `<section class="alt"><div class="wrap"><h2>Connected channels</h2>${logoRow([...activeMarketplaces().filter(([k]) => k !== 'tiktok'), channels.stores[0]])}<p class="note"><a href="/channels/">See all channels, couriers and platforms</a></p></div></section>`,
     faq: [
-      ['How does eComChannels handle different marketplace image rules?', 'Each marketplace is mapped to an image set that holds its slot rules. Designers produce images to the set, and approval publishes them to every channel that uses it.'],
-      ['Can AI create product images?', 'Yes. The graphics AI, already trained on each marketplace’s image rules, generates and edits product graphics, and every image is reviewed before it is approved for a channel.'],
+      ['What does an order management system (OMS) do?', 'An OMS collects orders from every place you sell, keeps one accurate stock figure per product and runs fulfilment, with tracking sent back to each sales channel.'],
+      ['Does eComChannels prevent overselling?', 'Stock is held centrally per SKU and the available quantity is pushed to each connected channel, so a sale on one marketplace reduces what is offered on the others.'],
     ],
   },
   {
@@ -179,27 +200,6 @@ const products = [
     ],
   },
   {
-    slug: 'order-management', short: 'Order management (OMS)', icon: '🧭',
-    title: 'Multichannel order management system (OMS) | eComChannels',
-    description: 'The eComChannels OMS brings orders, inventory, purchasing, pricing, B2B and customer service for every marketplace and web store into one system.',
-    h1: 'Multichannel order management system (OMS)',
-    summary: 'One queue for every order and one stock figure for every SKU, across all your marketplaces and stores.',
-    lead: 'The core of eComChannels: a cloud order management system that brings every order, every stock movement and every product into one place. It runs in the browser; there is nothing to install.',
-    features: [
-      ['One order queue', 'Orders from every marketplace and store arrive in one queue to be allocated, picked, packed and shipped.'],
-      ['Inventory and warehouses', 'One stock position per SKU across warehouses, pushed to every channel to prevent overselling.'],
-      ['Pricing', 'Price books and pricing rules per channel and country, including tax handling.'],
-      ['Purchasing', 'Purchase orders, goods receiving and supplier information next to the products they belong to.'],
-      ['B2B and wholesale', 'Serve trade customers from the same catalogue and stock as your retail channels.'],
-      ['Customer service', 'A shared team inbox with the order in view, so support can answer without switching systems.'],
-    ],
-    extra: () => `<section class="alt"><div class="wrap"><h2>Connected channels</h2>${logoRow([...activeMarketplaces().filter(([k]) => k !== 'tiktok'), channels.stores[0]])}<p class="note"><a href="/channels/">See all channels, couriers and platforms</a></p></div></section>`,
-    faq: [
-      ['What does an order management system (OMS) do?', 'An OMS collects orders from every place you sell, keeps one accurate stock figure per product and runs fulfilment, with tracking sent back to each sales channel.'],
-      ['Does eComChannels prevent overselling?', 'Stock is held centrally per SKU and the available quantity is pushed to each connected channel, so a sale on one marketplace reduces what is offered on the others.'],
-    ],
-  },
-  {
     slug: 'storefronts', short: 'Branded storefronts', icon: '🛍️',
     title: 'Fast, SEO-friendly branded web storefronts | eComChannels',
     description: 'Your own branded online store on the eComChannels storefront engine: SEO and AI-search friendly, with products, prices and stock from the OMS.',
@@ -219,8 +219,96 @@ const products = [
   },
 ];
 
+// ---------- manual vs AI comparison (illustrative estimates; edit task times here) ----------
+// Time = units x minutes per unit. Cost = time x STAFF_RATE. eComChannels subscription is not included.
+const STAFF_RATE = 35; // A$ per staff hour, including super
+const comparisons = {
+  'ai-listing-optimisation': {
+    calc: { label: 'Marketplace listings a month', min: 10, max: 5000, step: 10, def: 500 },
+    scenario: '100 new products listed on 5 marketplaces in a month (500 listings)', unit: 'listing', units: 500,
+    manual: { how: 'Spreadsheets and each marketplace’s seller portal', mins: 20, effort: 'Look up each marketplace’s title, bullet and attribute rules, rewrite the same product for every channel, then fix rejected listings.' },
+    ai: { how: 'Listing AI already trained on every marketplace’s rules', mins: 2, effort: 'AI drafts every channel’s version to its rules. A person reviews and approves.' },
+  },
+  'ai-graphics': {
+    calc: { label: 'Products needing image sets a month', min: 5, max: 1000, step: 5, def: 100 },
+    scenario: 'Image sets for 100 new products, sold on 5 marketplaces', unit: 'product', units: 100,
+    manual: { how: 'Desktop design software, resized by hand for each marketplace', mins: 180, effort: 'Design the main image, infographics and lifestyle shots, then resize and re-export them for each marketplace’s image slots and sizes.' },
+    ai: { how: 'Graphics AI already trained on every marketplace’s image rules', mins: 20, effort: 'AI produces the image set to each marketplace’s slots. A designer reviews, adjusts and approves once for every channel.' },
+  },
+  'ai-shipping': {
+    calc: { label: 'Orders shipped a month', min: 50, max: 20000, step: 50, def: 1000 },
+    scenario: '1,000 orders shipped in a month with 2 couriers', unit: 'order', units: 1000,
+    manual: { how: 'Each courier’s web portal, with tracking copied back by hand', mins: 4, effort: 'Re-key addresses into the courier portal, print each label, then copy tracking numbers back to every marketplace.' },
+    ai: { how: 'AI auto shipping', mins: 0.5, effort: 'Labels are created from the order and printed in batches. Manifests and tracking updates are sent automatically.' },
+  },
+  'order-management': {
+    calc: { label: 'Orders a month', min: 50, max: 20000, step: 50, def: 1000 },
+    scenario: '1,000 orders a month across 5 marketplaces and a web store', unit: 'order', units: 1000,
+    manual: { how: 'Each marketplace portal plus a stock spreadsheet', mins: 3, effort: 'Download orders from every portal, key them in, and update stock on every other channel by hand, with a risk of overselling.' },
+    ai: { how: 'eComChannels OMS', mins: 0.5, effort: 'Orders arrive in one queue and one stock figure per SKU is pushed to every channel automatically.' },
+  },
+  'finance-reconciliation': {
+    calc: { label: 'Payout lines a month', min: 50, max: 20000, step: 50, def: 1000 },
+    scenario: '1,000 payout lines from 5 marketplaces in a month', unit: 'payout line', units: 1000,
+    manual: { how: 'Spreadsheets matched against marketplace reports', mins: 1.5, effort: 'Match each payout line to its order, work out commission and fees, and chase short payments line by line.' },
+    ai: { how: 'Finance auto reconciliation', mins: 0.2, effort: 'Lines are matched to orders automatically with fee rules applied. People only review the exceptions.' },
+  },
+  'ai-social-media-marketing': {
+    calc: { label: 'Posts a month (each on 9 platforms)', min: 1, max: 100, step: 1, def: 20, per: 9 },
+    scenario: '20 posts a month on 9 social platforms (180 platform versions)', unit: 'platform version', units: 180,
+    manual: { how: 'Writing and scheduling in each platform’s own tools', mins: 15, effort: 'Write, resize and schedule a separate version of every post for each platform.' },
+    ai: { how: 'AI social media outreach', mins: 2, effort: 'AI writes each platform’s version from your live products and campaigns. A person approves and it is published.' },
+  },
+  storefronts: {
+    calc: { label: 'Products on your web store', min: 50, max: 10000, step: 50, def: 500 },
+    scenario: 'Keeping 500 products current on your own web store each month', unit: 'product', units: 500,
+    manual: { how: 'Store admin and CSV uploads, separate from your other channels', mins: 2, effort: 'Update prices, stock and product content in the store admin by hand, and copy web orders into your order system.' },
+    ai: { how: 'eComChannels storefront fed by the OMS', mins: 0.1, effort: 'Products, prices and stock flow from the OMS, and web orders land in the same order queue.' },
+  },
+};
+for (const p of products) { p.compare = comparisons[p.slug]; if (!p.compare) throw new Error('no comparison for ' + p.slug); }
+const hrs = (c, side) => (c.units * c[side].mins) / 60;
+const fmtH = (h) => `about ${h >= 10 ? Math.round(h).toLocaleString('en-AU') : Number(h.toFixed(1))} hours`;
+const fmtA = (h) => `about A$${(Math.round((h * STAFF_RATE) / 10) * 10).toLocaleString('en-AU')}`;
+const fmtMin = (m) => (m < 1 ? `${Math.round(m * 60)} seconds` : m >= 60 ? `${m / 60} hours` : `${m} minutes`);
+const pct = (c) => Math.round((1 - c.ai.mins / c.manual.mins) * 100);
+const compareNote = `Illustrative estimates for a typical retailer, using the task times shown and staff time at A$${STAFF_RATE} an hour including super. Your results depend on your range, channels and team. The eComChannels subscription is not included; all products are currently on a 30-day free trial.`;
+const compareTable = (p) => {
+  const c = p.compare, m = hrs(c, 'manual'), a = hrs(c, 'ai');
+  return `<p class="sub">Example: ${esc(c.scenario)}.</p><div class="table-wrap"><table class="mvai"><caption>Manual and traditional tools compared with eComChannels</caption><thead><tr><th scope="col"></th><th scope="col">Manual / traditional tools</th><th scope="col">eComChannels AI</th></tr></thead><tbody>
+<tr><th scope="row">How</th><td>${esc(c.manual.how)}</td><td>${esc(c.ai.how)}</td></tr>
+<tr><th scope="row">Time</th><td>${fmtMin(c.manual.mins)} per ${esc(c.unit)}: <b>${fmtH(m)}</b> a month</td><td>${fmtMin(c.ai.mins)} per ${esc(c.unit)}: <b>${fmtH(a)}</b> a month</td></tr>
+<tr><th scope="row">Effort</th><td>${esc(c.manual.effort)}</td><td>${esc(c.ai.effort)}</td></tr>
+<tr><th scope="row">Staff cost</th><td><b>${fmtA(m)}</b> a month</td><td><b>${fmtA(a)}</b> a month</td></tr>
+</tbody></table></div><p class="saving">Saves ${fmtH(m - a)} and ${fmtA(m - a)} of staff time a month, about ${pct(c)}% less time.</p><p class="note">${esc(compareNote)}</p>`;
+};
+const calcData = () => products.map((p) => { const c = p.compare, k = c.calc, per = k.per || 1; return { slug: p.slug, name: p.short, label: k.label, min: k.min, max: k.max, step: k.step, def: k.def, manual: c.manual.mins * per, ai: c.ai.mins * per, how: `Manual: ${c.manual.how}. eComChannels: ${c.ai.how}.` }; });
+// Interactive savings calculator (static/calc.js). Server-renders the default figures so it reads correctly without JavaScript.
+const calcHtml = (start = products[0].slug) => {
+  const d = calcData(), cur = d.find((x) => x.slug === start), m = (cur.def * cur.manual) / 60, a = (cur.def * cur.ai) / 60;
+  const H = (h) => (h >= 10 ? Math.round(h).toLocaleString('en-AU') : String(Number(h.toFixed(1))));
+  const A = (h) => 'A$' + (Math.round((h * STAFF_RATE) / 10) * 10).toLocaleString('en-AU');
+  return `<!--calc--><div class="calc" id="calculator" data-start="${start}" data-calc="${esc(JSON.stringify(d))}">
+<div class="calc-in">
+<p class="calc-q" id="calc-work-${start}">1. Choose the work</p>
+<div class="calc-work" role="radiogroup" aria-labelledby="calc-work-${start}">${d.map((x) => `<button type="button" role="radio" data-slug="${x.slug}" aria-checked="${x.slug === start}" tabindex="${x.slug === start ? 0 : -1}">${esc(x.name)}</button>`).join('')}</div>
+<p class="calc-q">2. Set your volume</p>
+<label class="calc-vol"><span class="calc-unit">${esc(cur.label)}</span><span class="calc-row"><input class="calc-range" type="range" min="${cur.min}" max="${cur.max}" step="${cur.step}" value="${cur.def}" aria-label="Volume"><input class="calc-num" type="number" inputmode="numeric" min="${cur.min}" max="${cur.max}" value="${cur.def}" aria-label="Volume (number)"></span></label>
+<label class="calc-ratel">Staff cost per hour (A$) <input class="calc-rate" type="number" inputmode="decimal" min="0" max="500" value="${STAFF_RATE}"></label>
+<p class="calc-scenario">${esc(cur.how)}</p>
+</div>
+<div class="calc-out" aria-live="polite">
+<div class="calc-cols"><div class="calc-box man"><span>Manual / traditional tools</span><b><span class="calc-m-h">${H(m)}</span> hours</b><i class="calc-m-a">${A(m)}</i> a month</div><div class="calc-box ai"><span>eComChannels AI</span><b><span class="calc-a-h">${H(a)}</span> hours</b><i class="calc-a-a">${A(a)}</i> a month</div></div>
+<div class="calc-bars" aria-hidden="true"><div><span>Manual</span><i style="width:100%"></i></div><div><span>AI</span><i class="calc-bar-a" style="width:${Math.max(2, (cur.ai / cur.manual) * 100)}%"></i></div></div>
+<div class="calc-save"><span>You save every month</span><b><span class="calc-s-h">${H(m - a)}</span> hours and <span class="calc-s-a">${A(m - a)}</span></b><small><span class="calc-pct">${Math.round((1 - cur.ai / cur.manual) * 100)}%</span> less time. Over a year: <span class="calc-y-h">${H((m - a) * 12)}</span> hours and <span class="calc-y-a">${A((m - a) * 12)}</span>.</small></div>
+<p class="calc-cta"><a class="btn" href="/book-a-demo/?type=trial">Start 30-day free trial</a></p>
+</div>
+</div><p class="note">Estimates use the task times in the comparison tables and the staff cost you enter. The eComChannels subscription is not included.</p><script src="/calc.js" defer></script><!--/calc-->`;
+};
+const compareOverview = () => `<div class="table-wrap"><table class="mvai overview"><caption>Time and staff cost a month: manual compared with eComChannels AI</caption><thead><tr><th scope="col">Product</th><th scope="col">Example workload</th><th scope="col">Manual / traditional tools</th><th scope="col">eComChannels AI</th><th scope="col">Time saved</th></tr></thead><tbody>${products.map((p) => { const c = p.compare, m = hrs(c, 'manual'), a = hrs(c, 'ai'); return `<tr><th scope="row"><a href="/products/${p.slug}/#manual-vs-ai">${esc(p.short)}</a></th><td>${esc(c.scenario)}</td><td>${fmtH(m)}, ${fmtA(m)}</td><td>${fmtH(a)}, ${fmtA(a)}</td><td><b>${pct(c)}%</b></td></tr>`; }).join('')}</tbody></table></div><p class="note">${esc(compareNote)}</p>`;
+
 const generalFaq = [
-  ['What is eComChannels?', 'eComChannels is a multichannel commerce platform for online retailers. Its products cover AI listing optimisation, AI auto shipping, AI graphics, finance auto reconciliation, AI social media outreach, order management and branded storefronts, all working from the same product and order data.'],
+  ['What is eComChannels?', 'eComChannels is a multichannel commerce platform for online retailers. Its products cover AI listing optimisation, AI graphics, AI auto shipping, order management, finance auto reconciliation, AI social media outreach and branded storefronts, all working from the same product and order data.'],
   ['Which sales channels does eComChannels work with?', 'Amazon, TikTok Shop, Temu, Woolworths Everyday Market, BIG W Market, Bunnings Marketplace, Kmart Marketplace, eBay, Etsy, Myer Marketplace, THE ICONIC, Lasoo, Temple & Webster, Baby Bunting and Kogan, plus Shopify, WooCommerce and eComChannels storefronts. It also connects to every marketplace built on Mirakl, including Bunnings, Kmart, JB Hi-Fi, Myer, Country Road Group, Velocity, Decathlon, Baby Bunting, Freedom, Spotlight, Paramount Liquor, CampbellsPlus and Onceit, plus Mirakl marketplaces overseas. MyDeal closed in September 2025 and its sellers now trade on BIG W Market and Everyday Market.'],
   ['Which is the biggest online marketplace in Australia?', 'By the annual revenue of the company behind it, Amazon is the largest, followed by TikTok Shop (ByteDance), Temu (PDD Holdings), Woolworths Group (Everyday Market and BIG W Market) and Wesfarmers (Bunnings and Kmart marketplaces). The full ranking with sources is at https://ecomchannels.com/channels/.'],
   ['Do you support Mirakl marketplaces?', `Yes. eComChannels connects to any marketplace built on Mirakl through the Mirakl seller API, using the shop API key the marketplace gives you. That covers ${miraklAnz.length} Mirakl marketplaces in Australia and New Zealand and more than ${Math.floor((miraklCount - miraklAnz.length) / 10) * 10} overseas. The full list is at https://ecomchannels.com/channels/#mirakl.`],
@@ -258,12 +346,14 @@ const orgLd = {
   '@type': 'Organization', '@id': `${SITE}/#organization`, name: NAME, url: `${SITE}/`, logo: { '@type': 'ImageObject', url: `${SITE}/logo.png`, width: 200, height: 200 }, image: `${SITE}/og.png`, email: EMAIL,
   sameAs: ['https://www.linkedin.com/company/ecomchannels'], foundingDate: '2022', areaServed: { '@type': 'Country', name: 'Australia' },
   address: { '@type': 'PostalAddress', addressLocality: 'Melbourne', addressRegion: 'VIC', addressCountry: 'AU' },
-  knowsAbout: ['Multichannel ecommerce', 'Order management systems', 'Online marketplaces in Australia', 'Marketplace listing optimisation', 'Ecommerce shipping automation', 'Marketplace reconciliation', 'AI product graphics', 'Social media marketing'],
-  description: 'Multichannel commerce platform for online retailers: AI listing optimisation, shipping, graphics, reconciliation, social media, order management and storefronts.',
+  knowsAbout: ['Multichannel ecommerce', 'Online marketplaces in Australia', 'Marketplace listing optimisation', 'AI product graphics', 'Ecommerce shipping automation', 'Order management systems', 'Marketplace reconciliation', 'Social media marketing'],
+  description: 'Multichannel commerce platform for online retailers: AI listing optimisation, graphics, shipping, order management, reconciliation, social media and storefronts.',
   contactPoint: [{ '@type': 'ContactPoint', contactType: 'customer support', email: EMAIL, availableLanguage: ['en'] }],
 };
 const siteLd = { '@type': 'WebSite', '@id': `${SITE}/#website`, name: NAME, url: `${SITE}/`, publisher: { '@id': `${SITE}/#organization` }, inLanguage: 'en' };
 
+// Content sections alternate white / light blue automatically (hero and CTA band excluded).
+const alternate = (html) => { let i = 0; return html.replace(/<section(?: class="alt")?(?=>| id=)/g, () => (i++ % 2 ? '<section class="alt"' : '<section')); };
 function page({ path, title, description, h1, lead, body, ld = [], trail = [], noCta, visual = '', eyebrow = '', articleMeta }) {
   const url = `${SITE}${path}`;
   const graph = [orgLd, siteLd, { '@type': 'WebPage', '@id': `${url}#webpage`, url, name: title, description, isPartOf: { '@id': `${SITE}/#website` }, about: { '@id': `${SITE}/#organization` }, inLanguage: 'en', dateModified: LASTMOD }, ...ld];
@@ -321,7 +411,7 @@ ${eyebrow ? `<p class="eyebrow light">${esc(eyebrow)}</p>` : ''}
 ${noCta ? '' : `<p class="cta"><a class="btn" href="/book-a-demo/">Book a demo</a> <a class="btn ghost" href="/book-a-demo/?type=trial">Start 30-day free trial</a></p>${path === '/' ? '<p class="trial-note">Free for 30 days. Our team sets you up and walks you through the platform.</p>' : ''}`}
 </div>${visual ? `<div class="hero-visual">${visual}</div>` : ''}
 </div></section>
-${body}
+${alternate(body)}
 </main>
 <footer class="site-footer"><div class="wrap">
 <div><p class="brand-foot">eCom<b>Channels</b></p><p>Multichannel commerce platform for online retailers.</p></div>
@@ -351,10 +441,10 @@ const softwareLd = (p) => ({
 const pages = [
   {
     path: '/', title: 'eComChannels | AI commerce platform for online retailers',
-    description: 'AI listing optimisation, auto shipping, graphics, reconciliation, social media and order management for retailers on Amazon, eBay, Kogan and Bunnings.',
+    description: 'AI listing optimisation, graphics, auto shipping, order management, reconciliation and social media for retailers on Amazon, eBay, Kogan and Bunnings.',
     h1: 'AI tools that run your online retail, on every channel',
     visual: hubVisual(logoFile, activeMarketplaces(), channels.carriers),
-    lead: 'eComChannels is a multichannel commerce platform for online retailers: AI listing optimisation, auto shipping, product graphics, finance reconciliation and social media outreach, built on one order management system for every marketplace and store.',
+    lead: 'eComChannels is a multichannel commerce platform for online retailers: AI listing optimisation, AI graphics, AI auto shipping, order management, finance reconciliation and social media outreach, all in one system for every marketplace and store.',
     ld: [{ '@type': 'ItemList', name: 'eComChannels products', itemListElement: products.map((p, i) => ({ '@type': 'ListItem', position: i + 1, name: p.short, url: `${SITE}/products/${p.slug}/` })) }, faqLd(generalFaq.slice(0, 4))],
     eyebrow: 'AI-native commerce platform for online retailers',
     body: `
@@ -362,6 +452,8 @@ ${researchBand}
 <section><div class="wrap"><p class="eyebrow">Products</p><h2>Seven AI products, one platform</h2>${productCards}</div></section>
 <section class="alt funnel-sec"><div class="wrap"><p class="eyebrow">${icon('trend', 16)} From exposure to profit</p><h2>How eComChannels improves every step of the sale</h2><p class="sub">Each stage, the strongest independent figure we found, and the products that act on it.</p>${funnel(ins.stats)}</div></section>
 ${agentsSection}
+<section class="alt"><div class="wrap"><h2>Manual work compared with eComChannels AI</h2><p class="sub">The AI is already trained on each marketplace’s rules, so the time goes into checking and approving rather than doing every task by hand.</p>${compareOverview()}</div></section>
+<section><div class="wrap"><h2>Savings calculator</h2><p class="sub">Choose the work, set your monthly volume and see the time and money saved, in real time.</p>${calcHtml()}</div></section>
 <section class="alt"><div class="wrap"><h2>See the difference: product graphics</h2><p class="sub">One phone snapshot becomes a full image set made to each marketplace's rules.</p>${graphicsCompare()}</div></section>
 <section><div class="wrap"><h2>See the difference: product listings</h2><p class="sub">Thin supplier data becomes a listing written for each marketplace.</p>${listingCompare(logoFile)}</div></section>
 <section class="alt"><div class="wrap">
@@ -373,8 +465,8 @@ ${agentsSection}
 <h2>Why retailers run every channel from one platform</h2>
 <ul class="ticks">
 <li><b>One product record.</b> AI adapts it to every marketplace, so a correction is made once.</li>
-<li><b>One stock figure.</b> Inventory is held centrally per SKU and pushed to each channel, which reduces overselling.</li>
 <li><b>One shipping workflow.</b> Every courier, label and tracking update from one screen.</li>
+<li><b>One stock figure.</b> Inventory is held centrally per SKU and pushed to each channel, which reduces overselling.</li>
 <li><b>One set of numbers.</b> Payouts are matched to orders, so finance and operations agree.</li>
 </ul>
 </div></section>
@@ -383,17 +475,17 @@ ${insightsSection}
 ${ctaBand}`,
   },
   {
-    path: '/products/', title: 'Products: AI listing, shipping, graphics | eComChannels',
-    description: 'eComChannels products: AI listing optimisation, AI auto shipping, AI graphics, auto reconciliation, AI social media outreach, OMS and storefronts.',
+    path: '/products/', title: 'Products: AI listing, graphics, shipping | eComChannels',
+    description: 'eComChannels products: AI listing optimisation, AI graphics, AI auto shipping, OMS, auto reconciliation, AI social media outreach and storefronts.',
     h1: 'eComChannels products', trail: [['Products', '/products/']],
     lead: 'Seven products for online retailers, all working from the same product, order and stock data.',
-    body: `<section><div class="wrap">${productCards}</div></section>${ctaBand}`,
+    body: `<section><div class="wrap">${productCards}</div></section><section><div class="wrap"><h2>Savings calculator</h2><p class="sub">Choose the work, set your monthly volume and see the time and money saved, in real time.</p>${calcHtml()}</div></section><section><div class="wrap"><h2>Manual work compared with eComChannels AI</h2><p class="sub">The AI is already trained on each marketplace’s rules, so the time goes into checking and approving rather than doing every task by hand.</p>${compareOverview()}</div></section>${ctaBand}`,
   },
   ...products.map((p) => ({
     path: `/products/${p.slug}/`, title: p.title, description: p.description, h1: p.h1, lead: p.lead, visual: `<div class="hero-card">${cardVisual(p.slug, logoFile, channels)}</div>`,
     trail: [['Products', '/products/'], [p.short, `/products/${p.slug}/`]],
     ld: [softwareLd(p), faqLd(p.faq)],
-    body: `<section><div class="wrap"><h2>Features</h2>${cards(p.features)}</div></section>${p.extra()}${productResearch(p)}
+    body: `<section><div class="wrap"><h2>Features</h2>${cards(p.features)}</div></section><section class="alt" id="manual-vs-ai"><div class="wrap"><h2>Manual work compared with ${esc(p.short)}</h2>${compareTable(p)}<h3 class="mt">Work out your own savings</h3>${calcHtml(p.slug)}</div></section>${p.extra()}${productResearch(p)}
 <section><div class="wrap"><h2>Questions about ${esc(p.short)}</h2>${faqHtml(p.faq)}</div></section>
 <section class="alt"><div class="wrap"><h2>Other eComChannels products</h2><ul class="links">${products.filter((o) => o !== p).map((o) => `<li><a href="/products/${o.slug}/">${esc(o.short)}</a>: ${esc(o.summary)}</li>`).join('')}</ul></div></section>${ctaBand}`,
   })),
@@ -413,7 +505,7 @@ ${miraklSections()}
   },
   {
     path: '/book-a-demo/', title: 'Book a demo or 30-day free trial | eComChannels',
-    description: 'Book a live demo of eComChannels or start a 30-day free trial. Our team shows you AI listings, shipping, graphics, reconciliation and social media tools.',
+    description: 'Book a live demo of eComChannels or start a 30-day free trial. Our team shows you AI listings, graphics, shipping, reconciliation and social media tools.',
     h1: 'Book a demo or start your 30-day free trial', trail: [['Book a demo', '/book-a-demo/']], noCta: true,
     lead: 'Tell us a little about your business and when suits you. Our team will confirm a time and show you eComChannels live, using the channels you sell on. All products are currently available free for 30 days.',
     ld: [{ '@type': 'ContactPage', name: 'Book an eComChannels demo', url: `${SITE}/book-a-demo/`, potentialAction: { '@type': 'ReserveAction', name: 'Book a demo', target: `${SITE}/book-a-demo/` } }],
@@ -463,7 +555,7 @@ ${miraklSections()}
   },
   {
     path: '/faq/', title: 'FAQ: AI multichannel commerce for retailers | eComChannels',
-    description: 'Answers about eComChannels products: AI listings, shipping couriers, AI graphics, marketplace reconciliation, social media, OMS and storefronts.',
+    description: 'Answers about eComChannels products: AI listings, AI graphics, shipping couriers, OMS, marketplace reconciliation, social media and storefronts.',
     h1: 'Frequently asked questions', trail: [['FAQ', '/faq/']],
     lead: 'Short answers about eComChannels and its products.',
     ld: [faqLd(allFaq)],
@@ -471,7 +563,7 @@ ${miraklSections()}
   },
   {
     path: '/contact/', title: 'Contact eComChannels | Enquiries and support',
-    description: `Contact eComChannels about AI listing optimisation, shipping, graphics, reconciliation, social media or order management. Email ${EMAIL}.`,
+    description: `Contact eComChannels about AI listing optimisation, graphics, shipping, order management, reconciliation or social media. Email ${EMAIL}.`,
     h1: 'Contact eComChannels', trail: [['Contact', '/contact/']], noCta: true,
     lead: `Email us at <a href="mailto:${EMAIL}">${EMAIL}</a>.`,
     ld: [{ '@type': 'ContactPage', name: 'Contact eComChannels', url: `${SITE}/contact/` }],
@@ -492,9 +584,10 @@ ${miraklSections()}
 // ---------- Markdown / agent files ----------
 function htmlToText(h) {
   return h
+    .replace(/<!--calc-->[\s\S]*?<!--\/calc-->/g, `\nInteractive savings calculator: choose the work, set a monthly volume and staff cost, and see manual versus eComChannels AI hours and cost (${SITE}/products/#calculator).\n`)
     .replace(/<script[\s\S]*?<\/script>/g, '').replace(/<p class="cta[^"]*">[\s\S]*?<\/p>/g, '').replace(/<img [^>]*alt="([^"]+)"[^>]*>/g, ' [Image: $1] ')
     .replace(/<form[\s\S]*?<\/form>/g, `\nBooking form: request a demo or a 30-day free trial at ${SITE}/book-a-demo/ or email ${EMAIL}.\n`)
-    .replace(/<table[\s\S]*?<\/table>/g, (t) => '\n' + [...t.matchAll(/<tr>([\s\S]*?)<\/tr>/g)].map((r) => '| ' + [...r[1].matchAll(/<t[hd][^>]*>([\s\S]*?)<\/t[hd]>/g)].map((c) => c[1].replace(/<a href="([^"]+)"[^>]*>[^<]*<\/a>/g, '$1').replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim()).join(' | ') + ' |').map((l, i) => (i === 1 ? '| --- '.repeat(l.split(' | ').length) + '|\n' + l : l)).join('\n') + '\n')
+    .replace(/<table[\s\S]*?<\/table>/g, (t) => '\n' + [...t.matchAll(/<tr>([\s\S]*?)<\/tr>/g)].map((r) => '| ' + [...r[1].matchAll(/<t[hd][^>]*>([\s\S]*?)<\/t[hd]>/g)].map((c) => c[1].replace(/<a href="([^"]+)"[^>]*>([^<]*)<\/a>/g, (x, h, t) => `[${t}](${h.startsWith('/') ? SITE + h : h})`).replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim()).join(' | ') + ' |').map((l, i) => (i === 1 ? '| --- '.repeat(l.split(' | ').length) + '|\n' + l : l)).join('\n') + '\n')
     .replace(/<h2[^>]*>([\s\S]*?)<\/h2>/g, '\n## $1\n')
     .replace(/<h3[^>]*>([\s\S]*?)<\/h3>/g, '\n### $1\n')
     .replace(/<li[^>]*>/g, '\n- ')
@@ -581,7 +674,7 @@ Sitemap: ${SITE}/sitemap.xml
 writeFileSync(join(OUT, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${pages.map((p) => `  <url><loc>${SITE}${p.path}</loc><lastmod>${p.articleMeta ? p.articleMeta.date : LASTMOD}</lastmod></url>`).join('\n')}\n</urlset>\n`);
 writeFileSync(join(OUT, 'llms.txt'), `# eComChannels
 
-> eComChannels is a multichannel commerce platform for online retailers: AI listing optimisation, AI auto shipping, AI graphics, finance auto reconciliation, AI social media outreach, a cloud order management system (OMS) and branded storefronts.
+> eComChannels is a multichannel commerce platform for online retailers: AI listing optimisation, AI graphics, AI auto shipping, a cloud order management system (OMS), finance auto reconciliation, AI social media outreach and branded storefronts.
 
 Contact: ${EMAIL}
 Full content for AI: ${SITE}/llms-full.txt

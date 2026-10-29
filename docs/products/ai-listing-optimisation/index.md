@@ -29,6 +29,22 @@ Optimise a whole range at once instead of editing listings one marketplace at a 
 ### Consistent brand voice
 Copy follows your own style guide across Amazon, eBay, Kogan, Bunnings and your web store.
 
+## Manual work compared with AI listing optimisation
+Example: 100 new products listed on 5 marketplaces in a month (500 listings).
+
+| | Manual / traditional tools | eComChannels AI |
+| --- | --- | --- |
+| How | Spreadsheets and each marketplace’s seller portal | Listing AI already trained on every marketplace’s rules |
+| Time | 20 minutes per listing: about 167 hours a month | 2 minutes per listing: about 17 hours a month |
+| Effort | Look up each marketplace’s title, bullet and attribute rules, rewrite the same product for every channel, then fix rejected listings. | AI drafts every channel’s version to its rules. A person reviews and approves. |
+| Staff cost | about A$5,830 a month | about A$580 a month |
+Saves about 150 hours and about A$5,250 of staff time a month, about 90% less time.
+Illustrative estimates for a typical retailer, using the task times shown and staff time at A$35 an hour including super. Your results depend on your range, channels and team. The eComChannels subscription is not included; all products are currently on a 30-day free trial.
+
+### Work out your own savings
+
+Interactive savings calculator: choose the work, set a monthly volume and staff cost, and see manual versus eComChannels AI hours and cost (https://ecomchannels.com/products/#calculator).
+
 ## Before and after
 
 Before: supplier dataWater Bottle BlueSteel bottle. 750ml.
@@ -109,11 +125,11 @@ No. The AI drafts to each marketplace’s trained rules, and a person on your te
 
 ## Other eComChannels products
 
-- [AI auto shipping](https://ecomchannels.com/products/ai-shipping/): Book Australia Post, StarTrack, CouriersPlease and Allied Express from one screen, with labels, manifests and tracking sent back automatically.
 - [AI graphics](https://ecomchannels.com/products/ai-graphics/): AI already trained on every marketplace’s image rules produces product images, infographics and lifestyle shots, with one approval per image set.
+- [AI auto shipping](https://ecomchannels.com/products/ai-shipping/): Book Australia Post, StarTrack, CouriersPlease and Allied Express from one screen, with labels, manifests and tracking sent back automatically.
+- [Order management (OMS)](https://ecomchannels.com/products/order-management/): One queue for every order and one stock figure for every SKU, across all your marketplaces and stores.
 - [Finance auto reconciliation](https://ecomchannels.com/products/finance-reconciliation/): Match every marketplace remittance and settlement to the orders it pays for, with fee rules, exceptions and finance reports.
 - [AI social media outreach](https://ecomchannels.com/products/ai-social-media-marketing/): AI plans and writes posts for Facebook, Instagram, TikTok, YouTube, LinkedIn, Pinterest, X, Threads and RedNote, then publishes after approval.
-- [Order management (OMS)](https://ecomchannels.com/products/order-management/): One queue for every order and one stock figure for every SKU, across all your marketplaces and stores.
 - [Branded storefronts](https://ecomchannels.com/products/storefronts/): Your own fast, search-friendly web store, with products, prices and stock fed by the OMS.
 ## See eComChannels in action
 Book a live demo and our team will walk you through the products using your own channels and workflow. All products are currently available on a 30-day free trial.

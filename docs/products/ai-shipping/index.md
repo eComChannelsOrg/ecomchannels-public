@@ -29,6 +29,22 @@ See every parcel move from labelled to manifested to tracking sent, so nothing i
 ### Courier claims
 Lodge and follow up lost or damaged parcel claims next to the shipment they belong to.
 
+## Manual work compared with AI auto shipping
+Example: 1,000 orders shipped in a month with 2 couriers.
+
+| | Manual / traditional tools | eComChannels AI |
+| --- | --- | --- |
+| How | Each courier’s web portal, with tracking copied back by hand | AI auto shipping |
+| Time | 4 minutes per order: about 67 hours a month | 30 seconds per order: about 8.3 hours a month |
+| Effort | Re-key addresses into the courier portal, print each label, then copy tracking numbers back to every marketplace. | Labels are created from the order and printed in batches. Manifests and tracking updates are sent automatically. |
+| Staff cost | about A$2,330 a month | about A$290 a month |
+Saves about 58 hours and about A$2,040 of staff time a month, about 88% less time.
+Illustrative estimates for a typical retailer, using the task times shown and staff time at A$35 an hour including super. Your results depend on your range, channels and team. The eComChannels subscription is not included; all products are currently on a 30-day free trial.
+
+### Work out your own savings
+
+Interactive savings calculator: choose the work, set a monthly volume and staff cost, and see manual versus eComChannels AI hours and cost (https://ecomchannels.com/products/#calculator).
+
 ## From order to tracking, automatically
 🧾Order in→🏷️Label printed→📋Manifested→📍Tracking sent
 [Image: Australia Post logo] Australia Post [Image: StarTrack logo] StarTrack [Image: CouriersPlease logo] CouriersPlease [Image: Allied Express logo] Allied Express
@@ -78,9 +94,9 @@ Yes. Once a shipment is labelled, its tracking number is sent back to the custom
 
 - [AI listing optimisation](https://ecomchannels.com/products/ai-listing-optimisation/): AI already trained on each marketplace’s listing rules writes titles, bullet points, descriptions and attributes, and your team approves them before they go live.
 - [AI graphics](https://ecomchannels.com/products/ai-graphics/): AI already trained on every marketplace’s image rules produces product images, infographics and lifestyle shots, with one approval per image set.
+- [Order management (OMS)](https://ecomchannels.com/products/order-management/): One queue for every order and one stock figure for every SKU, across all your marketplaces and stores.
 - [Finance auto reconciliation](https://ecomchannels.com/products/finance-reconciliation/): Match every marketplace remittance and settlement to the orders it pays for, with fee rules, exceptions and finance reports.
 - [AI social media outreach](https://ecomchannels.com/products/ai-social-media-marketing/): AI plans and writes posts for Facebook, Instagram, TikTok, YouTube, LinkedIn, Pinterest, X, Threads and RedNote, then publishes after approval.
-- [Order management (OMS)](https://ecomchannels.com/products/order-management/): One queue for every order and one stock figure for every SKU, across all your marketplaces and stores.
 - [Branded storefronts](https://ecomchannels.com/products/storefronts/): Your own fast, search-friendly web store, with products, prices and stock fed by the OMS.
 ## See eComChannels in action
 Book a live demo and our team will walk you through the products using your own channels and workflow. All products are currently available on a 30-day free trial.

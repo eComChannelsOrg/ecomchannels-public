@@ -302,3 +302,70 @@ table.rank small{font-size:.85rem}
 }
 .card h3 a{display:block;padding:8px 0}.card h3{margin-top:-8px}
 .crumbs a{display:inline-block;padding:10px 0}
+
+/* manual vs AI comparison tables */
+table.mvai{border-collapse:collapse;width:100%;font-size:.95rem}
+table.mvai caption{text-align:left;padding:14px 16px;font-weight:800;color:var(--navy)}
+table.mvai th,table.mvai td{padding:12px 16px;border-top:1px solid var(--line);text-align:left;vertical-align:top}
+table.mvai thead th{background:var(--sky-2);color:var(--muted);font-size:.78rem;text-transform:uppercase;letter-spacing:.05em}
+table.mvai tbody th{color:var(--navy);font-weight:800;white-space:nowrap}
+table.mvai:not(.overview) td:last-child{background:#f0fdf4}
+table.mvai:not(.overview) thead th:last-child{background:#dcfce7;color:#166534}
+table.mvai.overview td:last-child b{color:#166534;font-size:1.05rem}
+table.mvai tbody th a{color:var(--navy);display:inline-block;padding:12px 0;margin:-12px 0}
+.saving{margin:16px 0 0;font-weight:800;color:#166534;font-size:1.05rem}
+@media (max-width:700px){
+  table.mvai thead{display:none}
+  table.mvai caption{display:block;width:100%;padding:12px 14px}
+  table.mvai,table.mvai tbody,table.mvai tr,table.mvai th,table.mvai td{display:block;width:100%}
+  table.mvai tr{border-top:1px solid var(--line);padding:10px 14px}
+  table.mvai th,table.mvai td{border:0;padding:3px 0}
+  table.mvai:not(.overview) td::before{display:block;font-size:.76rem;font-weight:800;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}
+  table.mvai:not(.overview) td:nth-of-type(1)::before{content:"Manual / traditional tools"}
+  table.mvai:not(.overview) td:nth-of-type(2)::before{content:"eComChannels AI";color:#166534}
+  table.mvai:not(.overview) td:last-child{padding:6px 8px;border-radius:8px}
+  table.mvai.overview td:nth-of-type(1){color:var(--muted);font-size:.88rem}
+  table.mvai.overview td:nth-of-type(2)::before{content:"Manual: "}
+  table.mvai.overview td:nth-of-type(3)::before{content:"eComChannels AI: ";color:#166534;font-weight:800}
+  table.mvai.overview td:nth-of-type(4)::before{content:"Time saved: "}
+}
+
+/* savings calculator */
+.calc{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,1fr);gap:0;background:#fff;border:1px solid var(--line);border-radius:20px;box-shadow:var(--shadow-lg);overflow:hidden}
+.calc-in{padding:28px}
+.calc-out{padding:28px;background:linear-gradient(160deg,#0846a0,#0a6cf1);color:#fff;display:flex;flex-direction:column;gap:18px}
+.calc-q{margin:0 0 10px;font-weight:800;color:var(--navy)}
+.calc-q:not(:first-child){margin-top:22px}
+.calc-work{display:flex;flex-wrap:wrap;gap:8px}
+.calc-work button{font:inherit;font-size:.9rem;font-weight:700;min-height:44px;padding:8px 14px;border-radius:999px;border:1.5px solid var(--line);background:var(--sky-2);color:var(--navy);cursor:pointer;transition:background .15s,border-color .15s,color .15s}
+.calc-work button:hover{border-color:var(--blue)}
+.calc-work button[aria-checked=true]{background:var(--blue);border-color:var(--blue);color:#fff}
+.calc-work button:focus-visible,.calc input:focus-visible{outline:3px solid #93c5fd;outline-offset:2px}
+.calc-vol{display:block}
+.calc-unit{display:block;color:var(--muted);font-size:.92rem;margin-bottom:6px}
+.calc-row{display:flex;align-items:center;gap:14px}
+.calc-range{flex:1;min-width:0;height:44px;accent-color:var(--blue);background:transparent}
+.calc-num,.calc-rate{font:inherit;font-size:16px;font-weight:800;color:var(--navy);width:110px;min-height:44px;padding:6px 10px;border:1.5px solid var(--line);border-radius:10px;background:#fff}
+.calc-ratel{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-top:16px;color:var(--muted);font-size:.92rem}
+.calc-scenario{margin:16px 0 0;font-size:.86rem;color:var(--muted)}
+.calc-cols{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.calc-box{background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.2);border-radius:14px;padding:14px;font-size:.85rem}
+.calc-box>span{display:block;font-size:.76rem;text-transform:uppercase;letter-spacing:.05em;opacity:.85;font-weight:800}
+.calc-box b{display:block;font-size:1.5rem;line-height:1.25;margin:6px 0 2px}
+.calc-box i{font-style:normal;font-weight:800}
+.calc-box.ai{background:rgba(220,252,231,.18);border-color:rgba(187,247,208,.5)}
+.calc-bars div{display:grid;grid-template-columns:60px 1fr;align-items:center;gap:10px;font-size:.8rem;margin:6px 0}
+.calc-bars i{display:block;height:12px;border-radius:999px;background:rgba(255,255,255,.35);transition:width .25s}
+.calc-bars i.calc-bar-a{background:#4ade80}
+.calc-save{background:#fff;color:var(--navy);border-radius:14px;padding:16px 18px}
+.calc-save>span{display:block;font-size:.75rem;text-transform:uppercase;letter-spacing:.05em;color:#166534;font-weight:800}
+.calc-save b{display:block;font-size:1.6rem;line-height:1.25;margin:4px 0;color:#166534}
+.calc-save small{color:var(--muted);font-size:.88rem}
+.calc-cta{margin:0}.calc-cta .btn{background:#fff;color:var(--blue-600)}
+@media (max-width:900px){.calc{grid-template-columns:minmax(0,1fr)}}
+@media (max-width:640px){
+  .calc-in,.calc-out{padding:20px}
+  .calc-work button{font-size:.85rem;padding:8px 12px}
+  .calc-num{width:96px}
+  .calc-box b{font-size:1.25rem}.calc-save b{font-size:1.3rem}
+}

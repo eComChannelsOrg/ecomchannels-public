@@ -12,26 +12,26 @@ Ranked by the latest full-year revenue of the company that operates each channel
 
 | Rank | Channel | Operated by | Annual revenue | Source |
 | --- | --- | --- | --- | --- |
-| 1 | Amazon Australia | Amazon.com, Inc. | US$716.9 billion 2025 net sales | https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/ |
-| 2 | TikTok Shop | ByteDance Ltd (private) | US$155 billion 2024 revenue, as reported by Bloomberg | https://www.bloomberg.com/news/articles/2025-04-11/tiktok-drives-bytedance-s-29-growth-while-china-business-slows |
-| 3 | Temu (Local Seller) | PDD Holdings Inc. | US$61.8 billion 2025 revenue | https://investor.pddholdings.com/news-releases/news-release-details/pdd-holdings-announces-fourth-quarter-2025-and-fiscal-year-2025 |
-| 4 | Woolworths Everyday Market | Woolworths Group | A$71.5 billion F26 sales | https://www.woolworthsgroup.com.au/content/dam/wwg/investors/asx-announcements/2026/3108623.pdf |
-| 5 | BIG W Market | Woolworths Group | A$71.5 billion F26 sales | https://www.woolworthsgroup.com.au/content/dam/wwg/investors/asx-announcements/2026/3108623.pdf |
-| 6 | MyDeal (Now part of BIG W Market) | Woolworths Group | A$71.5 billion F26 sales | https://www.woolworthsgroup.com.au/content/dam/wwg/investors/asx-announcements/2025/2908067.pdf |
-| 7 | Bunnings Marketplace | Wesfarmers Limited | A$47.3 billion FY26 revenue | https://wesfarmers.gcs-web.com/static-files/489bbff3-8cc4-41d9-8e10-2f8c07a65a67 |
-| 8 | Kmart Marketplace | Wesfarmers Limited | A$47.3 billion FY26 revenue | https://wesfarmers.gcs-web.com/static-files/489bbff3-8cc4-41d9-8e10-2f8c07a65a67 |
-| 9 | Decathlon Australia Marketplace | Decathlon Group | €16.8 billion 2025 net sales | https://www.decathlon-united.media/pressfiles/2025results |
-| 10 | eBay Australia | eBay Inc. | US$11.1 billion 2025 revenue | https://www.sec.gov/Archives/edgar/data/1065088/000106508826000017/exhibit991erebayq42025.htm |
-| 11 | JB Hi-Fi Marketplace | JB Hi-Fi Limited | A$11.06 billion FY26 total sales | https://announcements.asx.com.au/asxpdf/20260817/pdf/072tcftkrg6j8r.pdf |
-| 12 | Country Road Group Marketplace | Woolworths Holdings Limited (South Africa) | R84.5 billion FY26 turnover and concession sales | https://www.woolworthsholdings.co.za/whl-fy26-results-woolworths-operational-resilience-delivers-credible-results-increases-turnover-in-every-segment-and-declares-total-dividend-of-r1-9-billion/ |
-| 13 | Velocity Frequent Flyer Store | Virgin Australia Holdings | A$6.35 billion FY26 revenue and other income | https://www.virginaustralia.com/content/dam/vaa/documents/investor-centre/fy26/VGN-ASX-FY26.pdf |
-| 14 | Etsy | Etsy, Inc. | US$2.88 billion 2025 revenue | https://investors.etsy.com/news-events/press-releases/detail/218/etsy-inc-reports-fourth-quarter-and-full-year-2025-results |
-| 15 | Myer Marketplace | Myer Holdings (Myer Group) | A$4.09 billion FY26 total sales | https://investor.myer.com.au/DownloadFile.axd?file=/Report/ComNews/20260923/03138508.pdf |
-| 16 | THE ICONIC Marketplace | Global Fashion Group | €679.8 million 2025 revenue | https://ir.global-fashion-group.com/financial-news |
-| 17 | Lasoo | IVE Group | A$937.4 million FY26 revenue | https://www.ivegroup.com.au/news/ive-releases-full-year-result-in-line-with-guidance-as-2030-strategy-progresses |
-| 18 | Temple & Webster | Temple & Webster Group | A$664.6 million FY26 revenue | https://www.templeandwebstergroup.com.au/FormBuilder/_Resource/_module/7ik7dYsBn029bNaEl1204g/docs/reports/TPW_Appendix_4E_Financial_Report_2026.pdf |
-| 19 | Baby Bunting Marketplace | Baby Bunting Group | A$556 million FY26 sales | https://assets.contentstack.io/v3/assets/bltee50a64aa85c8d90/blt218d927fc4966196/6a7e447b5751aa64947e309e/BBN_-_2026_Annual_Report_-_14_Aug_2026.pdf |
-| 20 | Kogan Marketplace | Kogan.com Ltd | A$510.7 million FY26 revenue | https://announcements.asx.com.au/asxpdf/20260824/pdf/0733sjhpgwc4p8.pdf |
+| 1 | Amazon Australia | Amazon.com, Inc. | US$716.9 billion 2025 net sales | [source](https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/) |
+| 2 | TikTok Shop | ByteDance Ltd (private) | US$155 billion 2024 revenue, as reported by Bloomberg | [source](https://www.bloomberg.com/news/articles/2025-04-11/tiktok-drives-bytedance-s-29-growth-while-china-business-slows) |
+| 3 | Temu (Local Seller) | PDD Holdings Inc. | US$61.8 billion 2025 revenue | [source](https://investor.pddholdings.com/news-releases/news-release-details/pdd-holdings-announces-fourth-quarter-2025-and-fiscal-year-2025) |
+| 4 | Woolworths Everyday Market | Woolworths Group | A$71.5 billion F26 sales | [source](https://www.woolworthsgroup.com.au/content/dam/wwg/investors/asx-announcements/2026/3108623.pdf) |
+| 5 | BIG W Market | Woolworths Group | A$71.5 billion F26 sales | [source](https://www.woolworthsgroup.com.au/content/dam/wwg/investors/asx-announcements/2026/3108623.pdf) |
+| 6 | MyDeal (Now part of BIG W Market) | Woolworths Group | A$71.5 billion F26 sales | [source](https://www.woolworthsgroup.com.au/content/dam/wwg/investors/asx-announcements/2025/2908067.pdf) |
+| 7 | Bunnings Marketplace | Wesfarmers Limited | A$47.3 billion FY26 revenue | [source](https://wesfarmers.gcs-web.com/static-files/489bbff3-8cc4-41d9-8e10-2f8c07a65a67) |
+| 8 | Kmart Marketplace | Wesfarmers Limited | A$47.3 billion FY26 revenue | [source](https://wesfarmers.gcs-web.com/static-files/489bbff3-8cc4-41d9-8e10-2f8c07a65a67) |
+| 9 | Decathlon Australia Marketplace | Decathlon Group | €16.8 billion 2025 net sales | [source](https://www.decathlon-united.media/pressfiles/2025results) |
+| 10 | eBay Australia | eBay Inc. | US$11.1 billion 2025 revenue | [source](https://www.sec.gov/Archives/edgar/data/1065088/000106508826000017/exhibit991erebayq42025.htm) |
+| 11 | JB Hi-Fi Marketplace | JB Hi-Fi Limited | A$11.06 billion FY26 total sales | [source](https://announcements.asx.com.au/asxpdf/20260817/pdf/072tcftkrg6j8r.pdf) |
+| 12 | Country Road Group Marketplace | Woolworths Holdings Limited (South Africa) | R84.5 billion FY26 turnover and concession sales | [source](https://www.woolworthsholdings.co.za/whl-fy26-results-woolworths-operational-resilience-delivers-credible-results-increases-turnover-in-every-segment-and-declares-total-dividend-of-r1-9-billion/) |
+| 13 | Velocity Frequent Flyer Store | Virgin Australia Holdings | A$6.35 billion FY26 revenue and other income | [source](https://www.virginaustralia.com/content/dam/vaa/documents/investor-centre/fy26/VGN-ASX-FY26.pdf) |
+| 14 | Etsy | Etsy, Inc. | US$2.88 billion 2025 revenue | [source](https://investors.etsy.com/news-events/press-releases/detail/218/etsy-inc-reports-fourth-quarter-and-full-year-2025-results) |
+| 15 | Myer Marketplace | Myer Holdings (Myer Group) | A$4.09 billion FY26 total sales | [source](https://investor.myer.com.au/DownloadFile.axd?file=/Report/ComNews/20260923/03138508.pdf) |
+| 16 | THE ICONIC Marketplace | Global Fashion Group | €679.8 million 2025 revenue | [source](https://ir.global-fashion-group.com/financial-news) |
+| 17 | Lasoo | IVE Group | A$937.4 million FY26 revenue | [source](https://www.ivegroup.com.au/news/ive-releases-full-year-result-in-line-with-guidance-as-2030-strategy-progresses) |
+| 18 | Temple & Webster | Temple & Webster Group | A$664.6 million FY26 revenue | [source](https://www.templeandwebstergroup.com.au/FormBuilder/_Resource/_module/7ik7dYsBn029bNaEl1204g/docs/reports/TPW_Appendix_4E_Financial_Report_2026.pdf) |
+| 19 | Baby Bunting Marketplace | Baby Bunting Group | A$556 million FY26 sales | [source](https://assets.contentstack.io/v3/assets/bltee50a64aa85c8d90/blt218d927fc4966196/6a7e447b5751aa64947e309e/BBN_-_2026_Annual_Report_-_14_Aug_2026.pdf) |
+| 20 | Kogan Marketplace | Kogan.com Ltd | A$510.7 million FY26 revenue | [source](https://announcements.asx.com.au/asxpdf/20260824/pdf/0733sjhpgwc4p8.pdf) |
 
 ## Marketplaces
 [Image: Amazon Australia logo] 

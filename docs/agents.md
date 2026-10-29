@@ -9,11 +9,11 @@ eComChannels (https://ecomchannels.com) is an Australian multichannel commerce p
 
 ## Products
 - [AI listing optimisation](https://ecomchannels.com/products/ai-listing-optimisation/): AI already trained on each marketplace’s listing rules writes titles, bullet points, descriptions and attributes, and your team approves them before they go live.
-- [AI auto shipping](https://ecomchannels.com/products/ai-shipping/): Book Australia Post, StarTrack, CouriersPlease and Allied Express from one screen, with labels, manifests and tracking sent back automatically.
 - [AI graphics](https://ecomchannels.com/products/ai-graphics/): AI already trained on every marketplace’s image rules produces product images, infographics and lifestyle shots, with one approval per image set.
+- [AI auto shipping](https://ecomchannels.com/products/ai-shipping/): Book Australia Post, StarTrack, CouriersPlease and Allied Express from one screen, with labels, manifests and tracking sent back automatically.
+- [Order management (OMS)](https://ecomchannels.com/products/order-management/): One queue for every order and one stock figure for every SKU, across all your marketplaces and stores.
 - [Finance auto reconciliation](https://ecomchannels.com/products/finance-reconciliation/): Match every marketplace remittance and settlement to the orders it pays for, with fee rules, exceptions and finance reports.
 - [AI social media outreach](https://ecomchannels.com/products/ai-social-media-marketing/): AI plans and writes posts for Facebook, Instagram, TikTok, YouTube, LinkedIn, Pinterest, X, Threads and RedNote, then publishes after approval.
-- [Order management (OMS)](https://ecomchannels.com/products/order-management/): One queue for every order and one stock figure for every SKU, across all your marketplaces and stores.
 - [Branded storefronts](https://ecomchannels.com/products/storefronts/): Your own fast, search-friendly web store, with products, prices and stock fed by the OMS.
 
 ## Sales channels (ranked by operator revenue)

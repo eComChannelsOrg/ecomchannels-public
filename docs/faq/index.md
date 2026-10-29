@@ -3,12 +3,12 @@
 URL: https://ecomchannels.com/faq/
 Updated: 2026-10-30
 
-> Answers about eComChannels products: AI listings, shipping couriers, AI graphics, marketplace reconciliation, social media, OMS and storefronts.
+> Answers about eComChannels products: AI listings, AI graphics, shipping couriers, OMS, marketplace reconciliation, social media and storefronts.
 
 Short answers about eComChannels and its products.
 
 ### What is eComChannels?
-eComChannels is a multichannel commerce platform for online retailers. Its products cover AI listing optimisation, AI auto shipping, AI graphics, finance auto reconciliation, AI social media outreach, order management and branded storefronts, all working from the same product and order data.
+eComChannels is a multichannel commerce platform for online retailers. Its products cover AI listing optimisation, AI graphics, AI auto shipping, order management, finance auto reconciliation, AI social media outreach and branded storefronts, all working from the same product and order data.
 
 ### Which sales channels does eComChannels work with?
 Amazon, TikTok Shop, Temu, Woolworths Everyday Market, BIG W Market, Bunnings Marketplace, Kmart Marketplace, eBay, Etsy, Myer Marketplace, THE ICONIC, Lasoo, Temple & Webster, Baby Bunting and Kogan, plus Shopify, WooCommerce and eComChannels storefronts. It also connects to every marketplace built on Mirakl, including Bunnings, Kmart, JB Hi-Fi, Myer, Country Road Group, Velocity, Decathlon, Baby Bunting, Freedom, Spotlight, Paramount Liquor, CampbellsPlus and Onceit, plus Mirakl marketplaces overseas. MyDeal closed in September 2025 and its sellers now trade on BIG W Market and Everyday Market.
@@ -40,17 +40,23 @@ It is already trained on the listing rules of Amazon, TikTok Shop, Temu, Woolwor
 ### Does AI publish listings automatically?
 No. The AI drafts to each marketplace’s trained rules, and a person on your team approves them before they are published.
 
+### How does eComChannels handle different marketplace image rules?
+Each marketplace is mapped to an image set that holds its slot rules. Designers produce images to the set, and approval publishes them to every channel that uses it.
+
+### Can AI create product images?
+Yes. The graphics AI, already trained on each marketplace’s image rules, generates and edits product graphics, and every image is reviewed before it is approved for a channel.
+
 ### Which couriers does eComChannels shipping support?
 Australia Post, StarTrack, CouriersPlease and Allied Express.
 
 ### Is tracking sent to marketplaces automatically?
 Yes. Once a shipment is labelled, its tracking number is sent back to the customer and to the marketplace or store the order came from.
 
-### How does eComChannels handle different marketplace image rules?
-Each marketplace is mapped to an image set that holds its slot rules. Designers produce images to the set, and approval publishes them to every channel that uses it.
+### What does an order management system (OMS) do?
+An OMS collects orders from every place you sell, keeps one accurate stock figure per product and runs fulfilment, with tracking sent back to each sales channel.
 
-### Can AI create product images?
-Yes. The graphics AI, already trained on each marketplace’s image rules, generates and edits product graphics, and every image is reviewed before it is approved for a channel.
+### Does eComChannels prevent overselling?
+Stock is held centrally per SKU and the available quantity is pushed to each connected channel, so a sale on one marketplace reduces what is offered on the others.
 
 ### What does marketplace reconciliation mean?
 Checking that every order sold on a marketplace was paid for, at the right amount after commission and fees, by matching remittance or settlement lines to orders.
@@ -63,12 +69,6 @@ Facebook, Instagram, TikTok, YouTube, LinkedIn, Pinterest, X, Threads and RedNot
 
 ### Does AI post without approval?
 No. AI drafts and schedules posts, and each one is approved by a person before it is published.
-
-### What does an order management system (OMS) do?
-An OMS collects orders from every place you sell, keeps one accurate stock figure per product and runs fulfilment, with tracking sent back to each sales channel.
-
-### Does eComChannels prevent overselling?
-Stock is held centrally per SKU and the available quantity is pushed to each connected channel, so a sale on one marketplace reduces what is offered on the others.
 
 ### Can I run my own online store with eComChannels?
 Yes. The storefront engine powers branded web stores with server-rendered, search-friendly pages, and products, prices and stock come straight from the OMS.

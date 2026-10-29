@@ -3,7 +3,7 @@
 URL: https://ecomchannels.com/book-a-demo/
 Updated: 2026-10-30
 
-> Book a live demo of eComChannels or start a 30-day free trial. Our team shows you AI listings, shipping, graphics, reconciliation and social media tools.
+> Book a live demo of eComChannels or start a 30-day free trial. Our team shows you AI listings, graphics, shipping, reconciliation and social media tools.
 
 Tell us a little about your business and when suits you. Our team will confirm a time and show you eComChannels live, using the channels you sell on. All products are currently available free for 30 days.
 
