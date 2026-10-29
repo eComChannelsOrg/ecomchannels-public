@@ -11,10 +11,13 @@ Short answers about eComChannels and its products.
 eComChannels is a multichannel commerce platform for online retailers. Its products cover AI listing optimisation, AI auto shipping, AI graphics, finance auto reconciliation, AI social media outreach, order management and branded storefronts, all working from the same product and order data.
 
 ### Which sales channels does eComChannels work with?
-Amazon, TikTok Shop, Temu, Woolworths Everyday Market, BIG W Market, Bunnings Marketplace, Kmart Marketplace, eBay, Etsy, Myer Marketplace, THE ICONIC, Lasoo, Temple & Webster, Baby Bunting and Kogan, plus Shopify, WooCommerce and eComChannels storefronts. Marketplaces built on Mirakl connect through the same integration. MyDeal closed in September 2025 and its sellers now trade on BIG W Market and Everyday Market.
+Amazon, TikTok Shop, Temu, Woolworths Everyday Market, BIG W Market, Bunnings Marketplace, Kmart Marketplace, eBay, Etsy, Myer Marketplace, THE ICONIC, Lasoo, Temple & Webster, Baby Bunting and Kogan, plus Shopify, WooCommerce and eComChannels storefronts. It also connects to every marketplace built on Mirakl, including Bunnings, Kmart, JB Hi-Fi, Myer, Country Road Group, Velocity, Decathlon, Baby Bunting, Freedom, Spotlight, Paramount Liquor, CampbellsPlus and Onceit, plus Mirakl marketplaces overseas. MyDeal closed in September 2025 and its sellers now trade on BIG W Market and Everyday Market.
 
 ### Which is the biggest online marketplace in Australia?
 By the annual revenue of the company behind it, Amazon is the largest, followed by TikTok Shop (ByteDance), Temu (PDD Holdings), Woolworths Group (Everyday Market and BIG W Market) and Wesfarmers (Bunnings and Kmart marketplaces). The full ranking with sources is at https://ecomchannels.com/channels/.
+
+### Do you support Mirakl marketplaces?
+Yes. eComChannels connects to any marketplace built on Mirakl through the Mirakl seller API, using the shop API key the marketplace gives you. That covers 13 Mirakl marketplaces in Australia and New Zealand and more than 280 overseas. The full list is at https://ecomchannels.com/channels/#mirakl.
 
 ### Which couriers are supported?
 Australia Post, StarTrack, CouriersPlease and Allied Express.

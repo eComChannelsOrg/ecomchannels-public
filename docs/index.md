@@ -16,10 +16,10 @@ Free for 30 days. Our team sets you up and walks you through the platform.
 - [Image: BIG W Market] 
 - [Image: Bunnings Marketplace] 
 - [Image: Kmart Marketplace] 
+- [Image: Decathlon Australia Marketplace] 
 - [Image: eBay Australia] 
-- [Image: Etsy] 
-- [Image: Myer Marketplace] [Image: eComChannels] One system
-15 marketplaces4 couriers10 social platforms
+- [Image: JB Hi-Fi Marketplace] [Image: eComChannels] One system
+19 marketplaces4 couriers10 social platforms
 
 ## Products
 →
@@ -100,7 +100,11 @@ Illustrative example with a fictional product. Titles follow each marketplace's 
 - [Image: BIG W Market logo] BIG W Market
 - [Image: Bunnings Marketplace logo] Bunnings Marketplace
 - [Image: Kmart Marketplace logo] Kmart Marketplace
+- [Image: Decathlon Australia Marketplace logo] Decathlon Australia Marketplace
 - [Image: eBay Australia logo] eBay Australia
+- [Image: JB Hi-Fi Marketplace logo] JB Hi-Fi Marketplace
+- [Image: Country Road Group Marketplace logo] Country Road Group Marketplace
+- [Image: Velocity Frequent Flyer Store logo] Velocity Frequent Flyer Store
 - [Image: Etsy logo] Etsy
 - [Image: Myer Marketplace logo] Myer Marketplace
 - [Image: THE ICONIC Marketplace logo] THE ICONIC Marketplace
@@ -146,13 +150,13 @@ Illustrative example with a fictional product. Titles follow each marketplace's 
 eComChannels is a multichannel commerce platform for online retailers. Its products cover AI listing optimisation, AI auto shipping, AI graphics, finance auto reconciliation, AI social media outreach, order management and branded storefronts, all working from the same product and order data.
 
 ### Which sales channels does eComChannels work with?
-Amazon, TikTok Shop, Temu, Woolworths Everyday Market, BIG W Market, Bunnings Marketplace, Kmart Marketplace, eBay, Etsy, Myer Marketplace, THE ICONIC, Lasoo, Temple & Webster, Baby Bunting and Kogan, plus Shopify, WooCommerce and eComChannels storefronts. Marketplaces built on Mirakl connect through the same integration. MyDeal closed in September 2025 and its sellers now trade on BIG W Market and Everyday Market.
+Amazon, TikTok Shop, Temu, Woolworths Everyday Market, BIG W Market, Bunnings Marketplace, Kmart Marketplace, eBay, Etsy, Myer Marketplace, THE ICONIC, Lasoo, Temple & Webster, Baby Bunting and Kogan, plus Shopify, WooCommerce and eComChannels storefronts. It also connects to every marketplace built on Mirakl, including Bunnings, Kmart, JB Hi-Fi, Myer, Country Road Group, Velocity, Decathlon, Baby Bunting, Freedom, Spotlight, Paramount Liquor, CampbellsPlus and Onceit, plus Mirakl marketplaces overseas. MyDeal closed in September 2025 and its sellers now trade on BIG W Market and Everyday Market.
 
 ### Which is the biggest online marketplace in Australia?
 By the annual revenue of the company behind it, Amazon is the largest, followed by TikTok Shop (ByteDance), Temu (PDD Holdings), Woolworths Group (Everyday Market and BIG W Market) and Wesfarmers (Bunnings and Kmart marketplaces). The full ranking with sources is at https://ecomchannels.com/channels/.
 
-### Which couriers are supported?
-Australia Post, StarTrack, CouriersPlease and Allied Express.
+### Do you support Mirakl marketplaces?
+Yes. eComChannels connects to any marketplace built on Mirakl through the Mirakl seller API, using the shop API key the marketplace gives you. That covers 13 Mirakl marketplaces in Australia and New Zealand and more than 280 overseas. The full list is at https://ecomchannels.com/channels/#mirakl.
 [More questions and answers](https://ecomchannels.com/faq/)
 
 ## See eComChannels in action

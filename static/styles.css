@@ -275,3 +275,6 @@ table.rank small{color:var(--muted)}
   .form{padding:18px}
   .flow-arrow{display:none}.flow .step{flex:1 1 40%;min-width:0}
 }
+
+.mirakl-world ul{columns:15rem 3;column-gap:28px;margin:0 0 16px;padding-left:18px}
+.mirakl-world li{break-inside:avoid;font-size:.95rem;margin:0 0 4px}

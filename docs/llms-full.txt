@@ -20,10 +20,10 @@ Free for 30 days. Our team sets you up and walks you through the platform.
 - [Image: BIG W Market] 
 - [Image: Bunnings Marketplace] 
 - [Image: Kmart Marketplace] 
+- [Image: Decathlon Australia Marketplace] 
 - [Image: eBay Australia] 
-- [Image: Etsy] 
-- [Image: Myer Marketplace] [Image: eComChannels] One system
-15 marketplaces4 couriers10 social platforms
+- [Image: JB Hi-Fi Marketplace] [Image: eComChannels] One system
+19 marketplaces4 couriers10 social platforms
 
 ## Products
 →
@@ -104,7 +104,11 @@ Illustrative example with a fictional product. Titles follow each marketplace's 
 - [Image: BIG W Market logo] BIG W Market
 - [Image: Bunnings Marketplace logo] Bunnings Marketplace
 - [Image: Kmart Marketplace logo] Kmart Marketplace
+- [Image: Decathlon Australia Marketplace logo] Decathlon Australia Marketplace
 - [Image: eBay Australia logo] eBay Australia
+- [Image: JB Hi-Fi Marketplace logo] JB Hi-Fi Marketplace
+- [Image: Country Road Group Marketplace logo] Country Road Group Marketplace
+- [Image: Velocity Frequent Flyer Store logo] Velocity Frequent Flyer Store
 - [Image: Etsy logo] Etsy
 - [Image: Myer Marketplace logo] Myer Marketplace
 - [Image: THE ICONIC Marketplace logo] THE ICONIC Marketplace
@@ -150,13 +154,13 @@ Illustrative example with a fictional product. Titles follow each marketplace's 
 eComChannels is a multichannel commerce platform for online retailers. Its products cover AI listing optimisation, AI auto shipping, AI graphics, finance auto reconciliation, AI social media outreach, order management and branded storefronts, all working from the same product and order data.
 
 ### Which sales channels does eComChannels work with?
-Amazon, TikTok Shop, Temu, Woolworths Everyday Market, BIG W Market, Bunnings Marketplace, Kmart Marketplace, eBay, Etsy, Myer Marketplace, THE ICONIC, Lasoo, Temple & Webster, Baby Bunting and Kogan, plus Shopify, WooCommerce and eComChannels storefronts. Marketplaces built on Mirakl connect through the same integration. MyDeal closed in September 2025 and its sellers now trade on BIG W Market and Everyday Market.
+Amazon, TikTok Shop, Temu, Woolworths Everyday Market, BIG W Market, Bunnings Marketplace, Kmart Marketplace, eBay, Etsy, Myer Marketplace, THE ICONIC, Lasoo, Temple & Webster, Baby Bunting and Kogan, plus Shopify, WooCommerce and eComChannels storefronts. It also connects to every marketplace built on Mirakl, including Bunnings, Kmart, JB Hi-Fi, Myer, Country Road Group, Velocity, Decathlon, Baby Bunting, Freedom, Spotlight, Paramount Liquor, CampbellsPlus and Onceit, plus Mirakl marketplaces overseas. MyDeal closed in September 2025 and its sellers now trade on BIG W Market and Everyday Market.
 
 ### Which is the biggest online marketplace in Australia?
 By the annual revenue of the company behind it, Amazon is the largest, followed by TikTok Shop (ByteDance), Temu (PDD Holdings), Woolworths Group (Everyday Market and BIG W Market) and Wesfarmers (Bunnings and Kmart marketplaces). The full ranking with sources is at https://ecomchannels.com/channels/.
 
-### Which couriers are supported?
-Australia Post, StarTrack, CouriersPlease and Allied Express.
+### Do you support Mirakl marketplaces?
+Yes. eComChannels connects to any marketplace built on Mirakl through the Mirakl seller API, using the shop API key the marketplace gives you. That covers 13 Mirakl marketplaces in Australia and New Zealand and more than 280 overseas. The full list is at https://ecomchannels.com/channels/#mirakl.
 [More questions and answers](https://ecomchannels.com/faq/)
 
 ## See eComChannels in action
@@ -268,7 +272,11 @@ Illustrative example with a fictional product. Titles follow each marketplace's 
 - [Image: BIG W Market logo] BIG W Market
 - [Image: Bunnings Marketplace logo] Bunnings Marketplace
 - [Image: Kmart Marketplace logo] Kmart Marketplace
+- [Image: Decathlon Australia Marketplace logo] Decathlon Australia Marketplace
 - [Image: eBay Australia logo] eBay Australia
+- [Image: JB Hi-Fi Marketplace logo] JB Hi-Fi Marketplace
+- [Image: Country Road Group Marketplace logo] Country Road Group Marketplace
+- [Image: Velocity Frequent Flyer Store logo] Velocity Frequent Flyer Store
 - [Image: Etsy logo] Etsy
 - [Image: Myer Marketplace logo] Myer Marketplace
 - [Image: THE ICONIC Marketplace logo] THE ICONIC Marketplace
@@ -428,7 +436,11 @@ Illustrative example with a fictional product.
 - [Image: BIG W Market logo] BIG W Market
 - [Image: Bunnings Marketplace logo] Bunnings Marketplace
 - [Image: Kmart Marketplace logo] Kmart Marketplace
+- [Image: Decathlon Australia Marketplace logo] Decathlon Australia Marketplace
 - [Image: eBay Australia logo] eBay Australia
+- [Image: JB Hi-Fi Marketplace logo] JB Hi-Fi Marketplace
+- [Image: Country Road Group Marketplace logo] Country Road Group Marketplace
+- [Image: Velocity Frequent Flyer Store logo] Velocity Frequent Flyer Store
 - [Image: Etsy logo] Etsy
 - [Image: Myer Marketplace logo] Myer Marketplace
 - [Image: THE ICONIC Marketplace logo] THE ICONIC Marketplace
@@ -510,7 +522,11 @@ Illustration: each payout line is matched to its order, and only exceptions need
 - [Image: BIG W Market logo] BIG W Market
 - [Image: Bunnings Marketplace logo] Bunnings Marketplace
 - [Image: Kmart Marketplace logo] Kmart Marketplace
+- [Image: Decathlon Australia Marketplace logo] Decathlon Australia Marketplace
 - [Image: eBay Australia logo] eBay Australia
+- [Image: JB Hi-Fi Marketplace logo] JB Hi-Fi Marketplace
+- [Image: Country Road Group Marketplace logo] Country Road Group Marketplace
+- [Image: Velocity Frequent Flyer Store logo] Velocity Frequent Flyer Store
 - [Image: Etsy logo] Etsy
 - [Image: Myer Marketplace logo] Myer Marketplace
 - [Image: THE ICONIC Marketplace logo] THE ICONIC Marketplace
@@ -646,7 +662,11 @@ A shared team inbox with the order in view, so support can answer without switch
 - [Image: BIG W Market logo] BIG W Market
 - [Image: Bunnings Marketplace logo] Bunnings Marketplace
 - [Image: Kmart Marketplace logo] Kmart Marketplace
+- [Image: Decathlon Australia Marketplace logo] Decathlon Australia Marketplace
 - [Image: eBay Australia logo] eBay Australia
+- [Image: JB Hi-Fi Marketplace logo] JB Hi-Fi Marketplace
+- [Image: Country Road Group Marketplace logo] Country Road Group Marketplace
+- [Image: Velocity Frequent Flyer Store logo] Velocity Frequent Flyer Store
 - [Image: Etsy logo] Etsy
 - [Image: Myer Marketplace logo] Myer Marketplace
 - [Image: THE ICONIC Marketplace logo] THE ICONIC Marketplace
@@ -742,14 +762,18 @@ Ranked by the latest full-year revenue of the company that operates each channel
 | 6 | MyDeal (Now part of BIG W Market) | Woolworths Group | A$71.5 billion F26 sales | https://www.woolworthsgroup.com.au/content/dam/wwg/investors/asx-announcements/2025/2908067.pdf |
 | 7 | Bunnings Marketplace | Wesfarmers Limited | A$47.3 billion FY26 revenue | https://wesfarmers.gcs-web.com/static-files/489bbff3-8cc4-41d9-8e10-2f8c07a65a67 |
 | 8 | Kmart Marketplace | Wesfarmers Limited | A$47.3 billion FY26 revenue | https://wesfarmers.gcs-web.com/static-files/489bbff3-8cc4-41d9-8e10-2f8c07a65a67 |
-| 9 | eBay Australia | eBay Inc. | US$11.1 billion 2025 revenue | https://www.sec.gov/Archives/edgar/data/1065088/000106508826000017/exhibit991erebayq42025.htm |
-| 10 | Etsy | Etsy, Inc. | US$2.88 billion 2025 revenue | https://investors.etsy.com/news-events/press-releases/detail/218/etsy-inc-reports-fourth-quarter-and-full-year-2025-results |
-| 11 | Myer Marketplace | Myer Holdings (Myer Group) | A$4.09 billion FY26 total sales | https://investor.myer.com.au/DownloadFile.axd?file=/Report/ComNews/20260923/03138508.pdf |
-| 12 | THE ICONIC Marketplace | Global Fashion Group | €679.8 million 2025 revenue | https://ir.global-fashion-group.com/financial-news |
-| 13 | Lasoo | IVE Group | A$937.4 million FY26 revenue | https://www.ivegroup.com.au/news/ive-releases-full-year-result-in-line-with-guidance-as-2030-strategy-progresses |
-| 14 | Temple & Webster | Temple & Webster Group | A$664.6 million FY26 revenue | https://www.templeandwebstergroup.com.au/FormBuilder/_Resource/_module/7ik7dYsBn029bNaEl1204g/docs/reports/TPW_Appendix_4E_Financial_Report_2026.pdf |
-| 15 | Baby Bunting Marketplace | Baby Bunting Group | A$556 million FY26 sales | https://assets.contentstack.io/v3/assets/bltee50a64aa85c8d90/blt218d927fc4966196/6a7e447b5751aa64947e309e/BBN_-_2026_Annual_Report_-_14_Aug_2026.pdf |
-| 16 | Kogan Marketplace | Kogan.com Ltd | A$510.7 million FY26 revenue | https://announcements.asx.com.au/asxpdf/20260824/pdf/0733sjhpgwc4p8.pdf |
+| 9 | Decathlon Australia Marketplace | Decathlon Group | €16.8 billion 2025 net sales | https://www.decathlon-united.media/pressfiles/2025results |
+| 10 | eBay Australia | eBay Inc. | US$11.1 billion 2025 revenue | https://www.sec.gov/Archives/edgar/data/1065088/000106508826000017/exhibit991erebayq42025.htm |
+| 11 | JB Hi-Fi Marketplace | JB Hi-Fi Limited | A$11.06 billion FY26 total sales | https://announcements.asx.com.au/asxpdf/20260817/pdf/072tcftkrg6j8r.pdf |
+| 12 | Country Road Group Marketplace | Woolworths Holdings Limited (South Africa) | R84.5 billion FY26 turnover and concession sales | https://www.woolworthsholdings.co.za/whl-fy26-results-woolworths-operational-resilience-delivers-credible-results-increases-turnover-in-every-segment-and-declares-total-dividend-of-r1-9-billion/ |
+| 13 | Velocity Frequent Flyer Store | Virgin Australia Holdings | A$6.35 billion FY26 revenue and other income | https://www.virginaustralia.com/content/dam/vaa/documents/investor-centre/fy26/VGN-ASX-FY26.pdf |
+| 14 | Etsy | Etsy, Inc. | US$2.88 billion 2025 revenue | https://investors.etsy.com/news-events/press-releases/detail/218/etsy-inc-reports-fourth-quarter-and-full-year-2025-results |
+| 15 | Myer Marketplace | Myer Holdings (Myer Group) | A$4.09 billion FY26 total sales | https://investor.myer.com.au/DownloadFile.axd?file=/Report/ComNews/20260923/03138508.pdf |
+| 16 | THE ICONIC Marketplace | Global Fashion Group | €679.8 million 2025 revenue | https://ir.global-fashion-group.com/financial-news |
+| 17 | Lasoo | IVE Group | A$937.4 million FY26 revenue | https://www.ivegroup.com.au/news/ive-releases-full-year-result-in-line-with-guidance-as-2030-strategy-progresses |
+| 18 | Temple & Webster | Temple & Webster Group | A$664.6 million FY26 revenue | https://www.templeandwebstergroup.com.au/FormBuilder/_Resource/_module/7ik7dYsBn029bNaEl1204g/docs/reports/TPW_Appendix_4E_Financial_Report_2026.pdf |
+| 19 | Baby Bunting Marketplace | Baby Bunting Group | A$556 million FY26 sales | https://assets.contentstack.io/v3/assets/bltee50a64aa85c8d90/blt218d927fc4966196/6a7e447b5751aa64947e309e/BBN_-_2026_Annual_Report_-_14_Aug_2026.pdf |
+| 20 | Kogan Marketplace | Kogan.com Ltd | A$510.7 million FY26 revenue | https://announcements.asx.com.au/asxpdf/20260824/pdf/0733sjhpgwc4p8.pdf |
 
 ## Marketplaces
 [Image: Amazon Australia logo] 
@@ -776,9 +800,21 @@ Offers, orders and shipments for Bunnings Marketplace.
 [Image: Kmart Marketplace logo] 
 ### Kmart Marketplace
 Listings and orders for curated sellers on Kmart Marketplace.
+[Image: Decathlon Australia Marketplace logo] 
+### Decathlon Australia Marketplace
+Sports products on the Decathlon Australia marketplace (Mirakl).
 [Image: eBay Australia logo] 
 ### eBay Australia
 eBay listings, stock levels and order fulfilment.
+[Image: JB Hi-Fi Marketplace logo] 
+### JB Hi-Fi Marketplace
+Offers, orders and tracking for the JB Hi-Fi marketplace (Mirakl).
+[Image: Country Road Group Marketplace logo] 
+### Country Road Group Marketplace
+Partner brands on the Country Road and Witchery sites (Mirakl).
+[Image: Velocity Frequent Flyer Store logo] 
+### Velocity Frequent Flyer Store
+Products in Virgin Australia’s Velocity rewards store (Mirakl).
 [Image: Etsy logo] 
 ### Etsy
 Listings and orders for Etsy shops.
@@ -800,7 +836,352 @@ Listings and orders for Baby Bunting Marketplace.
 [Image: Kogan Marketplace logo] 
 ### Kogan Marketplace
 Kogan.com orders, stock and tracking updates.
-Marketplaces that run on Mirakl connect through the same integration.
+Plus every marketplace that runs on Mirakl. [See all 300 Mirakl marketplaces](#mirakl).
+
+## Mirakl marketplaces in Australia and New Zealand
+eComChannels connects to marketplaces built on Mirakl through the Mirakl seller API: offers, stock, prices, orders, shipping and tracking, with images and listing content from the same product data. Any Mirakl marketplace connects with your shop's API key, so new Mirakl marketplaces work as soon as you are approved as a seller.
+[Image: Bunnings Marketplace logo] 
+### Bunnings Marketplace
+Offers, orders and shipments on Bunnings Marketplace. Australia.
+[Image: Kmart Marketplace logo] 
+### Kmart Marketplace
+Listings and orders for curated sellers on Kmart Marketplace. Australia.
+[Image: JB Hi-Fi Marketplace logo] 
+### JB Hi-Fi Marketplace
+Offers, orders and tracking for the JB Hi-Fi marketplace. Australia.
+[Image: Myer Marketplace logo] 
+### Myer Marketplace
+Listings and orders on Myer’s Mirakl marketplace. Australia.
+[Image: Country Road Group Marketplace logo] 
+### Country Road Group Marketplace
+Partner brands on the Country Road and Witchery sites. Australia.
+[Image: Velocity Frequent Flyer Store logo] 
+### Velocity Frequent Flyer Store
+Products in Virgin Australia’s Velocity rewards store. Australia.
+[Image: Decathlon Australia Marketplace logo] 
+### Decathlon Australia Marketplace
+Sports products on the Decathlon Australia marketplace. Australia.
+[Image: Baby Bunting Marketplace logo] 
+### Baby Bunting Marketplace
+Listings and orders for Baby Bunting Marketplace. Australia.
+[Image: Freedom logo] 
+### Freedom
+Dropship furniture and homewares for Freedom. Australia.
+[Image: Spotlight Retail Group logo] 
+### Spotlight Retail Group
+Marketplace for Spotlight, Anaconda and Harris Scarfe. Australia.
+[Image: Paramount Liquor Marketplace logo] 
+### Paramount Liquor Marketplace
+Wine, beer and spirits for Paramount’s trade buyers. Australia.
+[Image: CampbellsPlus logo] 
+### CampbellsPlus
+B2B marketplace for Campbells Wholesale customers. Australia.
+[Image: Onceit logo] 
+### Onceit
+Brand outlet marketplace. New Zealand.
+
+## Mirakl marketplaces worldwide
+The same integration works with Mirakl marketplaces in other countries. Open a region to see the marketplaces ([list source](https://www.linnworks.com/integrations/mirakl/)).
+
+### Europe (171)
+
+- Afound (Sweden)
+- Ahlens (Sweden)
+- Airbus Helicopters – AirbusWorld (France)
+- Alltricks (France)
+- Aniel (France)
+- Anjana Investments (Spain)
+- ANWB Marketplace (Netherlands)
+- ARGOS (United Kingdom)
+- ASOS (United Kingdom)
+- Astore – Accor Hotels (France)
+- Atlas For Men (France)
+- Auchan (France)
+- Autodoc (Germany, United Kingdom)
+- B&Q (United Kingdom)
+- Bauhaus (Germany)
+- BazarChic (France)
+- Beerwulf (Netherlands)
+- BENU Farma (Italy)
+- Best Secret (Germany)
+- Big Bang (Slovenia)
+- BILD Marktplatz (Germany)
+- Black Red White (Poland)
+- BlueOn (France)
+- Boulanger (France)
+- Brand Alley (United Kingdom)
+- Brico Depot Iberia (Spain)
+- Bricomarche (France)
+- Bulevip (Spain)
+- BunzlOne (Netherlands)
+- Business France (France)
+- BUT Marketplace (France)
+- CADHI (France)
+- Carrefour France (France)
+- Carrefour Spain (Spain)
+- Casa del Libro (Spain)
+- Castorama France (France)
+- Castorama Poland (Poland)
+- ClubeFashion (Portugal)
+- Conforama (France)
+- Conforama Iberia (Spain, Portugal)
+- Conrad (Germany)
+- Coperama (Spain)
+- Cultura (France)
+- Curate – Reem Mall (United Arab Emirates)
+- Debenhams (United Kingdom)
+- Decathlon Europe (Belgium +9 more)
+- Decathlon Ukraine (Ukraine)
+- Douglas (Germany +5 more)
+- Dr.Max (Czech Republic, Slovakia)
+- E.Leclerc (France)
+- El Corte Ingles (Spain)
+- Elkjop (Finland)
+- Ellos (Sweden)
+- Empik (Poland)
+- ePRICE (Italy)
+- Eroski (Spain)
+- Euronics (United Kingdom)
+- Fonq (Netherlands)
+- Freemans (United Kingdom)
+- Fressnapf (Germany)
+- GACD – The Dental Marketplace (France)
+- Galeria Inno (Belgium)
+- Galeria Karstadt Kaufhof GmbH (Germany)
+- Galeries Lafayette (France)
+- Globus (Switzerland)
+- Grands Moulins de Paris (France)
+- Greenweez (France)
+- GroupDeal / Mediahuis (Netherlands)
+- Grupo Andres (Spain)
+- H&M (United Kingdom)
+- Happysize (Germany)
+- Happytal (France)
+- Hawesko (Germany)
+- Hebe (Poland)
+- Hobbybox (Finland)
+- Hoffner (Germany)
+- home&you (Poland)
+- home24 (Germany)
+- HORNBACH Marktplatz (Germany)
+- hygi.de (Germany)
+- IBS (Italy)
+- Industrissimo (France)
+- JD Sports (United Kingdom)
+- Jinius (Cyprus)
+- John Lewis (United Kingdom)
+- Kiabi FR (France)
+- Kruidvat (Netherlands)
+- La Poste (France)
+- La Redoute (France)
+- LDLC / Slood / Materiel.net (France)
+- Le BHV Marais (France)
+- Leen Bakker (Netherlands)
+- Leonardo spa (Italy)
+- Leroy Merlin – ADEO (France)
+- Limango (Germany)
+- LUSINI (Germany)
+- MacWay (France)
+- Maisons du Monde (France)
+- Manor (Switzerland)
+- Matalan (United Kingdom)
+- Mathon (France)
+- Maty (France)
+- Maxeda DIY (Praxis / Brico) (Netherlands, Belgium)
+- Maykers (Netherlands)
+- MediaMarkt Saturn (Germany)
+- Mister Auto (France)
+- MoBase (Germany)
+- Mobel Pfister (Switzerland)
+- Modivo (Poland)
+- Mondial Tissus (France)
+- Mountain Warehouse (United Kingdom)
+- Musgrave Marketplace (Ireland)
+- MyCCEP – Coca-Cola Europacific Partners (United Kingdom)
+- Nature & Decouvertes (France)
+- Obelink Partnerprogramma (Netherlands)
+- OBI Marketplace (Germany)
+- OCP Marketplace (France)
+- Orange Espagna – La Tienda (Spain)
+- Orange France (France)
+- PAYBACK Produkte (Germany)
+- PcComponentes (Spain)
+- Phone House (Spain)
+- Pixmania (PixPlace) (France)
+- Place des Tendances (France)
+- Planeta Huerto (Spain)
+- Pourdebon (France)
+- Printemps (France)
+- Prisma / SOK (Finland)
+- Private Sport Shop (France)
+- Public.gr (Greece)
+- Quirumed (Spain)
+- Re-In (voelkner) (Germany)
+- Red Bull Shop (Austria)
+- Retif (France)
+- Roman (United Kingdom)
+- Rue du Commerce (France)
+- Sarenza (Ex. Monoprix) (France)
+- Satair (Denmark)
+- Secret Sales (United Kingdom)
+- Shop Apotheke (Germany)
+- Showroomprive.com (France)
+- Showroomprive.com – Dropship Only for Flashsales (France)
+- Sigma Sports (United Kingdom)
+- Sirvis – V Orders (Switzerland)
+- Sonepar (Italy)
+- Sprinter (Spain)
+- Stadium (Sweden)
+- Super-Pharm Poland (Poland)
+- Superdrug (United Kingdom)
+- Supplo Market (Czech Republic)
+- Teract – Jardiland & Gamm Vert (France)
+- Tesco UK (United Kingdom)
+- The Range (United Kingdom)
+- The Tropic Market (France)
+- Tiendanimal (Spain)
+- Truffaut (France)
+- TWIL – The Wine I Love (France)
+- Ubaldi (France)
+- Vente-Unique (France)
+- Vertbaudet (France)
+- VirtualExpo (France)
+- Voelkner (Germany)
+- vtwonen (Netherlands)
+- Watchfinder (United Kingdom)
+- Wook (Portugal)
+- Worten (Portugal, Spain)
+- Wurth (Germany)
+- XXXLutz Marktplatz (Germany, Austria)
+- Yimbly (United Kingdom)
+- Yves Rocher (France)
+- Zooplus (Germany)
+### North America (74)
+
+- 1-800-Flowers Marketplace (United States)
+- Altitude Sports (Canada)
+- American Tire Distributors (United States)
+- Bed Bath & Beyond (United States)
+- Best Buy Canada (Canada)
+- Best Buy USA (United States)
+- Bloomingdale's (United States)
+- Blue Diamond Growers (United States)
+- Bob's Discount Furniture (United States)
+- Canada Shops (Mes marchands d'ici) (Canada)
+- Cencora – Amerisource Bergen (United States)
+- Cheney Brothers (United States)
+- Dia & Co (United States)
+- Driven Advantage (United States)
+- Eleven36 (United States)
+- Exelon (United States)
+- Fanatics (United States)
+- fdx – FedEx Commerce Platform (United States)
+- GE Vernova Wind Parts Store (United States)
+- Graybar (United States)
+- Hearst (United States)
+- Henry Schein (United States)
+- Holt Renfrew (Canada)
+- Homemakers Furniture (United States)
+- Intermix (United States)
+- J.Crew (United States)
+- Janie and Jack (United States)
+- JCPenney (United States)
+- Kohl's (United States)
+- Living Spaces Furniture (United States)
+- Lowe's (United States)
+- Macy's (United States)
+- Madewell (United States)
+- Maestro – Michelin (United States)
+- Maisonette (United States)
+- Mathis Home (United States)
+- Meijer Marketplace (United States)
+- Middleby Shop (United States)
+- MilliporeSigma – MPartner (United States)
+- Minted (United States)
+- Moda Operandi (United States)
+- NBC Universal (United States)
+- Nordstrom (United States)
+- OnlineMetals.com (United States)
+- OTC+ Marketplace (United States)
+- Parts Town (United States)
+- Pfister-P (Canada)
+- Purchasing Power (United States)
+- Pyramyd AIR (United States)
+- Raymour & Flanigan (United States)
+- Restaurant Depot (United States)
+- Royal Caribbean – Vacay Market (United States)
+- Saks Fifth Avenue (United States)
+- SalonCentric (United States)
+- ShopSimon (United States)
+- Snappy (United States)
+- Staples (United States)
+- Step Up For Students – MyScholarShop (United States)
+- STIHL Marketplace (United States)
+- Sysco Marketplace (United States)
+- TDSC – The Dentists Supply Company (United States)
+- The Home Depot (United States)
+- The Knot (United States)
+- Tiendamia (United States)
+- Townchest (United States)
+- Toyota Material Handling – MyToyota Store (United States)
+- TSC Marketplace (Canada)
+- UFA Marketplace (Canada)
+- Ulta Beauty (United States)
+- UNFI Marketplace (United States)
+- Urban Outfitters (United States)
+- Verishop (United States)
+- Verizon Dropship & Marketplace (United States)
+- Whirlpool Corporation (United States)
+### Latin America (16)
+
+- ABB Loja Online (Brazil) (Brazil)
+- Bradesco Shop (Brazil)
+- Carrefour Brazil (Brazil)
+- Coppel (Mexico)
+- Dotz (Brazil)
+- El Palacio de Hierro (Mexico)
+- Farmacias del Ahorro (Mexico)
+- GPA Marketplace (Brazil)
+- KaBuM! (Brazil)
+- Leroy Merlin Brazil (Brazil)
+- MAX (Guatemala)
+- Oi Telecomunicacoes (Brazil)
+- Privalia Mexico (Mexico)
+- Ripley Chile (Chile)
+- Ripley Peru (Peru)
+- Totalplay Shop (Mexico)
+### Asia (15)
+
+- ABB eMart (India) (India)
+- Central Group (Thailand)
+- Decathlon India (India)
+- Decathlon Malaysia (Malaysia)
+- Decathlon Singapore (Singapore)
+- Decathlon Taiwan (Taiwan)
+- Decathlon Thailand (Thailand)
+- IRIS Plaza (Japan)
+- KrisShop (Singapore)
+- Landers Superstore (Philippines)
+- MM Mega Market Vietnam (Vietnam)
+- NTUC Fairprice (Singapore)
+- Satsudora (Japan)
+- Siam Makro Thailand (Thailand)
+- WESTER Mall (Japan)
+### Middle East (10)
+
+- ABB eMart (Saudi Arabia) (Saudi Arabia)
+- Chalhoub group (United Arab Emirates)
+- Decoverse (Turkey)
+- Extra.com (Saudi Arabia)
+- Jarir Bookstore (Saudi Arabia)
+- Karaca (Turkey)
+- Koctas (Turkey)
+- Super-Pharm Online (Israel)
+- Teknosa (Turkey)
+- Zap Group (Israel)
+### Africa (1)
+
+- Leroy Merlin South Africa (South Africa)
 
 ## Web stores
 [Image: Shopify logo] 
@@ -888,10 +1269,13 @@ Short answers about eComChannels and its products.
 eComChannels is a multichannel commerce platform for online retailers. Its products cover AI listing optimisation, AI auto shipping, AI graphics, finance auto reconciliation, AI social media outreach, order management and branded storefronts, all working from the same product and order data.
 
 ### Which sales channels does eComChannels work with?
-Amazon, TikTok Shop, Temu, Woolworths Everyday Market, BIG W Market, Bunnings Marketplace, Kmart Marketplace, eBay, Etsy, Myer Marketplace, THE ICONIC, Lasoo, Temple & Webster, Baby Bunting and Kogan, plus Shopify, WooCommerce and eComChannels storefronts. Marketplaces built on Mirakl connect through the same integration. MyDeal closed in September 2025 and its sellers now trade on BIG W Market and Everyday Market.
+Amazon, TikTok Shop, Temu, Woolworths Everyday Market, BIG W Market, Bunnings Marketplace, Kmart Marketplace, eBay, Etsy, Myer Marketplace, THE ICONIC, Lasoo, Temple & Webster, Baby Bunting and Kogan, plus Shopify, WooCommerce and eComChannels storefronts. It also connects to every marketplace built on Mirakl, including Bunnings, Kmart, JB Hi-Fi, Myer, Country Road Group, Velocity, Decathlon, Baby Bunting, Freedom, Spotlight, Paramount Liquor, CampbellsPlus and Onceit, plus Mirakl marketplaces overseas. MyDeal closed in September 2025 and its sellers now trade on BIG W Market and Everyday Market.
 
 ### Which is the biggest online marketplace in Australia?
 By the annual revenue of the company behind it, Amazon is the largest, followed by TikTok Shop (ByteDance), Temu (PDD Holdings), Woolworths Group (Everyday Market and BIG W Market) and Wesfarmers (Bunnings and Kmart marketplaces). The full ranking with sources is at https://ecomchannels.com/channels/.
+
+### Do you support Mirakl marketplaces?
+Yes. eComChannels connects to any marketplace built on Mirakl through the Mirakl seller API, using the shop API key the marketplace gives you. That covers 13 Mirakl marketplaces in Australia and New Zealand and more than 280 overseas. The full list is at https://ecomchannels.com/channels/#mirakl.
 
 ### Which couriers are supported?
 Australia Post, StarTrack, CouriersPlease and Allied Express.

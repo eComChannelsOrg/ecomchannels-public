@@ -47,7 +47,11 @@ Illustration: each payout line is matched to its order, and only exceptions need
 - [Image: BIG W Market logo] BIG W Market
 - [Image: Bunnings Marketplace logo] Bunnings Marketplace
 - [Image: Kmart Marketplace logo] Kmart Marketplace
+- [Image: Decathlon Australia Marketplace logo] Decathlon Australia Marketplace
 - [Image: eBay Australia logo] eBay Australia
+- [Image: JB Hi-Fi Marketplace logo] JB Hi-Fi Marketplace
+- [Image: Country Road Group Marketplace logo] Country Road Group Marketplace
+- [Image: Velocity Frequent Flyer Store logo] Velocity Frequent Flyer Store
 - [Image: Etsy logo] Etsy
 - [Image: Myer Marketplace logo] Myer Marketplace
 - [Image: THE ICONIC Marketplace logo] THE ICONIC Marketplace

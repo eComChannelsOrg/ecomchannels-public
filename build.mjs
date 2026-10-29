@@ -2,6 +2,7 @@
 import { mkdirSync, writeFileSync, readFileSync, rmSync, copyFileSync, readdirSync, existsSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { miraklAnz, miraklWorld, miraklCount, MIRAKL_SOURCE } from './mirakl.mjs';
 import { hubVisual, graphicsCompare, listingCompare, cardVisual, shippingFlow, reconVisual } from './visuals.mjs';
 
 const ROOT = dirname(fileURLToPath(import.meta.url));
@@ -21,8 +22,8 @@ function logoFile(key) {
 
 // ---------- channels ----------
 // Marketplaces and retail channels, ranked by the annual revenue of the company that operates them.
-// FX for ranking only: US$1 = A$1.53, EUR1 = A$1.78 (approximate). Figures are each company's latest full year.
-const FX = { USD: 1.53, EUR: 1.78, AUD: 1 };
+// FX for ranking only: US$1 = A$1.53, EUR1 = A$1.78, R1 = A$0.0947 (approximate). Figures are each company's latest full year.
+const FX = { USD: 1.53, EUR: 1.78, ZAR: 0.0947, AUD: 1 };
 const marketplaceData = [
   { key: 'amazon', name: 'Amazon Australia', desc: 'Amazon marketplace listings, orders and dispatch confirmations.', operator: 'Amazon.com, Inc.', rev: 716.9, cur: 'USD', unit: 'billion', period: '2025 net sales', src: 'https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/' },
   { key: 'tiktok', name: 'TikTok Shop', desc: 'Product listings and content for TikTok Shop.', operator: 'ByteDance Ltd (private)', rev: 155, cur: 'USD', unit: 'billion', period: '2024 revenue, as reported by Bloomberg', src: 'https://www.bloomberg.com/news/articles/2025-04-11/tiktok-drives-bytedance-s-29-growth-while-china-business-slows' },
@@ -40,9 +41,13 @@ const marketplaceData = [
   { key: 'templewebster', name: 'Temple & Webster', desc: 'Product feeds and orders for Temple & Webster suppliers.', operator: 'Temple & Webster Group', rev: 664.6, cur: 'AUD', unit: 'million', period: 'FY26 revenue', src: 'https://www.templeandwebstergroup.com.au/FormBuilder/_Resource/_module/7ik7dYsBn029bNaEl1204g/docs/reports/TPW_Appendix_4E_Financial_Report_2026.pdf' },
   { key: 'babybunting', name: 'Baby Bunting Marketplace', desc: 'Listings and orders for Baby Bunting Marketplace.', operator: 'Baby Bunting Group', rev: 556.0, cur: 'AUD', unit: 'million', period: 'FY26 sales', src: 'https://assets.contentstack.io/v3/assets/bltee50a64aa85c8d90/blt218d927fc4966196/6a7e447b5751aa64947e309e/BBN_-_2026_Annual_Report_-_14_Aug_2026.pdf' },
   { key: 'kogan', name: 'Kogan Marketplace', desc: 'Kogan.com orders, stock and tracking updates.', operator: 'Kogan.com Ltd', rev: 510.7, cur: 'AUD', unit: 'million', period: 'FY26 revenue', src: 'https://announcements.asx.com.au/asxpdf/20260824/pdf/0733sjhpgwc4p8.pdf' },
+  { key: 'jbhifi', name: 'JB Hi-Fi Marketplace', desc: 'Offers, orders and tracking for the JB Hi-Fi marketplace (Mirakl).', operator: 'JB Hi-Fi Limited', rev: 11.06, cur: 'AUD', unit: 'billion', period: 'FY26 total sales', src: 'https://announcements.asx.com.au/asxpdf/20260817/pdf/072tcftkrg6j8r.pdf' },
+  { key: 'decathlon', name: 'Decathlon Australia Marketplace', desc: 'Sports products on the Decathlon Australia marketplace (Mirakl).', operator: 'Decathlon Group', rev: 16.8, cur: 'EUR', unit: 'billion', period: '2025 net sales', src: 'https://www.decathlon-united.media/pressfiles/2025results' },
+  { key: 'countryroad', name: 'Country Road Group Marketplace', desc: 'Partner brands on the Country Road and Witchery sites (Mirakl).', operator: 'Woolworths Holdings Limited (South Africa)', rev: 84.5, cur: 'ZAR', unit: 'billion', period: 'FY26 turnover and concession sales', src: 'https://www.woolworthsholdings.co.za/whl-fy26-results-woolworths-operational-resilience-delivers-credible-results-increases-turnover-in-every-segment-and-declares-total-dividend-of-r1-9-billion/' },
+  { key: 'velocity', name: 'Velocity Frequent Flyer Store', desc: 'Products in Virgin Australia’s Velocity rewards store (Mirakl).', operator: 'Virgin Australia Holdings', rev: 6.35, cur: 'AUD', unit: 'billion', period: 'FY26 revenue and other income', src: 'https://www.virginaustralia.com/content/dam/vaa/documents/investor-centre/fy26/VGN-ASX-FY26.pdf' },
 ].map((m, i) => ({ ...m, order: i, aud: m.rev * FX[m.cur] * (m.unit === 'million' ? 0.001 : 1) }))
   .sort((a, b) => b.aud - a.aud || a.order - b.order);
-const curSym = { USD: 'US$', AUD: 'A$', EUR: '€' };
+const curSym = { USD: 'US$', AUD: 'A$', EUR: '€', ZAR: 'R' };
 const revText = (m) => `${curSym[m.cur]}${m.rev.toLocaleString('en-AU')} ${m.unit}`;
 const channels = {
   marketplaces: marketplaceData.map((m) => [m.key, m.name, m.desc]),
@@ -215,8 +220,9 @@ const products = [
 
 const generalFaq = [
   ['What is eComChannels?', 'eComChannels is a multichannel commerce platform for online retailers. Its products cover AI listing optimisation, AI auto shipping, AI graphics, finance auto reconciliation, AI social media outreach, order management and branded storefronts, all working from the same product and order data.'],
-  ['Which sales channels does eComChannels work with?', 'Amazon, TikTok Shop, Temu, Woolworths Everyday Market, BIG W Market, Bunnings Marketplace, Kmart Marketplace, eBay, Etsy, Myer Marketplace, THE ICONIC, Lasoo, Temple & Webster, Baby Bunting and Kogan, plus Shopify, WooCommerce and eComChannels storefronts. Marketplaces built on Mirakl connect through the same integration. MyDeal closed in September 2025 and its sellers now trade on BIG W Market and Everyday Market.'],
+  ['Which sales channels does eComChannels work with?', 'Amazon, TikTok Shop, Temu, Woolworths Everyday Market, BIG W Market, Bunnings Marketplace, Kmart Marketplace, eBay, Etsy, Myer Marketplace, THE ICONIC, Lasoo, Temple & Webster, Baby Bunting and Kogan, plus Shopify, WooCommerce and eComChannels storefronts. It also connects to every marketplace built on Mirakl, including Bunnings, Kmart, JB Hi-Fi, Myer, Country Road Group, Velocity, Decathlon, Baby Bunting, Freedom, Spotlight, Paramount Liquor, CampbellsPlus and Onceit, plus Mirakl marketplaces overseas. MyDeal closed in September 2025 and its sellers now trade on BIG W Market and Everyday Market.'],
   ['Which is the biggest online marketplace in Australia?', 'By the annual revenue of the company behind it, Amazon is the largest, followed by TikTok Shop (ByteDance), Temu (PDD Holdings), Woolworths Group (Everyday Market and BIG W Market) and Wesfarmers (Bunnings and Kmart marketplaces). The full ranking with sources is at https://ecomchannels.com/channels/.'],
+  ['Do you support Mirakl marketplaces?', `Yes. eComChannels connects to any marketplace built on Mirakl through the Mirakl seller API, using the shop API key the marketplace gives you. That covers ${miraklAnz.length} Mirakl marketplaces in Australia and New Zealand and more than ${Math.floor((miraklCount - miraklAnz.length) / 10) * 10} overseas. The full list is at https://ecomchannels.com/channels/#mirakl.`],
   ['Which couriers are supported?', 'Australia Post, StarTrack, CouriersPlease and Allied Express.'],
   ['Is there a free trial?', 'Yes. eComChannels products are currently available on a 30-day free trial. Book a demo or request a trial and our team will set you up and show you around.'],
   ['How do I book a demo?', 'Use the Book a demo page to tell us about your business and choose a preferred time. Our team will confirm the time and walk you through the products live.'],
@@ -306,6 +312,8 @@ ${body}
 `;
 }
 
+const miraklSections = () => `<section id="mirakl"><div class="wrap"><h2>Mirakl marketplaces in Australia and New Zealand</h2><p>eComChannels connects to marketplaces built on <strong>Mirakl</strong> through the Mirakl seller API: offers, stock, prices, orders, shipping and tracking, with images and listing content from the same product data. Any Mirakl marketplace connects with your shop's API key, so new Mirakl marketplaces work as soon as you are approved as a seller.</p>${logoCards(miraklAnz.map(([k, n, d, c]) => [k, n, `${d} ${c}.`]))}</div></section>
+<section class="alt"><div class="wrap faq mirakl-world"><h2>Mirakl marketplaces worldwide</h2><p>The same integration works with Mirakl marketplaces in other countries. Open a region to see the marketplaces (<a href="${MIRAKL_SOURCE}" rel="nofollow noopener">list source</a>).</p>${Object.entries(miraklWorld).map(([r, l]) => `<details><summary><h3>${esc(r)} (${l.length})</h3></summary><ul>${l.map((n) => `<li>${esc(n)}</li>`).join('')}</ul></details>`).join('')}</div></section>`;
 const rankTable = () => `<div class="table-wrap"><table class="rank"><caption>Sales channels ranked by operator revenue</caption><thead><tr><th scope="col">Rank</th><th scope="col">Channel</th><th scope="col">Operated by</th><th scope="col">Annual revenue</th><th scope="col">Source</th></tr></thead><tbody>${marketplaceData.map((m, i) => `<tr><td>${i + 1}</td><td><img src="${logoFile(m.key)}" alt="" width="24" height="24" loading="lazy"> ${esc(m.name)}${m.note ? ` <small>(${esc(m.note)})</small>` : ''}</td><td>${esc(m.operator)}</td><td>${esc(revText(m))} <small>${esc(m.period)}</small></td><td><a href="${esc(m.src)}" rel="nofollow noopener">source</a></td></tr>`).join('')}</tbody></table></div>`;
 const cards = (items, tag = 'h3') => `<div class="grid">${items.map(([t, d]) => `<article class="card"><${tag}>${esc(t)}</${tag}><p>${esc(d)}</p></article>`).join('')}</div>`;
 const faqHtml = (items) => `<div class="faq">${items.map(([q, a]) => `<details><summary><h3>${esc(q)}</h3></summary><p>${esc(a)}</p></details>`).join('')}</div>`;
@@ -368,7 +376,8 @@ ${ctaBand}`,
     lead: 'The Australian marketplaces, web store platforms, couriers and social platforms eComChannels works with, with marketplaces ranked by the size of the company behind them.',
     ld: [{ '@type': 'ItemList', name: 'Australian online sales channels ranked by operator revenue', itemListOrder: 'https://schema.org/ItemListOrderDescending', itemListElement: marketplaceData.map((m, i) => ({ '@type': 'ListItem', position: i + 1, item: { '@type': 'Thing', name: m.name, description: `Operated by ${m.operator}. ${revText(m)} (${m.period}).` } })) }, { '@type': 'ItemList', name: 'Couriers and social platforms supported by eComChannels', itemListElement: [...channels.stores, ...channels.carriers, ...channels.social].map(([, n], i) => ({ '@type': 'ListItem', position: i + 1, name: n })) }],
     body: `<section><div class="wrap"><h2>Australian sales channels ranked by company size</h2><p>Ranked by the latest full-year revenue of the company that operates each channel. Figures are in each company's reporting currency and were converted at approximate exchange rates (US$1 = A$1.53, €1 = A$1.78) for ranking only.</p>${rankTable()}</div></section>
-<section class="alt"><div class="wrap"><h2>Marketplaces</h2>${logoCards(channels.marketplaces)}<p class="note">Marketplaces that run on Mirakl connect through the same integration.</p></div></section>
+<section class="alt"><div class="wrap"><h2>Marketplaces</h2>${logoCards(channels.marketplaces)}<p class="note">Plus every marketplace that runs on Mirakl. <a href="#mirakl">See all ${miraklCount} Mirakl marketplaces</a>.</p></div></section>
+${miraklSections()}
 <section><div class="wrap"><h2>Web stores</h2>${logoCards(channels.stores)}<p class="note">Plus branded stores on the <a href="/products/storefronts/">eComChannels storefront engine</a>.</p></div></section>
 <section class="alt"><div class="wrap"><h2>Couriers</h2>${logoCards(channels.carriers)}<p class="note">See <a href="/products/ai-shipping/">AI auto shipping</a>.</p></div></section>
 <section><div class="wrap"><h2>Social media platforms</h2>${logoRow(channels.social)}<p class="note">See <a href="/products/ai-social-media-marketing/">AI social media outreach</a>.</p></div></section>
@@ -485,6 +494,8 @@ ${products.map((p) => `- [${p.short}](${SITE}/products/${p.slug}/): ${p.summary}
 
 ## Sales channels (ranked by operator revenue)
 ${marketplaceData.map((m, i) => `${i + 1}. ${m.name}, operated by ${m.operator} (${revText(m)}, ${m.period})${m.note ? ' (' + m.note + ')' : ''}`).join('\n')}
+
+Mirakl marketplaces (any Mirakl marketplace connects through the Mirakl seller API): ${miraklAnz.map(([, n, , c]) => `${n} (${c})`).join(', ')}, plus ${miraklCount - miraklAnz.length} overseas: ${Object.values(miraklWorld).flat().join(', ')}.
 
 Web store platforms: ${channels.stores.map(([, n]) => n).join(', ')} and eComChannels storefronts. Couriers: ${channels.carriers.map(([, n]) => n).join(', ')}. Social platforms: ${channels.social.map(([, n]) => n).join(', ')}.
 
