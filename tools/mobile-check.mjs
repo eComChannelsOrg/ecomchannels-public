@@ -22,8 +22,8 @@ for (const path of ['/', '/products/', '/channels/', '/products/ai-shipping/', '
   if (path === '/') { const s = await send('Page.captureScreenshot', { format: 'png' }); (await import('node:fs')).writeFileSync('C:/Users/norep/dev/ecomchannels-website/tools/mlive.png', Buffer.from(s.result.data, 'base64')); }
 }
 await send("Page.navigate",{url:"https://ecomchannels.com/book-a-demo/?type=trial"});await new Promise(r=>setTimeout(r,2500));
-const ft=await send("Runtime.evaluate",{returnByValue:true,awaitPromise:true,expression:`(async()=>{const f=document.getElementById("demo");const pre=f.querySelector("input[value=trial]").checked;f.name.value="Test";f.email.value="t@example.com";f.company.value="TestCo";f.querySelector("input[name=products]").checked=true;f.requestSubmit();await new Promise(r=>setTimeout(r,800));return {trialPreselected:pre,status:document.getElementById("demo-status").textContent.slice(0,60)}})()`});
-console.log("form",JSON.stringify(ft.result.result.value));
+const ft=await send("Runtime.evaluate",{returnByValue:true,awaitPromise:true,expression:`(async()=>{const open=[...document.querySelectorAll("#cal-grid button.open")].length;const slots=[...document.querySelectorAll("#slots button")];slots[0]&&slots[0].click();const f=document.getElementById("demo");const pre=f.querySelector("input[value=trial]").checked;f.name.value="Test";f.email.value="t@example.com";f.company.value="TestCo";f.requestSubmit();await new Promise(r=>setTimeout(r,800));return {openDays:open,slots:slots.length,trialPreselected:pre,chosen:document.getElementById("chosen").textContent,done:document.getElementById("done").className,links:document.querySelectorAll("#done a").length}})()`});
+console.log("booking",JSON.stringify(ft.result.result.value));
 const bws = new WebSocket(ver.webSocketDebuggerUrl);
 await new Promise((r) => bws.addEventListener('open', r));
 bws.send(JSON.stringify({ id: 1, method: 'Browser.close' }));

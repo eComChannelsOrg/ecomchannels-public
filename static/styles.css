@@ -267,6 +267,8 @@ table.rank small{color:var(--muted)}
   .site-header nav{width:100%;flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;margin:0 -4px}
   .site-header nav::-webkit-scrollbar{display:none}
   .site-header nav a{padding:7px 10px;font-size:.9rem;white-space:nowrap}
+  .site-header .wrap{position:relative}
+  .site-header nav a[href="/book-a-demo/"]{position:absolute;top:12px;right:20px;margin:0;padding:7px 12px}
   .hub-ring li{width:46px;height:46px;border-radius:13px}.hub-ring li img{width:32px;height:32px}
   .hub-core{width:116px;height:116px}.hub-core img{width:64px;height:64px}
   .cal-head,.cal-body,.cal-meta{padding-left:16px;padding-right:16px}

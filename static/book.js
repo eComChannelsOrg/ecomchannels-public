@@ -90,7 +90,7 @@
     });
   }
   function updateChosen() {
-    if (selSlot) { chosen.className = 'chosen'; chosen.textContent = '📅 ' + fmtLong(selSlot, userTZ) + (userTZ !== TZ ? ' (' + fmtTime(selSlot, TZ) + ' Melbourne)' : ''); }
+    if (selSlot) { chosen.className = 'chosen'; chosen.textContent = '📅 ' + fmtLong(selSlot, userTZ) + (fmtTime(selSlot, userTZ) !== fmtTime(selSlot, TZ) ? ' (' + fmtTime(selSlot, TZ) + ' Melbourne)' : ''); }
     else { chosen.className = 'chosen empty'; chosen.textContent = selDay ? 'Now choose a time' : 'Pick a date and time in the calendar'; }
   }
   document.getElementById('tz').textContent = 'Times shown in your time zone (' + userTZ.replace(/_/g, ' ') + '). Our team is in Melbourne.';
@@ -111,7 +111,7 @@
     var whenMelb = fmtLong(selSlot, TZ), whenUser = fmtLong(selSlot, userTZ);
     var body = [
       'Booking request: ' + kind,
-      'Time: ' + whenMelb + (userTZ !== TZ ? ' (visitor: ' + whenUser + ')' : ''),
+      'Time: ' + whenMelb + (whenUser !== whenMelb ? ' (visitor: ' + whenUser + ')' : ''),
       '',
       'Name: ' + d.get('name'), 'Email: ' + d.get('email'), 'Company: ' + d.get('company'),
       'Phone: ' + (d.get('phone') || '-'), 'Website: ' + (d.get('website') || '-'),
