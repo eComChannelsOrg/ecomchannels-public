@@ -17,3 +17,4 @@ IndexNow (Bing, Yandex, Seznam, Naver): the key file is static/<key>.txt (key in
 Visuals: `visuals.mjs` holds the hub diagram, before/after comparisons and card visuals. Screenshots: `node tools/shot.mjs <outDir> / /channels/` (local server + headless Edge).
 GEO/agents: every page has an `index.md` twin, plus `/llms.txt`, `/llms-full.txt` and `/agents.md`. `robots.txt` explicitly allows search and AI crawlers (OpenAI, Anthropic, Perplexity, Google, Meta/Muse, xAI Grok, Apple and others).
 Channel ranking: `marketplaceData` in build.mjs (revenue, period and source URL for each operator). Update it after each results season.
+Mobile/desktop: most visitors are on phones. After publishing, run `node tools/responsive-check.mjs` (every sitemap page at 320/390/768/1024/1440px: no sideways scrolling, no text under 12px). Keep tap targets at least 44px and form inputs at 16px on phones (stops iOS zooming in).
